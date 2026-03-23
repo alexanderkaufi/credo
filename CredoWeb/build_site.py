@@ -308,7 +308,7 @@ def render_sidebar(current: Page, pages: list[Page]) -> str:
 
 
 def render_page(page: Page, pages: list[Page]) -> str:
-    show_sidebar = page.slug != "index"
+    show_sidebar = page.slug != "index" and page.slug not in LEGAL_SLUGS
     sidebar = render_sidebar(page, pages) if show_sidebar else ""
     body = render_markdown(page.body_markdown, page)
     stylesheet_href = html.escape(f"{page.prefix}assets/styles.css" if page.prefix else "assets/styles.css")
