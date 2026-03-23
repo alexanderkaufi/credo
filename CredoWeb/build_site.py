@@ -18,11 +18,13 @@ TOP_LEVEL_SLUGS = {
     "index",
     "themen",
     "orthodoxes-glaubensbekenntnis",
-    "orthodoxes-glaubensbekenntnis-verlinkt",
 }
 LEGAL_SLUGS = {
     "impressum",
     "datenschutz",
+}
+HIDDEN_NAV_SLUGS = {
+    "orthodoxes-glaubensbekenntnis-verlinkt",
 }
 
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.*)$")
@@ -284,7 +286,11 @@ def render_markdown(markdown: str, page: Page) -> str:
 def render_sidebar(current: Page, pages: list[Page]) -> str:
     top_pages = [page for page in pages if page.slug in TOP_LEVEL_SLUGS]
     topic_pages = [
-        page for page in pages if page.slug not in TOP_LEVEL_SLUGS and page.slug not in LEGAL_SLUGS
+        page
+        for page in pages
+        if page.slug not in TOP_LEVEL_SLUGS
+        and page.slug not in LEGAL_SLUGS
+        and page.slug not in HIDDEN_NAV_SLUGS
     ]
     top_pages.sort(key=sort_key)
     topic_pages.sort(key=lambda page: page.title.casefold())

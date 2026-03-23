@@ -9,7 +9,6 @@ permalink: "/themen/"
 ## Credo-Texte
 
 - [Orthodoxes Glaubensbekenntnis](/orthodoxes-glaubensbekenntnis/)
-- [Orthodoxes Glaubensbekenntnis (verlinkt)](/orthodoxes-glaubensbekenntnis-verlinkt/)
 
 ## Einzelthemen
 
