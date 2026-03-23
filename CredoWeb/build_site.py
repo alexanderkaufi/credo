@@ -308,6 +308,7 @@ def render_sidebar(current: Page, pages: list[Page]) -> str:
 
 
 def render_page(page: Page, pages: list[Page]) -> str:
+    is_legal_page = page.slug in LEGAL_SLUGS
     show_sidebar = page.slug != "index" and page.slug not in LEGAL_SLUGS
     sidebar = render_sidebar(page, pages) if show_sidebar else ""
     body = render_markdown(page.body_markdown, page)
@@ -317,14 +318,22 @@ def render_page(page: Page, pages: list[Page]) -> str:
     credo_href = html.escape(to_site_href(page, "/orthodoxes-glaubensbekenntnis-verlinkt/"))
     impressum_href = html.escape(to_site_href(page, "/impressum/"))
     datenschutz_href = html.escape(to_site_href(page, "/datenschutz/"))
-    source_label = html.escape(page.source_path.name)
     layout_class = "layout layout-home" if not show_sidebar else "layout"
     shell_class = "page-shell page-shell-home" if page.slug == "index" else "page-shell"
     article_class = "article article-home" if page.slug == "index" else "article article-subpage"
-    footer_source = (
-        f'<p class="page-footer-meta">Quelle: <code>{source_label}</code></p>'
-        if page.slug != "index"
-        else ""
+    header_html = (
+        ""
+        if is_legal_page
+        else f"""
+    <header class="site-header">
+      <a class="brand" href="{home_href}">Glaubensbekenntnis</a>
+      <nav class="site-nav" aria-label="Hauptnavigation">
+        <a href="{home_href}">Start</a>
+        <a href="{themen_href}">Themen</a>
+        <a href="{credo_href}">Verlinktes Credo</a>
+      </nav>
+    </header>
+"""
     )
 
     return f"""<!doctype html>
@@ -337,14 +346,7 @@ def render_page(page: Page, pages: list[Page]) -> str:
 </head>
 <body>
   <div class="{shell_class}">
-    <header class="site-header">
-      <a class="brand" href="{home_href}">Glaubensbekenntnis</a>
-      <nav class="site-nav" aria-label="Hauptnavigation">
-        <a href="{home_href}">Start</a>
-        <a href="{themen_href}">Themen</a>
-        <a href="{credo_href}">Verlinktes Credo</a>
-      </nav>
-    </header>
+    {header_html}
 
     <div class="{layout_class}">
       {sidebar}
@@ -355,7 +357,6 @@ def render_page(page: Page, pages: list[Page]) -> str:
         </article>
 
         <footer class="page-footer">
-          {footer_source}
           <nav class="legal-nav" aria-label="Rechtliches">
             <a href="{impressum_href}">Impressum</a>
             <a href="{datenschutz_href}">Datenschutz</a>
