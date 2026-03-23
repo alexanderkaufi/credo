@@ -308,7 +308,6 @@ def render_sidebar(current: Page, pages: list[Page]) -> str:
 
 
 def render_page(page: Page, pages: list[Page]) -> str:
-    is_legal_page = page.slug in LEGAL_SLUGS
     show_sidebar = page.slug != "index" and page.slug not in LEGAL_SLUGS
     sidebar = render_sidebar(page, pages) if show_sidebar else ""
     body = render_markdown(page.body_markdown, page)
@@ -321,20 +320,6 @@ def render_page(page: Page, pages: list[Page]) -> str:
     layout_class = "layout layout-home" if not show_sidebar else "layout"
     shell_class = "page-shell page-shell-home" if page.slug == "index" else "page-shell"
     article_class = "article article-home" if page.slug == "index" else "article article-subpage"
-    header_html = (
-        ""
-        if is_legal_page
-        else f"""
-    <header class="site-header">
-      <a class="brand" href="{home_href}">Glaubensbekenntnis</a>
-      <nav class="site-nav" aria-label="Hauptnavigation">
-        <a href="{home_href}">Start</a>
-        <a href="{themen_href}">Themen</a>
-        <a href="{credo_href}">Verlinktes Credo</a>
-      </nav>
-    </header>
-"""
-    )
 
     return f"""<!doctype html>
 <html lang="de">
@@ -346,7 +331,14 @@ def render_page(page: Page, pages: list[Page]) -> str:
 </head>
 <body>
   <div class="{shell_class}">
-    {header_html}
+    <header class="site-header">
+      <a class="brand" href="{home_href}">Glaubensbekenntnis</a>
+      <nav class="site-nav" aria-label="Hauptnavigation">
+        <a href="{home_href}">Start</a>
+        <a href="{themen_href}">Themen</a>
+        <a href="{credo_href}">Verlinktes Credo</a>
+      </nav>
+    </header>
 
     <div class="{layout_class}">
       {sidebar}

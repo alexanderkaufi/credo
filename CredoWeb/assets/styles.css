@@ -127,8 +127,7 @@ pre code {
 }
 
 .sidebar,
-.article,
-.page-footer {
+.article {
   border: 1px solid var(--line);
   background: var(--surface);
   backdrop-filter: blur(10px);
@@ -289,10 +288,12 @@ pre code {
 
 .page-footer {
   margin-top: 1rem;
-  padding: 0.85rem 1rem;
-  border-radius: 1rem;
+  padding: 0.15rem 0 0;
   color: var(--muted);
-  background: rgba(250, 253, 255, 0.78);
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+  backdrop-filter: none;
 }
 
 .page-footer p {
