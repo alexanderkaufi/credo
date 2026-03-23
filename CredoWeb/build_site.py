@@ -314,7 +314,6 @@ def render_page(page: Page, pages: list[Page]) -> str:
     stylesheet_href = html.escape(f"{page.prefix}assets/styles.css" if page.prefix else "assets/styles.css")
     home_href = html.escape(to_site_href(page, "/"))
     themen_href = html.escape(to_site_href(page, "/themen/"))
-    credo_href = html.escape(to_site_href(page, "/orthodoxes-glaubensbekenntnis-verlinkt/"))
     impressum_href = html.escape(to_site_href(page, "/impressum/"))
     datenschutz_href = html.escape(to_site_href(page, "/datenschutz/"))
     layout_class = "layout layout-home" if not show_sidebar else "layout"
@@ -336,7 +335,6 @@ def render_page(page: Page, pages: list[Page]) -> str:
       <nav class="site-nav" aria-label="Hauptnavigation">
         <a href="{home_href}">Start</a>
         <a href="{themen_href}">Themen</a>
-        <a href="{credo_href}">Verlinktes Credo</a>
       </nav>
     </header>
 
