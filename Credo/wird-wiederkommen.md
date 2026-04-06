@@ -6,7 +6,7 @@
 
 ## Erklärung
 
-Wenn das Credo sagt: `wird wiederkommen`, dann bekennt es die **Wiederkunft Christi**.
+Wenn das Glaubensbekenntnis sagt: `wird wiederkommen`, dann bekennt es die **Wiederkunft Christi**.
 
 Das bedeutet:
 

@@ -6,7 +6,7 @@
 
 ## Erklärung
 
-Wenn das Credo sagt: **„Licht vom Licht“**, dann spricht es nicht zuerst über sichtbares, materielles Licht, sondern über ein geistliches und göttliches Bild.
+Wenn das Glaubensbekenntnis sagt: **„Licht vom Licht“**, dann spricht es nicht zuerst über sichtbares, materielles Licht, sondern über ein geistliches und göttliches Bild.
 
 Die Kirche benutzt dieses Bild, weil es mehrere Dinge zugleich ausdrücken kann:
 
@@ -37,7 +37,7 @@ Das Bild des Lichts ist biblisch sehr reich. Licht bedeutet:
 - Leben,
 - göttliche Gegenwart.
 
-Wenn das Credo Jesus `Licht vom Licht` nennt, dann sagt es:
+Wenn das Glaubensbekenntnis Jesus `Licht vom Licht` nennt, dann sagt es:
 
 - Der Sohn offenbart den Vater.
 - Der Sohn ist nicht dunkel, fremd oder geringer als der Vater.

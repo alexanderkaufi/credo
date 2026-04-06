@@ -95,7 +95,7 @@ Wenn man das Wort `Glauben` biblisch versteht, dann wird klar:
 - Glaube lebt aus Gottes Treue.
 - Glaube verbindet Wahrheit, Vertrauen und Treue.
 
-Darum ist der Satz `Ich glaube` im Credo nicht zuerst eine schwache Vermutung, sondern ein **festes, vertrauendes und kirchlich getragenes Bekenntnis**.
+Darum ist der Satz `Ich glaube` im Glaubensbekenntnis nicht zuerst eine schwache Vermutung, sondern ein **festes, vertrauendes und kirchlich getragenes Bekenntnis**.
 
 ## Geistliche Bedeutung
 

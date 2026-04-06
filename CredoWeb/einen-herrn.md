@@ -9,11 +9,11 @@ source: "credo/einen-herrn.md"
 
 ## Kurze Zusammenfassung
 
-`Einen Herrn` bedeutet im Credo mehr als einen Ehrentitel für Jesus. Im antiken biblischen Sinn ist `Herr` ein Wort für Herrschaft, Eigentum, Autorität und im biblischen Griechisch oft sogar für den göttlichen Namen selbst. Darum bekennt die Kirche mit `einen Herrn Jesus Christus` nicht bloß einen Lehrer, sondern den **einen göttlichen Herrn**, dem allein letzte Treue, Anbetung und Gehorsam zukommen.
+`Einen Herrn` bedeutet im Glaubensbekenntnis mehr als einen Ehrentitel für Jesus. Im antiken biblischen Sinn ist `Herr` ein Wort für Herrschaft, Eigentum, Autorität und im biblischen Griechisch oft sogar für den göttlichen Namen selbst. Darum bekennt die Kirche mit `einen Herrn Jesus Christus` nicht bloß einen Lehrer, sondern den **einen göttlichen Herrn**, dem allein letzte Treue, Anbetung und Gehorsam zukommen.
 
 ## Erklärung
 
-Wenn das Credo sagt: **„und an den einen Herrn Jesus Christus“**, dann verbindet es zwei gewichtige Aussagen:
+Wenn das Glaubensbekenntnis sagt: **„und an den einen Herrn Jesus Christus“**, dann verbindet es zwei gewichtige Aussagen:
 
 - Jesus ist **Herr**.
 - Jesus ist **der eine Herr**.
@@ -34,7 +34,7 @@ Das zusätzliche Wort `einen` ist ebenfalls wichtig. Es bedeutet:
 - nicht verteilte göttliche Herrschaft auf verschiedene Mächte,
 - sondern **ein Herr**, in dem die Kirche ihre letzte Treue bündelt.
 
-Gerade in der antiken Welt war das ein scharfes Bekenntnis. Es gab viele Herren, viele Götter, viele politische und religiöse Autoritätsansprüche. Das christliche Credo widerspricht all dem: Für die Kirche gibt es **einen Herrn Jesus Christus**.
+Gerade in der antiken Welt war das ein scharfes Bekenntnis. Es gab viele Herren, viele Götter, viele politische und religiöse Autoritätsansprüche. Das christliche Glaubensbekenntnis widerspricht all dem: Für die Kirche gibt es **einen Herrn Jesus Christus**.
 
 ## Die antike biblische Bedeutung des Wortes `Herr`
 
@@ -75,7 +75,7 @@ Weil `Kyrios` in der griechischen Bibel den Gottesnamen trägt, gewinnt das Beke
 - **Epheser 4,5**: Ein Herr, ein Glaube, eine Taufe.
 - **Johannes 20,28**: Thomas bekennt: „Mein Herr und mein Gott!“
 
-Gerade **1 Korinther 8,6** ist für den Credo-Satz besonders wichtig, weil hier die Formel von dem einen Gott und dem einen Herrn besonders klar erscheint.
+Gerade **1 Korinther 8,6** ist für den Glaubensbekenntnis-Satz besonders wichtig, weil hier die Formel von dem einen Gott und dem einen Herrn besonders klar erscheint.
 
 ## Patristische Begründung
 

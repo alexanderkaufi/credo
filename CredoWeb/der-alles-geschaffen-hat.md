@@ -13,7 +13,7 @@ Dieser Satz bekennt Gott als den **Schöpfer von allem**, was existiert. Nichts 
 
 ## Erklärung
 
-Wenn das Credo sagt, dass Gott `alles geschaffen hat, Himmel und Erde, die sichtbare und die unsichtbare Welt`, dann fasst es mit wenigen Worten die ganze Wirklichkeit zusammen.
+Wenn das Glaubensbekenntnis sagt, dass Gott `alles geschaffen hat, Himmel und Erde, die sichtbare und die unsichtbare Welt`, dann fasst es mit wenigen Worten die ganze Wirklichkeit zusammen.
 
 Gemeint ist:
 
@@ -25,14 +25,14 @@ Gemeint ist:
 
 Die Wendung `Himmel und Erde` ist im biblischen Sprachgebrauch eine Weise, die **ganze Schöpfung** zu benennen. Sie meint nicht nur zwei einzelne Bereiche, sondern alles, was oben und unten, geistig und materiell, fern und nah, groß und klein ist.
 
-Die Ergänzung `die sichtbare und die unsichtbare Welt` macht das noch deutlicher. Das Credo will sagen:
+Die Ergänzung `die sichtbare und die unsichtbare Welt` macht das noch deutlicher. Das Glaubensbekenntnis will sagen:
 
 - Gott hat die materielle Welt geschaffen.
 - Gott hat auch die geistige Welt geschaffen.
 - Engel und himmlische Mächte sind Geschöpfe, nicht zweite Götter.
 - Nichts Sichtbares und nichts Unsichtbares entzieht sich Gott als Schöpfer.
 
-Damit grenzt sich das Credo gegen viele Irrtümer ab:
+Damit grenzt sich das Glaubensbekenntnis gegen viele Irrtümer ab:
 
 - gegen die Vorstellung, Materie sei an sich böse;
 - gegen die Vorstellung, die Welt sei aus einem niederen oder fremden Gott hervorgegangen;
@@ -64,7 +64,7 @@ Die Schrift zeigt damit klar: Die ganze Schöpfung hat ihren Ursprung in Gott, w
 
 ### Heiliger Kyrill von Jerusalem
 
-Kyrill widmet diesem Credo-Satz eine eigene Katechese. Er macht deutlich, dass Gott der wirkliche Schöpfer des Himmels und der Erde ist und dass die sichtbare Welt gerade durch ihre Ordnung auf den unsichtbaren Schöpfer hinweist. Für Kyrill ist der Schöpferglaube kein Nebensatz, sondern ein Schutz gegen Götzendienst und falsche Kosmologien.
+Kyrill widmet diesem Glaubensbekenntnis-Satz eine eigene Katechese. Er macht deutlich, dass Gott der wirkliche Schöpfer des Himmels und der Erde ist und dass die sichtbare Welt gerade durch ihre Ordnung auf den unsichtbaren Schöpfer hinweist. Für Kyrill ist der Schöpferglaube kein Nebensatz, sondern ein Schutz gegen Götzendienst und falsche Kosmologien.
 
 ### Heiliger Basilius der Große
 
@@ -82,7 +82,7 @@ Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deu
 
 ## Theologische Bedeutung
 
-Dieser Credo-Satz schützt mehrere zentrale Wahrheiten:
+Dieser Glaubensbekenntnis-Satz schützt mehrere zentrale Wahrheiten:
 
 - Gott allein ist ungeschaffen.
 - Die Welt ist nicht aus Gott herausgeflossen, sondern frei geschaffen.

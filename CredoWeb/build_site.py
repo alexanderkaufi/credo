@@ -331,7 +331,7 @@ def render_page(page: Page, pages: list[Page]) -> str:
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{html.escape(page.title)} | Credo</title>
+  <title>{html.escape(page.title)} | Glaubensbekenntnis</title>
   <link rel="stylesheet" href="{stylesheet_href}">
 </head>
 <body>

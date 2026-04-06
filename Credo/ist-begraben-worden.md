@@ -6,7 +6,7 @@
 
 ## Erklärung
 
-Wenn das Credo sagt: `ist begraben worden`, dann bekennt es mehr als einen äußeren Abschluss der Passionsgeschichte.
+Wenn das Glaubensbekenntnis sagt: `ist begraben worden`, dann bekennt es mehr als einen äußeren Abschluss der Passionsgeschichte.
 
 Das Begräbnis Christi ist wichtig, weil es zeigt:
 
@@ -24,7 +24,7 @@ Denn wer begraben wird,
 - ist nicht nur symbolisch in den Tod hinabgestiegen,
 - sondern hat den Tod wirklich erlitten.
 
-Darum nennt das Credo ausdrücklich auch das Begräbnis.
+Darum nennt das Glaubensbekenntnis ausdrücklich auch das Begräbnis.
 
 ## Warum ist das Begräbnis theologisch wichtig?
 
@@ -35,7 +35,7 @@ Das Begräbnis Christi hat mehrere Bedeutungen:
 - Es zeigt, dass der Sohn Gottes auch die letzte Tiefe menschlicher Sterblichkeit nicht gemieden hat.
 - Es bereitet das Bekenntnis zur Auferstehung vor.
 
-Man kann sagen: Das Grab ist im Credo der Ort, an dem die Kirche bekennt, dass Christus wirklich bis an die Grenze des menschlichen Todes gegangen ist.
+Man kann sagen: Das Grab ist im Glaubensbekenntnis der Ort, an dem die Kirche bekennt, dass Christus wirklich bis an die Grenze des menschlichen Todes gegangen ist.
 
 Gerade deshalb ist `ist begraben worden` eine wichtige Abwehr gegen Irrtümer:
 

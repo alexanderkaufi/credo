@@ -6,7 +6,7 @@
 
 ## Erklärung
 
-Wenn das Credo sagt, dass Christus `in Herrlichkeit` wiederkommen wird, dann beschreibt es die Weise seiner Wiederkunft.
+Wenn das Glaubensbekenntnis sagt, dass Christus `in Herrlichkeit` wiederkommen wird, dann beschreibt es die Weise seiner Wiederkunft.
 
 Beim ersten Kommen kam Christus:
 
@@ -55,7 +55,7 @@ Gerade diese Wortfelder zeigen: Herrlichkeit ist nicht bloß schönes Licht, son
 
 ## Herrlichkeit im Zusammenhang der Wiederkunft
 
-Im Credo bedeutet `in Herrlichkeit` vor allem:
+Im Glaubensbekenntnis bedeutet `in Herrlichkeit` vor allem:
 
 - Christus kommt nicht verborgen, sondern offenbar.
 - Christus kommt nicht als Angeklagter, sondern als Herr.

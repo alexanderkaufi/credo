@@ -13,7 +13,7 @@ source: "credo/er-wurde-fuer-uns-gekreuzigt.md"
 
 ## Erklärung
 
-Wenn das Credo sagt: `Er wurde für uns gekreuzigt`, dann verbindet es zwei Aussagen:
+Wenn das Glaubensbekenntnis sagt: `Er wurde für uns gekreuzigt`, dann verbindet es zwei Aussagen:
 
 - `für uns` erklärt den Sinn des Kreuzes,
 - `gekreuzigt` benennt die wirkliche Art seines Leidens und Sterbens.

@@ -2,7 +2,7 @@
 
 ## Kurze Zusammenfassung
 
-`Himmel` bedeutet in der Bibel nicht immer genau dasselbe. Das Wort kann den **sichtbaren Himmel**, also den Raum über der Erde, meinen, aber auch die **himmlische Wirklichkeit**, in der Gottes Herrlichkeit offenbart wird. Im Credo gehört der Himmel zur Schöpfung und ist daher nicht göttlich. Zugleich verweist er über sich hinaus auf Gott, der den Himmel geschaffen hat, ihn erfüllt und doch von ihm nicht begrenzt wird.
+`Himmel` bedeutet in der Bibel nicht immer genau dasselbe. Das Wort kann den **sichtbaren Himmel**, also den Raum über der Erde, meinen, aber auch die **himmlische Wirklichkeit**, in der Gottes Herrlichkeit offenbart wird. Im Glaubensbekenntnis gehört der Himmel zur Schöpfung und ist daher nicht göttlich. Zugleich verweist er über sich hinaus auf Gott, der den Himmel geschaffen hat, ihn erfüllt und doch von ihm nicht begrenzt wird.
 
 ## Erklärung
 
@@ -21,7 +21,7 @@ In der Bibel ist das Wort weiter und reicher. Je nach Zusammenhang kann `Himmel`
 - den Ort der offenbarten göttlichen Herrlichkeit,
 - in übertragenem Sinn auch die Welt Gottes gegenüber der Erde.
 
-Darum ist es wichtig, `Himmel` nicht zu flach zu verstehen. Wenn das Credo vom Himmel spricht, meint es nicht bloß eine schöne Kulisse über der Erde, sondern einen grundlegenden Teil der ganzen Schöpfung.
+Darum ist es wichtig, `Himmel` nicht zu flach zu verstehen. Wenn das Glaubensbekenntnis vom Himmel spricht, meint es nicht bloß eine schöne Kulisse über der Erde, sondern einen grundlegenden Teil der ganzen Schöpfung.
 
 Zugleich gilt: Der Himmel ist **geschaffen**. Er ist also nicht selbst göttlich. Auch wenn die Schrift vom Himmel als Gottes Thron, Wohnung oder Herrlichkeitsbereich spricht, heißt das nicht, dass Gott auf einen Raum beschränkt wäre. Gott ist größer als der Himmel, denn auch der Himmel ist sein Werk.
 

@@ -6,7 +6,7 @@
 
 ## Erklärung
 
-Wenn das Credo vom Heiligen Geist sagt, er sei der, `der gesprochen hat durch die Propheten`, dann bekennt die Kirche mehr als nur eine fromme Erinnerung an die Vergangenheit.
+Wenn das Glaubensbekenntnis vom Heiligen Geist sagt, er sei der, `der gesprochen hat durch die Propheten`, dann bekennt die Kirche mehr als nur eine fromme Erinnerung an die Vergangenheit.
 
 Sie sagt damit:
 
@@ -82,9 +82,9 @@ Sie sind vor allem Menschen, die:
 
 Darum ist `Prophet` im biblischen Sinn größer als bloß `Zukunftsdeuter`.
 
-Wenn das Credo `die Propheten` nennt, denkt es besonders an das prophetische Zeugnis der alttestamentlichen Schrift. Gemeint ist: Der Heilige Geist, den die Kirche bekennt und empfängt, ist derselbe Geist, der schon in Mose, David, Jesaja, Jeremia, Ezechiel, Daniel und den übrigen Propheten sprach.
+Wenn das Glaubensbekenntnis `die Propheten` nennt, denkt es besonders an das prophetische Zeugnis der alttestamentlichen Schrift. Gemeint ist: Der Heilige Geist, den die Kirche bekennt und empfängt, ist derselbe Geist, der schon in Mose, David, Jesaja, Jeremia, Ezechiel, Daniel und den übrigen Propheten sprach.
 
-## Warum nennt das Credo gerade die Propheten?
+## Warum nennt das Glaubensbekenntnis gerade die Propheten?
 
 Diese Formulierung schützt eine grundlegende Wahrheit:
 
@@ -107,7 +107,7 @@ Darum ist dieser Satz auch ein stilles Nein zu jeder Verkleinerung des Alten Tes
 
 - **2 Petrus 1,20-21**: Prophetie kam nicht aus menschlichem Willen hervor, sondern Menschen haben von Gott her geredet, getrieben vom Heiligen Geist.
 
-Diese Stelle ist die direkteste biblische Zusammenfassung des Credo-Satzes. Sie sagt zugleich:
+Diese Stelle ist die direkteste biblische Zusammenfassung des Glaubensbekenntnis-Satzes. Sie sagt zugleich:
 
 - die Propheten reden wirklich,
 - ihr Wort kommt aber nicht bloß aus ihnen selbst,
@@ -150,7 +150,7 @@ Diese Stellen zeigen:
 
 Kyrill sagt in seiner siebzehnten Katechese ausdrücklich, die Kirche habe im Glaubensbekenntnis überliefert, dass wir `an einen Heiligen Geist, den Tröster, glauben, der durch die Propheten gesprochen hat`. Er erklärt dazu, dass es **nicht einen Geist im Gesetz und in den Propheten und einen anderen in Evangelien und Aposteln** gibt, sondern ein und derselbe Heilige Geist die göttlichen Schriften beider Testamente gesprochen hat.
 
-Gerade für dieses Kapitel ist Kyrill besonders wichtig, weil er die Credo-Formel selbst auslegt und die Einheit der Offenbarung betont.
+Gerade für dieses Kapitel ist Kyrill besonders wichtig, weil er die Glaubensbekenntnis-Formel selbst auslegt und die Einheit der Offenbarung betont.
 
 ### Heiliger Basilius der Große
 

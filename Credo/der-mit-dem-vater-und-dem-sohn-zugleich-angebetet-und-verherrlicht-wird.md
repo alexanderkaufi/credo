@@ -6,7 +6,7 @@
 
 ## Erklärung
 
-Wenn das Credo vom Heiligen Geist sagt, dass er `mit dem Vater und dem Sohn zugleich angebetet und verherrlicht wird`, dann ist das eine der stärksten Aussagen über seine Göttlichkeit.
+Wenn das Glaubensbekenntnis vom Heiligen Geist sagt, dass er `mit dem Vater und dem Sohn zugleich angebetet und verherrlicht wird`, dann ist das eine der stärksten Aussagen über seine Göttlichkeit.
 
 Die Kirche sagt damit:
 
@@ -100,7 +100,7 @@ Darum kann man sagen:
 
 Die Formel wurde besonders wichtig im Streit mit denen, die den Heiligen Geist verkleinerten und ihn nicht als wahrhaft göttlich bekannten.
 
-Das Credo antwortet darauf nicht bloß mit einer abstrakten Definition, sondern mit einer liturgischen und kirchlichen Wahrheit:
+Das Glaubensbekenntnis antwortet darauf nicht bloß mit einer abstrakten Definition, sondern mit einer liturgischen und kirchlichen Wahrheit:
 
 - Wie die Kirche betet, so glaubt sie.
 - Wenn sie den Heiligen Geist mit dem Vater und dem Sohn anbetet, dann glaubt sie ihn als Gott.
@@ -111,7 +111,7 @@ Darum ist dieser Satz nicht bloß Schmuck, sondern dogmatische Klarheit in Gebet
 
 ### Die Schriftgrundlage der trinitarischen Ehre
 
-Die Bibel verwendet nicht immer schon dieselbe ausgeformte Sprache wie das spätere Credo. Aber aus ihrem Gesamtzeugnis ergibt sich diese Aussage sehr deutlich. Das ist eine theologische Folgerung aus den Schriftstellen.
+Die Bibel verwendet nicht immer schon dieselbe ausgeformte Sprache wie das spätere Glaubensbekenntnis. Aber aus ihrem Gesamtzeugnis ergibt sich diese Aussage sehr deutlich. Das ist eine theologische Folgerung aus den Schriftstellen.
 
 ### Taufformel und ungeteilter Gottesname
 
@@ -137,7 +137,7 @@ Diese Stellen zeigen:
 - **2 Korinther 13,13**: Die Gnade des Herrn Jesus Christus, die Liebe Gottes und die Gemeinschaft des Heiligen Geistes sei mit euch allen.
 - **Offenbarung 1,4-5**: Eine triadische Segensform verbindet Vater, Geist und Sohn.
 
-Diese Linien zeigen: Die Kirche denkt, betet und segnet trinitarisch. Aus dieser Schriftwirklichkeit wächst die spätere Credo-Formel organisch hervor.
+Diese Linien zeigen: Die Kirche denkt, betet und segnet trinitarisch. Aus dieser Schriftwirklichkeit wächst die spätere Glaubensbekenntnis-Formel organisch hervor.
 
 ## Patristische Begründung
 
@@ -169,7 +169,7 @@ Gregor argumentiert mit großer Schärfe: Wenn der Heilige Geist vergöttlicht, 
 Johannes von Damaskus fasst die Lehre von der einen Anbetung der Dreifaltigkeit zusammen. Vater, Sohn und Heiliger Geist werden nicht getrennt verehrt, sondern in der Einheit der einen göttlichen Natur angebetet. So bewahrt er zugleich:
 
 - die Einheit Gottes,
-- die Unterscheidung der Personen,
+- die Unterscheidung der Hypostasen,
 - die gleiche Ehre des Geistes mit Vater und Sohn.
 
 Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
@@ -218,7 +218,7 @@ Im orthodoxen Sinn bedeutet es vielmehr:
 1. Bibelstellen:  
    Matthäus 28,19; Apostelgeschichte 5,3-4; 1 Korinther 2,10-11; 1 Korinther 12,4-6; 2 Korinther 3,17; 2 Korinther 13,13; Offenbarung 1,4-5.
 
-2. Erstes Konzil von Konstantinopel (381), Credo  
+2. Erstes Konzil von Konstantinopel (381), Glaubensbekenntnis  
    https://www.newadvent.org/fathers/3808.htm
 
 3. Heiliger Kyrill von Jerusalem, *Catechetical Lecture 16*  

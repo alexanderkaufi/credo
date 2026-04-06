@@ -6,7 +6,7 @@
 
 ## Erklärung
 
-Wenn das Credo sagt: **„durch ihn ist alles geschaffen“**, dann spricht es nicht nur über die Erlösung, sondern über die Schöpfung selbst.
+Wenn das Glaubensbekenntnis sagt: **„durch ihn ist alles geschaffen“**, dann spricht es nicht nur über die Erlösung, sondern über die Schöpfung selbst.
 
 Gemeint ist:
 
@@ -72,7 +72,7 @@ Athanasius sagt, dass der gute Vater alle Dinge **durch sein ewiges Wort** gesch
 
 ### Heiliger Johannes von Damaskus
 
-Johannes von Damaskus fasst die orthodoxe Lehre so, dass der Vater alles durch den Sohn im Heiligen Geist wirkt. Die Schöpfung ist also kein isolierter Akt einer Person ohne die anderen, sondern ein Werk des einen dreieinigen Gottes. Zugleich bleibt die personale Ordnung gewahrt: vom Vater, durch den Sohn, im Heiligen Geist.
+Johannes von Damaskus fasst die orthodoxe Lehre so, dass der Vater alles durch den Sohn im Heiligen Geist wirkt. Die Schöpfung ist also kein isolierter Akt einer einzelnen Hypostase ohne die anderen, sondern ein Werk des einen dreieinigen Gottes. Zugleich bleibt die Ordnung der Hypostasen gewahrt: vom Vater, durch den Sohn, im Heiligen Geist.
 
 Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
@@ -95,7 +95,7 @@ Darum ist diese Formel ein Schutz gegen:
 
 ## Verhältnis zu `der alles geschaffen hat`
 
-Die Aussage `der alles geschaffen hat` bezieht sich im Credo zunächst auf den Vater als den einen Schöpfer von Himmel und Erde.
+Die Aussage `der alles geschaffen hat` bezieht sich im Glaubensbekenntnis zunächst auf den Vater als den einen Schöpfer von Himmel und Erde.
 
 Die Aussage `durch ihn ist alles geschaffen` ergänzt das nicht als Widerspruch, sondern als Präzisierung:
 

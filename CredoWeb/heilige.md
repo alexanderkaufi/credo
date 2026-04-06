@@ -9,11 +9,11 @@ source: "credo/heilige.md"
 
 ## Kurze Zusammenfassung
 
-`Heilige` bedeutet im Credo, dass die Kirche **Gott gehört**, von Christus geheiligt und vom Heiligen Geist belebt wird. Sie ist heilig nicht deshalb, weil jedes ihrer Glieder schon vollkommen wäre, sondern weil ihr Herr heilig ist, weil in ihr die heiligen Mysterien geschenkt werden und weil sie Menschen zur Heiligkeit führt. Die Kirche ist also nicht bloß eine Gemeinschaft religiöser Menschen, sondern der geheiligte Leib Christi.
+`Heilige` bedeutet im Glaubensbekenntnis, dass die Kirche **Gott gehört**, von Christus geheiligt und vom Heiligen Geist belebt wird. Sie ist heilig nicht deshalb, weil jedes ihrer Glieder schon vollkommen wäre, sondern weil ihr Herr heilig ist, weil in ihr die heiligen Mysterien geschenkt werden und weil sie Menschen zur Heiligkeit führt. Die Kirche ist also nicht bloß eine Gemeinschaft religiöser Menschen, sondern der geheiligte Leib Christi.
 
 ## Erklärung
 
-Wenn das Credo von der Kirche sagt, sie sei `heilige`, dann ist das ein sehr starkes Wort.
+Wenn das Glaubensbekenntnis von der Kirche sagt, sie sei `heilige`, dann ist das ein sehr starkes Wort.
 
 Es bedeutet nicht bloß:
 
@@ -132,7 +132,7 @@ Diese Stellen zeigen:
 
 ### Heiliger Kyrill von Jerusalem
 
-Kyrill spricht im Credo ausdrücklich von der `einen heiligen katholischen Kirche`. Er beschreibt diese Kirche als die wahre Kirche, in der der Gläubige wiedergeboren wird, in der die Wahrheit bewahrt wird und in der jede Form der Tugend und geistlichen Gabe zu finden ist. Für Kyrill ist die Kirche heilig, weil sie nicht bloß Menschen sammelt, sondern Menschen zu Gott führt und heiligt.
+Kyrill spricht im Glaubensbekenntnis ausdrücklich von der `einen heiligen katholischen Kirche`. Er beschreibt diese Kirche als die wahre Kirche, in der der Gläubige wiedergeboren wird, in der die Wahrheit bewahrt wird und in der jede Form der Tugend und geistlichen Gabe zu finden ist. Für Kyrill ist die Kirche heilig, weil sie nicht bloß Menschen sammelt, sondern Menschen zu Gott führt und heiligt.
 
 ### Heiliger Johannes Chrysostomus
 
@@ -163,7 +163,7 @@ Die Aussage `heilige` schützt mehrere Wahrheiten:
 - Sünde der Glieder hebt die Heiligkeit der Kirche nicht auf.
 - Die Kirche ist Ort der Reinigung, Heiligung und Vergöttlichung.
 
-Darum ist `heilige` im Credo ein Wort des Glaubens und der Hoffnung.
+Darum ist `heilige` im Glaubensbekenntnis ein Wort des Glaubens und der Hoffnung.
 
 ## Liturgische und geistliche Bedeutung
 

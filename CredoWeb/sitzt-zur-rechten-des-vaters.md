@@ -13,7 +13,7 @@ source: "credo/sitzt-zur-rechten-des-vaters.md"
 
 ## Erklärung
 
-Wenn das Credo sagt: `sitzt zur Rechten des Vaters`, dann spricht es von der Erhöhung Christi nach seiner Auferstehung und Himmelfahrt.
+Wenn das Glaubensbekenntnis sagt: `sitzt zur Rechten des Vaters`, dann spricht es von der Erhöhung Christi nach seiner Auferstehung und Himmelfahrt.
 
 Damit ist gemeint:
 

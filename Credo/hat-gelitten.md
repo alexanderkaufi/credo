@@ -6,7 +6,7 @@
 
 ## Erklärung
 
-Wenn das Credo sagt: `hat gelitten`, dann bekennt es die Wirklichkeit der Passion Christi.
+Wenn das Glaubensbekenntnis sagt: `hat gelitten`, dann bekennt es die Wirklichkeit der Passion Christi.
 
 Damit ist gemeint:
 

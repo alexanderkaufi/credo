@@ -6,7 +6,7 @@ permalink: "/themen/"
 
 # Themenübersicht
 
-## Credo-Texte
+## Glaubensbekenntnis-Texte
 
 - [Orthodoxes Glaubensbekenntnis](/orthodoxes-glaubensbekenntnis/)
 

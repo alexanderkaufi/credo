@@ -1,13 +1,13 @@
-# Credo Prompt
+# Glaubensbekenntnis-Prompt
 
 ## Zweck
 
-Wir arbeiten in diesem Projekt an einer **orthodoxen, gut verständlichen und theologisch sauberen Ausarbeitung des Nizäno-Konstantinopolitanischen Glaubensbekenntnisses** in deutscher Sprache. Ziel ist es, das Credo **Schritt für Schritt** auszulegen, zu erklären und mit Bibel, Kirchenvätern, Liturgie und geistlichem Leben zu verbinden.
+Wir arbeiten in diesem Projekt an einer **orthodoxen, gut verständlichen und theologisch sauberen Ausarbeitung des Nizäno-Konstantinopolitanischen Glaubensbekenntnisses** in deutscher Sprache. Ziel ist es, das Glaubensbekenntnis **Schritt für Schritt** auszulegen, zu erklären und mit Bibel, Kirchenvätern, Liturgie und geistlichem Leben zu verbinden.
 
 ## Grundlinie
 
 - Grundlage ist das **orthodoxe Glaubensbekenntnis ohne filioque**.
-- Wir arbeiten **credo-orientiert**, also immer entlang einzelner Aussagen oder Formulierungen des Glaubensbekenntnisses.
+- Wir arbeiten **glaubensbekenntnis-orientiert**, also immer entlang einzelner Aussagen oder Formulierungen des Glaubensbekenntnisses.
 - Jede Passage soll nicht nur dogmatisch erklärt, sondern auch **biblisch, patristisch, liturgisch und geistlich** erschlossen werden.
 - Der Ton soll **orthodox, klar, ruhig, lehrhaft und verständlich** sein.
 - Die Texte sollen **nicht polemisch**, sondern erklärend, einladend und präzise sein.
@@ -36,7 +36,7 @@ Wir arbeiten in diesem Projekt an einer **orthodoxen, gut verständlichen und th
 
 ## Feste inhaltliche Regeln
 
-- Das Credo wird als **Glaube der Kirche** behandelt, nicht als bloße Privatmeinung.
+- Das Glaubensbekenntnis wird als **Glaube der Kirche** behandelt, nicht als bloße Privatmeinung.
 - Wenn die Formulierung `Wir glauben` vorkommt, kann sie als **ursprüngliche konziliare Form** erklärt werden.
 - Wenn die Formulierung `Ich glaube` vorkommt, kann sie als **persönliche liturgische und taufbezogene Form** erklärt werden.
 - Beide Formen sind nicht gegeneinander auszuspielen, sondern sollen **orthodox eingeordnet** werden.
@@ -44,7 +44,7 @@ Wir arbeiten in diesem Projekt an einer **orthodoxen, gut verständlichen und th
 
 ## Arbeitsweise pro Kapitel oder Datei
 
-Wenn ein neuer Abschnitt zum Credo geschrieben wird, dann arbeite möglichst in dieser Reihenfolge:
+Wenn ein neuer Abschnitt zum Glaubensbekenntnis geschrieben wird, dann arbeite möglichst in dieser Reihenfolge:
 
 1. **Kurze Zusammenfassung**  
    Ein kurzer Abschnitt mit den wichtigsten Aussagen in einfacher Sprache.
@@ -79,25 +79,25 @@ Wenn ein neuer Abschnitt zum Credo geschrieben wird, dann arbeite möglichst in 
   `kleinbuchstaben-mit-bindestrichen.md`.
 - Verwende nach Möglichkeit **ASCII-Dateinamen**, also z. B. `ae`, `oe`, `ue`, `ss` statt Umlauten oder Sonderzeichen.
 - Vermeide bei Umbenennungen bloße **Groß-/Kleinschreibungsänderungen** vorhandener Dateien, weil das in diesem Synology/macOS-Setup Konfliktdateien erzeugen kann. Wenn nötig, wähle einen eindeutig anderen Slug.
-- Interne Verweise zwischen Credo-Dateien sollen als **normale relative Markdown-Links** gesetzt werden, damit sie in Obsidian, auf einer Website und später in einer App weiterverwendet werden können.
+- Interne Verweise zwischen Glaubensbekenntnis-Dateien sollen als **normale relative Markdown-Links** gesetzt werden, damit sie in Obsidian, auf einer Website und später in einer App weiterverwendet werden können.
 - Wenn fremdsprachige Zitate verwendet werden, liefere möglichst eine **deutsche Übersetzung**.
 - Wenn die Übersetzung nicht offiziell ist, vermerke kurz, dass es eine **eigene Übersetzung** ist.
 - Bibelstellen sollen knapp und sinnvoll eingebunden werden, nicht wahllos gesammelt.
 
 ## Was wir hier konkret machen
 
-Wir bauen im Ordner `credo` nach und nach eine **konsistente orthodoxe Credo-Sammlung** auf:
+Wir bauen im Ordner `credo` nach und nach eine **konsistente orthodoxe Sammlung zum Glaubensbekenntnis** auf:
 
 - den Wortlaut des orthodoxen Glaubensbekenntnisses,
 - erklärende Einzeldateien zu wichtigen Formulierungen,
 - gut belegte theologische Kurzkapitel,
-- spätere Ausarbeitungen zu einzelnen Artikeln des Credos.
+- spätere Ausarbeitungen zu einzelnen Artikeln des Glaubensbekenntnisses.
 
 Jede neue Datei soll so geschrieben werden, dass sie **in Sprache, Aufbau und theologischer Linie** zu den bereits vorhandenen Dateien passt.
 
 ## Kurzform für weitere Arbeit
 
-Wenn du eine neue Credo-Datei schreibst, dann:
+Wenn du eine neue Datei zum Glaubensbekenntnis schreibst, dann:
 
 - orientiere dich am orthodoxen Glaubensbekenntnis ohne filioque,
 - schreibe klar, ruhig und verständlich,

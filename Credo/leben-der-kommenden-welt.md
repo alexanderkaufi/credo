@@ -2,11 +2,11 @@
 
 ## Kurze Zusammenfassung
 
-`Leben der kommenden Welt` bedeutet im Credo das **ewige Leben im kommenden Zeitalter Gottes**. Gemeint ist nicht bloß endlose Fortdauer, sondern die vollendete Gemeinschaft mit Gott nach Auferstehung und Gericht. `Welt` meint hier nicht zuerst den Planeten, sondern die kommende Weltordnung oder den kommenden `Äon`. Dieses Leben ist ohne Verderben, ohne Tod und ohne Trennung von Gott. Es beginnt schon jetzt im Glauben, wird aber erst dann vollendet.
+`Leben der kommenden Welt` bedeutet im Glaubensbekenntnis das **ewige Leben im kommenden Zeitalter Gottes**. Gemeint ist nicht bloß endlose Fortdauer, sondern die vollendete Gemeinschaft mit Gott nach Auferstehung und Gericht. `Welt` meint hier nicht zuerst den Planeten, sondern die kommende Weltordnung oder den kommenden `Äon`. Dieses Leben ist ohne Verderben, ohne Tod und ohne Trennung von Gott. Es beginnt schon jetzt im Glauben, wird aber erst dann vollendet.
 
 ## Erklärung
 
-Wenn das Credo sagt: `Wir erwarten ... das Leben der kommenden Welt`, dann setzt es den letzten Hoffnungspunkt des christlichen Glaubens.
+Wenn das Glaubensbekenntnis sagt: `Wir erwarten ... das Leben der kommenden Welt`, dann setzt es den letzten Hoffnungspunkt des christlichen Glaubens.
 
 Die Kirche bekennt damit:
 
@@ -30,7 +30,7 @@ Gemeint ist vielmehr:
 
 ## Was bedeutet `Leben` hier?
 
-`Leben` bedeutet im Credo mehr als bloße Existenz.
+`Leben` bedeutet im Glaubensbekenntnis mehr als bloße Existenz.
 
 Denn auch ein bloßes Weiterdauern wäre noch nicht das Leben, das die Kirche hier erwartet.
 
@@ -52,7 +52,7 @@ Darum ist `ewiges Leben` im christlichen Sinn nicht zuerst eine sehr lange Zeit,
 
 Hier ist ein sprachlicher Hinweis besonders wichtig.
 
-Im griechischen Credo steht:
+Im griechischen Glaubensbekenntnis steht:
 
 - `ζωὴ τοῦ μέλλοντος αἰῶνος`
 
@@ -101,7 +101,7 @@ Die Kirche lebt also zugleich:
 
 ## Zusammenhang mit Auferstehung und Gericht
 
-Das `Leben der kommenden Welt` folgt im Credo nicht zufällig auf:
+Das `Leben der kommenden Welt` folgt im Glaubensbekenntnis nicht zufällig auf:
 
 - `Auferstehung der Toten`
 
@@ -216,7 +216,7 @@ Die Aussage `Leben der kommenden Welt` schützt mehrere Wahrheiten:
 - Das christliche Leben ist auf Vollendung ausgerichtet.
 - Hoffnung auf das Kommende beginnt schon jetzt im Leben der Kirche.
 
-Darum ist dieser Satz im Credo nicht bloß ein schöner Schluss, sondern die letzte Öffnung des ganzen Glaubens auf sein Ziel hin.
+Darum ist dieser Satz im Glaubensbekenntnis nicht bloß ein schöner Schluss, sondern die letzte Öffnung des ganzen Glaubens auf sein Ziel hin.
 
 ## Liturgische und geistliche Bedeutung
 

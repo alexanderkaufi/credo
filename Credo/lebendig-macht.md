@@ -2,7 +2,7 @@
 
 ## Kurze Zusammenfassung
 
-`Lebendig macht` bedeutet im biblischen und orthodoxen Sinn weit mehr als bloß biologisches Leben. Der Heilige Geist schenkt Leben, erhält Leben, erneuert die Schöpfung, heilt die durch die Sünde verdunkelte Seele, macht in der Taufe neu und führt zur Auferstehung. Wenn das Credo den Geist als den bekennt, der `lebendig macht`, dann bekennt es ihn als den göttlichen Lebensspender.
+`Lebendig macht` bedeutet im biblischen und orthodoxen Sinn weit mehr als bloß biologisches Leben. Der Heilige Geist schenkt Leben, erhält Leben, erneuert die Schöpfung, heilt die durch die Sünde verdunkelte Seele, macht in der Taufe neu und führt zur Auferstehung. Wenn das Glaubensbekenntnis den Geist als den bekennt, der `lebendig macht`, dann bekennt es ihn als den göttlichen Lebensspender.
 
 ## Erklärung
 
@@ -14,7 +14,7 @@ Im heutigen Sprachgebrauch kann `lebendig machen` einfach heißen: etwas in Bewe
 - Er richtet auf, was durch Sünde und Tod gefallen ist.
 - Er macht den Menschen fähig, in Gemeinschaft mit Gott zu leben.
 
-Darum ist hier nicht nur an körperliches Leben gedacht. Natürlich gehört auch das dazu, denn alles Leben kommt letztlich von Gott. Aber im Credo geht es um mehr: um das **wahre Leben**, das von Gott kommt, den Menschen innerlich erneuert und ihn zur Auferstehung und zum ewigen Leben führt.
+Darum ist hier nicht nur an körperliches Leben gedacht. Natürlich gehört auch das dazu, denn alles Leben kommt letztlich von Gott. Aber im Glaubensbekenntnis geht es um mehr: um das **wahre Leben**, das von Gott kommt, den Menschen innerlich erneuert und ihn zur Auferstehung und zum ewigen Leben führt.
 
 Wenn der Heilige Geist `lebendig macht`, dann wirkt er:
 
@@ -98,7 +98,7 @@ Die Aussage `lebendig macht` schützt mehrere zentrale Wahrheiten:
 - Das christliche Leben ist nicht nur Moral, sondern Teilnahme am göttlichen Leben.
 - Die Auferstehung ist nicht fremd zum Wirken des Geistes, sondern eng mit ihm verbunden.
 
-Darum bedeutet `lebendig macht` im Credo:
+Darum bedeutet `lebendig macht` im Glaubensbekenntnis:
 
 - Der Geist schafft Leben.
 - Der Geist erhält Leben.

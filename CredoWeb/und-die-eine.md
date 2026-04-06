@@ -9,17 +9,17 @@ source: "credo/und-die-eine.md"
 
 ## Kurze Zusammenfassung
 
-`Und die eine` meint im Credo die **eine Kirche Christi**. `Eine` ist nicht bloß eine Zahl, sondern ein Bekenntnis zur Einheit des Leibes Christi im einen Glauben, in der einen Taufe und im einen Heiligen Geist. Die Kirche ist über viele Orte ausgebreitet, aber sie ist nicht viele Kirchen im eigentlichen Sinn. Sie ist eine, weil ihr Herr einer ist und weil ihr Leben aus demselben Geist kommt.
+`Und die eine` meint im Glaubensbekenntnis die **eine Kirche Christi**. `Eine` ist nicht bloß eine Zahl, sondern ein Bekenntnis zur Einheit des Leibes Christi im einen Glauben, in der einen Taufe und im einen Heiligen Geist. Die Kirche ist über viele Orte ausgebreitet, aber sie ist nicht viele Kirchen im eigentlichen Sinn. Sie ist eine, weil ihr Herr einer ist und weil ihr Leben aus demselben Geist kommt.
 
 ## Erklärung
 
-Die Worte `und die eine` stehen im Credo nicht für sich allein. Sie führen weiter zu:
+Die Worte `und die eine` stehen im Glaubensbekenntnis nicht für sich allein. Sie führen weiter zu:
 
 - `und die eine, heilige, katholische und apostolische Kirche`
 
 Wenn wir also `die eine` erklären, dann sprechen wir über die **Einheit der Kirche**.
 
-Das Credo meint damit nicht bloß:
+Das Glaubensbekenntnis meint damit nicht bloß:
 
 - dass Christen nett zusammenhalten sollten,
 - oder dass Einheit ein schönes Ideal wäre,
@@ -37,7 +37,7 @@ Vielmehr bekennt die Kirche:
 
 ## Was bedeutet `eine`?
 
-`Eine` bedeutet im Credo mehrere Dinge zugleich:
+`Eine` bedeutet im Glaubensbekenntnis mehrere Dinge zugleich:
 
 - **eine im Haupt**: Christus ist nicht Haupt vieler konkurrierender Leiber, sondern der eine Herr seiner einen Kirche.
 - **eine im Geist**: Derselbe Heilige Geist belebt die ganze Kirche.
@@ -88,7 +88,7 @@ Im orthodoxen Verständnis ist diese Einheit nicht bloß unsichtbar oder nur gef
 
 - **Epheser 4,4-6**: `Ein Leib und ein Geist ... ein Herr, ein Glaube, eine Taufe, ein Gott und Vater aller.`
 
-Diese Stelle steht dem Credo besonders nahe. Sie zeigt: Die Einheit der Kirche ist nicht zuerst menschlich gemacht, sondern in Gottes eigenem Heilswerk begründet.
+Diese Stelle steht dem Glaubensbekenntnis besonders nahe. Sie zeigt: Die Einheit der Kirche ist nicht zuerst menschlich gemacht, sondern in Gottes eigenem Heilswerk begründet.
 
 ### Die Kirche als ein Leib
 
@@ -117,7 +117,7 @@ Diese Einheit ist nicht bloß organisatorisch. Sie ist Abbild und Frucht der Gem
 
 ### Heiliger Kyrill von Jerusalem
 
-Kyrill spricht ausdrücklich vom Credo-Artikel `in eine heilige katholische Kirche`. Für ihn ist diese Kirche nicht eine beliebige religiöse Vereinigung, sondern die wahre Kirche, in der der Gläubige wiedergeboren wird und in der er bleiben soll. Kyrill macht deutlich: Die Einheit der Kirche ist so wesentlich, dass der Täufling nicht einfach irgendeine Versammlung suchen soll, sondern die Kirche, die im Glaubensbekenntnis bekannt wird.
+Kyrill spricht ausdrücklich vom Glaubensbekenntnis-Artikel `in eine heilige katholische Kirche`. Für ihn ist diese Kirche nicht eine beliebige religiöse Vereinigung, sondern die wahre Kirche, in der der Gläubige wiedergeboren wird und in der er bleiben soll. Kyrill macht deutlich: Die Einheit der Kirche ist so wesentlich, dass der Täufling nicht einfach irgendeine Versammlung suchen soll, sondern die Kirche, die im Glaubensbekenntnis bekannt wird.
 
 ### Heiliger Johannes Chrysostomus
 

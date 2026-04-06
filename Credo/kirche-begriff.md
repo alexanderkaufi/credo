@@ -2,11 +2,11 @@
 
 ## Kurze Zusammenfassung
 
-`Kirche` bedeutet im Credo nicht zuerst ein Gebäude oder eine religiöse Organisation, sondern die **von Gott zusammengerufene Gemeinschaft in Christus**. Die Kirche ist Leib Christi, Volk Gottes und Tempel des Heiligen Geistes. Sie besteht aus Menschen, die durch den Glauben, die Taufe, die apostolische Lehre und das liturgische Leben in Christus geeint werden. Darum ist die Kirche mehr als Verein, Idee oder bloße Menschenversammlung.
+`Kirche` bedeutet im Glaubensbekenntnis nicht zuerst ein Gebäude oder eine religiöse Organisation, sondern die **von Gott zusammengerufene Gemeinschaft in Christus**. Die Kirche ist Leib Christi, Volk Gottes und Tempel des Heiligen Geistes. Sie besteht aus Menschen, die durch den Glauben, die Taufe, die apostolische Lehre und das liturgische Leben in Christus geeint werden. Darum ist die Kirche mehr als Verein, Idee oder bloße Menschenversammlung.
 
 ## Erklärung
 
-Wenn das Credo von der `Kirche` spricht, dann meint es nicht zuerst:
+Wenn das Glaubensbekenntnis von der `Kirche` spricht, dann meint es nicht zuerst:
 
 - ein Kirchengebäude,
 - eine bloße Institution,
@@ -112,7 +112,7 @@ Darum ist Kirche nicht nur ein Name, sondern ein Leben.
 
 ## Zusammenhang mit `eine, heilige, katholische und apostolische`
 
-Im Credo steht nicht nur `Kirche`, sondern:
+Im Glaubensbekenntnis steht nicht nur `Kirche`, sondern:
 
 - `die eine, heilige, katholische und apostolische Kirche`
 
@@ -205,7 +205,7 @@ Die Aussage `Kirche` schützt mehrere Wahrheiten:
 - Heil geschieht nicht nur innerlich, sondern auch kirchlich und sakramental.
 - Der Heilige Geist wirkt nicht losgelöst von der Kirche, sondern belebt sie.
 
-Darum ist `Kirche` im Credo ein Grundwort des christlichen Lebens.
+Darum ist `Kirche` im Glaubensbekenntnis ein Grundwort des christlichen Lebens.
 
 ## Liturgische und geistliche Bedeutung
 

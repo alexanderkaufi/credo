@@ -2,7 +2,7 @@
 
 ## Kurze Zusammenfassung
 
-`Einen Gott` bedeutet biblisch und orthodox: Es gibt nicht viele Götter, Mächte oder letzte Prinzipien, sondern **nur den einen wahren Gott**, den Schöpfer und Herrn aller Dinge. Diese Einheit steht nicht gegen die Heilige Trinität. Der eine Gott wird im Credo als der Vater bekannt, und zugleich werden der Sohn und der Heilige Geist nicht von der Gottheit getrennt, sondern mit dem Vater gemeinsam göttlich bekannt und angebetet.
+`Einen Gott` bedeutet biblisch und orthodox: Es gibt nicht viele Götter, Mächte oder letzte Prinzipien, sondern **nur den einen wahren Gott**, den Schöpfer und Herrn aller Dinge. Diese Einheit steht nicht gegen die Heilige Trinität. Der eine Gott wird im Glaubensbekenntnis als der Vater bekannt, und zugleich werden der Sohn und der Heilige Geist nicht von der Gottheit getrennt, sondern mit dem Vater gemeinsam göttlich bekannt und angebetet.
 
 ## Erklärung
 
@@ -16,9 +16,11 @@ Im antiken biblischen Zusammenhang ist `einen Gott` daher nicht bloß eine Zahle
 - Gott ist **der Ursprung von allem**, was ist.
 - Darum gebührt ihm **ungeteilte Anbetung und Treue**.
 
-Im orthodoxen Verständnis ist diese Aussage nicht gegen den Sohn und den Heiligen Geist gerichtet. Das Credo sagt nicht: `Nur der Vater ist göttlich, der Sohn und der Geist aber nicht.` Vielmehr bekennt es den **einen Gott** so, wie er sich offenbart hat: als **Vater, Sohn und Heiliger Geist**.
+Im orthodoxen Verständnis ist diese Aussage nicht gegen den Sohn und den Heiligen Geist gerichtet. Das Glaubensbekenntnis sagt nicht: `Nur der Vater ist göttlich, der Sohn und der Geist aber nicht.` Vielmehr bekennt es den **einen Gott** so, wie er sich offenbart hat: als **Vater, Sohn und Heiliger Geist**.
 
-Dass im Credo nach den Worten `an den einen Gott` direkt `den Vater` folgt, ist theologisch wichtig. Die Väter sprechen hier oft vom Vater als **Ursprung**, **Quelle** oder **Prinzip ohne Ursprung** innerhalb der Trinität. Das bedeutet aber nicht, dass der Sohn und der Heilige Geist geringer wären. Der Sohn ist wahrer Gott vom wahren Gott, und der Heilige Geist ist Herr und Lebensspender. Die Einheit Gottes bleibt also ganz gewahrt, gerade weil die drei Personen **nicht drei Götter**, sondern **ein Gott** sind.
+Die orthodoxe Kirche bekennt den einen Gott in drei Hypostasen, die im westlichen Sprachgebrauch oft mit `Personen` übersetzt werden: Vater, Sohn und Heiliger Geist. `Hypostasen` ist der genauere orthodoxe Begriff, weil er besser ausdrückt, dass Gott einer ist und doch Vater, Sohn und Heiliger Geist wirklich unterschieden sind, ohne dass daraus drei Götter werden.
+
+Dass im Glaubensbekenntnis nach den Worten `an den einen Gott` direkt `den Vater` folgt, ist theologisch wichtig. Die Väter sprechen hier oft vom Vater als **Ursprung**, **Quelle** oder **Prinzip ohne Ursprung** innerhalb der Trinität. Das bedeutet aber nicht, dass der Sohn und der Heilige Geist geringer wären. Der Sohn ist wahrer Gott vom wahren Gott, und der Heilige Geist ist Herr und Lebensspender. Die Einheit Gottes bleibt also ganz gewahrt, gerade weil die drei Hypostasen **nicht drei Götter**, sondern **ein Gott** sind.
 
 ## Biblische Grundlage
 
@@ -56,11 +58,11 @@ Kyrill legt als erste Grundlage des Glaubens dar, dass **Gott einer ist**, unges
 
 ### Heiliger Basilius der Große
 
-Basilius erklärt, dass wir bei der Unterscheidung der Personen dennoch an der **Monarchie** festhalten. Mit anderen Worten: Wir zerteilen die Gottheit nicht in mehrere göttliche Wesen. Der Sohn ist nicht ein zweiter Gott neben dem Vater, sondern teilt mit ihm dieselbe göttliche Natur. Dasselbe gilt für den Heiligen Geist.
+Basilius erklärt, dass wir bei der Unterscheidung der Hypostasen dennoch an der **Einheit Gottes** festhalten. Mit anderen Worten: Wir zerteilen die Gottheit nicht in mehrere göttliche Wesen. Der Sohn ist nicht ein zweiter Gott neben dem Vater, sondern teilt mit ihm dieselbe göttliche Natur. Dasselbe gilt für den Heiligen Geist.
 
 ### Heiliger Gregor von Nazianz
 
-Gregor sagt, die Kirche ehre die **Monarchie**, aber nicht so, als wäre Gott nur eine einzelne Person. Vielmehr ist die göttliche Einheit eine Einheit der Natur, der Herrlichkeit und des göttlichen Lebens in Vater, Sohn und Heiligem Geist.
+Gregor sagt, die Kirche ehre die **Einheit Gottes**, aber nicht so, als wäre Gott nur eine einzige Hypostase. Vielmehr ist die göttliche Einheit eine Einheit der Natur, der Herrlichkeit und des göttlichen Lebens in Vater, Sohn und Heiligem Geist.
 
 ### Heiliger Johannes von Damaskus
 
@@ -76,7 +78,7 @@ Der Satz `an den einen Gott` schützt mehrere zentrale Wahrheiten zugleich:
 - gegen **Dualismus**: Es gibt nicht zwei ewige Gegenspieler, etwa Gut und Böse als gleich starke Prinzipien.
 - gegen **Götzendienst**: Keine Macht der Welt darf an Gottes Stelle treten.
 - gegen **Arianismus**: Der Sohn steht nicht außerhalb der wahren Gottheit.
-- gegen **tritheistische Missverständnisse**: Vater, Sohn und Heiliger Geist sind nicht drei getrennte Götter.
+- gegen **tritheistische Missverständnisse**: Die drei Hypostasen sind nicht drei getrennte Götter.
 
 So hält die Kirche fest: Der Gott Abrahams, Isaaks und Jakobs, der Schöpfer des Himmels und der Erde, ist derselbe Gott, der sich in seinem Sohn offenbart und seinen Heiligen Geist sendet.
 
@@ -97,7 +99,7 @@ Wer `an den einen Gott` glaubt, lebt nicht zerrissen zwischen verschiedenen letz
 
 - dass der Sohn und der Heilige Geist keine wahre Gottheit hätten;
 - dass die Trinität aufgehoben würde;
-- dass Gott nur eine einzelne Person wäre;
+- dass Gott nur eine einzelne Hypostase wäre;
 - dass christlicher Glaube bloß eine abstrakte Ein-Gott-Lehre wäre.
 
 `Einen Gott` bedeutet vielmehr:
@@ -109,6 +111,8 @@ Wer `an den einen Gott` glaubt, lebt nicht zerrissen zwischen verschiedenen letz
 - **eine trinitarische Offenbarung**.
 
 ## Quellen
+
+### Allgemeine Quellen
 
 1. Bibelstellen:  
    Deuteronomium 6,4; Deuteronomium 32,39; Jesaja 45,5-6; Maleachi 2,10; Matthäus 28,19; Johannes 17,3; 1 Korinther 8,4-6; Epheser 4,4-6; Jakobus 2,19.
@@ -133,3 +137,25 @@ Wer `an den einen Gott` glaubt, lebt nicht zerrissen zwischen verschiedenen letz
 
 8. Heiliger Johannes von Damaskus, *An Exposition of the Orthodox Faith, Book I*  
    https://www.newadvent.org/fathers/33041.htm
+
+### Zur Begriffsklärung von `Hypostase`
+
+9. Heiliger Basilius der Große, *Letter 38* - zur Unterscheidung von `ousia` und `hypostasis`  
+   https://www.newadvent.org/fathers/3202038.htm
+
+10. Heiliger Basilius der Große, *Letter 214* - zur sprachlichen und theologischen Präzisierung des Begriffs  
+    https://www.newadvent.org/fathers/3202214.htm
+
+11. Heiliger Gregor von Nyssa, *On "Not Three Gods"* - zur Einheit Gottes bei wirklicher Unterschiedenheit der Hypostasen  
+    https://www.newadvent.org/fathers/2905.htm
+
+12. Heiliger Johannes von Damaskus, *An Exposition of the Orthodox Faith, Book I* - zur Formel der einen Gottheit in drei Hypostasen  
+    https://www.newadvent.org/fathers/33041.htm
+
+13. Orthodox Church in America, *The Three Divine Persons* - zur Unterscheidung von Wesen und Hypostase  
+    https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/the-holy-trinity/the-three-divine-persons
+
+### Querverweise zur Unterscheidung von Wesen und `Hypostasen`
+
+- [Eines Wesens mit dem Vater](eines-wesens-mit-dem-vater.md) - zur Unterscheidung von Wesen und Hypostasen.
+- [An den Heiligen Geist](an-den-heiligen-geist.md) - zur vollen Gottheit des Heiligen Geistes innerhalb der einen Gottheit.

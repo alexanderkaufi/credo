@@ -9,11 +9,11 @@ source: "credo/himmel-und-erde-die-sichtbare-und-die-unsichtbare-welt.md"
 
 ## Kurze Zusammenfassung
 
-Dieser Credo-Satz bekennt die **ganze Schöpfung** in einem Zug. `Himmel und Erde` meint im biblischen Sprachgebrauch nicht nur zwei Orte, sondern alles Geschaffene. `Die sichtbare und die unsichtbare Welt` erklärt das noch genauer: Gott ist Schöpfer sowohl der materiellen als auch der geistigen Wirklichkeit. Darum ist weder die sichtbare Welt profan noch die unsichtbare Welt göttlich. Alles Geschaffene kommt von Gott und steht unter seiner Vorsehung.
+Dieser Glaubensbekenntnis-Satz bekennt die **ganze Schöpfung** in einem Zug. `Himmel und Erde` meint im biblischen Sprachgebrauch nicht nur zwei Orte, sondern alles Geschaffene. `Die sichtbare und die unsichtbare Welt` erklärt das noch genauer: Gott ist Schöpfer sowohl der materiellen als auch der geistigen Wirklichkeit. Darum ist weder die sichtbare Welt profan noch die unsichtbare Welt göttlich. Alles Geschaffene kommt von Gott und steht unter seiner Vorsehung.
 
 ## Erklärung
 
-Wenn das Credo sagt: **„Himmel und Erde, die sichtbare und die unsichtbare Welt“**, dann will es nicht bloß eine Liste von Bereichen aufzählen. Es will die **Fülle der Schöpfung** bekennen.
+Wenn das Glaubensbekenntnis sagt: **„Himmel und Erde, die sichtbare und die unsichtbare Welt“**, dann will es nicht bloß eine Liste von Bereichen aufzählen. Es will die **Fülle der Schöpfung** bekennen.
 
 Im biblischen Sprachgebrauch ist `Himmel und Erde` eine Formel für die **ganze Wirklichkeit der Schöpfung**. Gemeint ist:
 
@@ -30,7 +30,7 @@ Die zusätzliche Formulierung `die sichtbare und die unsichtbare Welt` macht deu
 - geistige Ordnungen,
 - die verborgene Tiefe der Schöpfung.
 
-Damit sagt das Credo zweierlei zugleich:
+Damit sagt das Glaubensbekenntnis zweierlei zugleich:
 
 - Die sichtbare Welt ist wirklich von Gott gewollt und gut.
 - Die unsichtbare Welt ist wirklich vorhanden, aber ebenfalls geschaffen und nicht göttlich.
@@ -57,7 +57,7 @@ Diese Stellen zeigen: `Himmel und Erde` ist keine poetische Nebensache, sondern 
 - **Apostelgeschichte 14,15**: Der lebendige Gott hat Himmel, Erde, Meer und alles darin gemacht.
 - **Offenbarung 4,11**: Alles ist durch Gottes Willen geschaffen worden.
 
-Gerade **Kolosser 1,16** ist für diesen Credo-Satz besonders wichtig, weil hier die Formel `sichtbar und unsichtbar` ausdrücklich vorkommt.
+Gerade **Kolosser 1,16** ist für diesen Glaubensbekenntnis-Satz besonders wichtig, weil hier die Formel `sichtbar und unsichtbar` ausdrücklich vorkommt.
 
 ## Patristische Begründung
 
@@ -67,7 +67,7 @@ Kyrill erklärt, dass Gott der Schöpfer von Himmel und Erde ist und dass die si
 
 ### Heiliger Basilius der Große
 
-Basilius macht in seinen *Hexaemeron*-Homilien deutlich, dass man beim Nachdenken über die Schöpfung nicht nur an die sichtbare Welt denken darf. Vor der Beschreibung der materiellen Welt erinnert er an eine geistige, unsichtbare Ordnung. Damit hilft er, den zweiten Teil des Credo-Satzes konkret zu verstehen.
+Basilius macht in seinen *Hexaemeron*-Homilien deutlich, dass man beim Nachdenken über die Schöpfung nicht nur an die sichtbare Welt denken darf. Vor der Beschreibung der materiellen Welt erinnert er an eine geistige, unsichtbare Ordnung. Damit hilft er, den zweiten Teil des Glaubensbekenntnis-Satzes konkret zu verstehen.
 
 ### Heiliger Athanasius der Große
 

@@ -2,11 +2,11 @@
 
 ## Kurze Zusammenfassung
 
-`Auferstehung der Toten` bedeutet im Credo, dass Gott am Ende **die wirklich Gestorbenen** auferwecken wird. Gemeint ist nicht bloß das Weiterleben der Seele, sondern die Auferweckung des ganzen Menschen. Der Leib wird nicht einfach weggeworfen, sondern verwandelt und in neuer Weise lebendig gemacht. Diese Hoffnung gründet ganz in der Auferstehung Christi: Weil er auferstanden ist, werden auch die Toten auferstehen.
+`Auferstehung der Toten` bedeutet im Glaubensbekenntnis, dass Gott am Ende **die wirklich Gestorbenen** auferwecken wird. Gemeint ist nicht bloß das Weiterleben der Seele, sondern die Auferweckung des ganzen Menschen. Der Leib wird nicht einfach weggeworfen, sondern verwandelt und in neuer Weise lebendig gemacht. Diese Hoffnung gründet ganz in der Auferstehung Christi: Weil er auferstanden ist, werden auch die Toten auferstehen.
 
 ## Erklärung
 
-Wenn das Credo sagt: `Wir erwarten die Auferstehung der Toten`, dann spricht es nicht nur von Trost angesichts des Todes, sondern von einer grundlegenden Wahrheit des christlichen Glaubens.
+Wenn das Glaubensbekenntnis sagt: `Wir erwarten die Auferstehung der Toten`, dann spricht es nicht nur von Trost angesichts des Todes, sondern von einer grundlegenden Wahrheit des christlichen Glaubens.
 
 Die Kirche bekennt damit:
 
@@ -52,7 +52,7 @@ Darum ist Auferstehung mehr als Rückkehr. Sie ist Verwandlung in ein Leben, das
 - deren Leib zerfallen ist,
 - die aus menschlicher Sicht nicht mehr zurückkehren können.
 
-Das Credo spricht nicht nur von:
+Das Glaubensbekenntnis spricht nicht nur von:
 
 - geistlich Toten,
 - innerlich Entfremdeten,
@@ -122,7 +122,7 @@ Darum bleibt die Identität gewahrt, aber der Zustand ist neu.
 
 ## Zusammenhang mit Gericht und ewigem Leben
 
-Die Auferstehung der Toten ist im Credo eng mit den nächsten Aussagen verbunden:
+Die Auferstehung der Toten ist im Glaubensbekenntnis eng mit den nächsten Aussagen verbunden:
 
 - Gericht,
 - und Leben der kommenden Welt.

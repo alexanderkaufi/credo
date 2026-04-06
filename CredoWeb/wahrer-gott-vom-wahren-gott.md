@@ -13,7 +13,7 @@ source: "credo/wahrer-gott-vom-wahren-gott.md"
 
 ## Erklärung
 
-Wenn das Credo sagt: **„wahrer Gott vom wahren Gott“**, dann will es jede Abschwächung ausschließen.
+Wenn das Glaubensbekenntnis sagt: **„wahrer Gott vom wahren Gott“**, dann will es jede Abschwächung ausschließen.
 
 Gemeint ist:
 
@@ -31,7 +31,7 @@ Darum sagt die Kirche mit dieser Formel:
 - Der Sohn ist vom Vater.
 - Und der Sohn ist ebenso wahrer Gott.
 
-Die Kirche schärft damit das Bekenntnis bewusst. Es genügt nicht zu sagen, dass der Sohn `göttlich` oder `gottähnlich` sei. Das Credo sagt ausdrücklich: **wahrer Gott**.
+Die Kirche schärft damit das Bekenntnis bewusst. Es genügt nicht zu sagen, dass der Sohn `göttlich` oder `gottähnlich` sei. Das Glaubensbekenntnis sagt ausdrücklich: **wahrer Gott**.
 
 ## Unterschied zu `Gott von Gott`
 
@@ -86,7 +86,7 @@ Diese Stellen zeigen: Der Sohn ist nicht nur mit Gott verbunden, sondern steht a
 
 ### Erstes Konzil von Nizäa
 
-Das nizänische Credo von 325 enthält ausdrücklich die Formel: **„very God of very God“**. Das Konzil wollte damit jede Zweideutigkeit ausschließen. Der Sohn ist nicht nur `Gott` in einem abgeschwächten Sinn, sondern **wahrer Gott**.
+Das nizänische Glaubensbekenntnis von 325 enthält ausdrücklich die Formel: **„very God of very God“**. Das Konzil wollte damit jede Zweideutigkeit ausschließen. Der Sohn ist nicht nur `Gott` in einem abgeschwächten Sinn, sondern **wahrer Gott**.
 
 ### Heiliger Athanasius der Große
 
@@ -94,7 +94,7 @@ Athanasius kämpft gerade gegen die Idee, der Sohn sei nur durch Teilnahme oder 
 
 ### Heiliger Kyrill von Jerusalem
 
-Kyrill bekennt den Sohn als `Gott von Gott` und `Licht vom Licht` und ordnet ihn klar auf die Seite der göttlichen Wirklichkeit, nicht der geschaffenen Wesen. Seine Katechesen helfen zu sehen, dass diese Credo-Formeln nicht poetisch, sondern dogmatisch präzise gemeint sind.
+Kyrill bekennt den Sohn als `Gott von Gott` und `Licht vom Licht` und ordnet ihn klar auf die Seite der göttlichen Wirklichkeit, nicht der geschaffenen Wesen. Seine Katechesen helfen zu sehen, dass diese Glaubensbekenntnis-Formeln nicht poetisch, sondern dogmatisch präzise gemeint sind.
 
 ### Heiliger Gregor Thaumaturgus
 
@@ -108,7 +108,7 @@ Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deu
 
 ## Historischer Hinweis
 
-Im Credo von Nizäa 325 stehen die Formeln:
+Im Glaubensbekenntnis von Nizäa 325 stehen die Formeln:
 
 - `Gott von Gott`
 - `Licht vom Licht`
@@ -163,10 +163,10 @@ Im orthodoxen Sinn bedeutet es vielmehr:
 1. Bibelstellen:  
    Johannes 1,1; Johannes 1,18; Johannes 5,18; Johannes 10,30; Johannes 14,9; Johannes 17,3; Hebräer 1,3; 1 Johannes 5,20.
 
-2. Erstes Konzil von Nizäa, Credo von 325  
+2. Erstes Konzil von Nizäa, Glaubensbekenntnis von 325  
    https://www.newadvent.org/fathers/3801.htm
 
-3. Erstes Konzil von Konstantinopel, Credo von 381  
+3. Erstes Konzil von Konstantinopel, Glaubensbekenntnis von 381  
    https://www.newadvent.org/fathers/3808.htm
 
 4. Catholic Encyclopedia, *Nicene Creed*  

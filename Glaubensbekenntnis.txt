@@ -18,7 +18,7 @@
 
 ## 2. Einleitung
 
-2.1 **Warum das Credo als Struktur?** (Kürze, Verbindlichkeit, kirchliche Rezeption)  
+2.1 **Warum das Glaubensbekenntnis als Struktur?** (Kürze, Verbindlichkeit, kirchliche Rezeption)  
 2.2 **Orthodoxe Hermeneutik:** Schrift – Tradition – Konzilien – Liturgie (als Einheit)  
 2.3 **Begriffe:** Offenbarung, Dogma, Mysterium, Theologie vs. Ökonomie (Gottes Sein vs. Gottes Handeln)  
 2.4 **Textgrundlage:** Wortlaut des Credos (als Anhang; im Fließtext nur abschnittsweise zitieren)
@@ -178,7 +178,7 @@
 
 ## 5. Schluss
 
-5.1 Zusammenfassung: Credo als „Kurzform der ganzen Theologie“  
+5.1 Zusammenfassung: Glaubensbekenntnis als „Kurzform der ganzen Theologie“  
 5.2 Ausblick: Konsequenzen für Ethos, Gemeinde, persönliche Praxis
 
 ## 6. Anhang
@@ -194,7 +194,7 @@
 
 ## 7. Mini-Tabelle als Schreibsteuerung
 
-|Credo-Passage|Kapitel|Kernbegriff|Ergebnis (1 Satz)|
+|Glaubensbekenntnis-Passage|Kapitel|Kernbegriff|Ergebnis (1 Satz)|
 |---|---|---|---|
 |„einen Gott … Vater“|1–2|Trinität/Ursprung|Wer Gott ist und wie der Glaube ihn benennt|
 |„Schöpfer …“|3|Schöpfung|Welt als Gabe und Ort der Heiligung|

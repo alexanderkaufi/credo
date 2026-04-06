@@ -2,11 +2,11 @@
 
 ## Kurze Zusammenfassung
 
-`Eingeborenen Sohn` bedeutet im Credo, dass Jesus Christus **nicht einer von vielen Söhnen** und nicht ein adoptierter oder geschaffener Sohn ist, sondern der **einzige und natürliche Sohn Gottes**. Er ist vom Vater **ewig** und **vor aller Zeit** gezeugt, nicht gemacht. Wir werden Kinder Gottes durch Gnade; er ist Sohn **von Natur**. So schützt dieses Wort die wahre Gottheit Christi und seine einzigartige Beziehung zum Vater.
+`Eingeborenen Sohn` bedeutet im Glaubensbekenntnis, dass Jesus Christus **nicht einer von vielen Söhnen** und nicht ein adoptierter oder geschaffener Sohn ist, sondern der **einzige und natürliche Sohn Gottes**. Er ist vom Vater **ewig** und **vor aller Zeit** gezeugt, nicht gemacht. Wir werden Kinder Gottes durch Gnade; er ist Sohn **von Natur**. So schützt dieses Wort die wahre Gottheit Christi und seine einzigartige Beziehung zum Vater.
 
 ## Erklärung
 
-Wenn das Credo Jesus Christus den `eingeborenen Sohn` nennt, dann spricht es eine der tiefsten Aussagen des christlichen Glaubens aus.
+Wenn das Glaubensbekenntnis Jesus Christus den `eingeborenen Sohn` nennt, dann spricht es eine der tiefsten Aussagen des christlichen Glaubens aus.
 
 Damit ist gemeint:
 
@@ -23,7 +23,7 @@ Darum muss man unterscheiden:
 - Wir sind Kinder Gottes **durch Gnade und Annahme**.
 - Christus ist Sohn Gottes **von Natur**.
 
-Diese Unterscheidung ist entscheidend. Wenn Christus nur Sohn wäre wie wir, dann wäre er nicht der eingeborene Sohn. Wenn er bloß Geschöpf wäre, könnte er uns nicht in die wahre Gemeinschaft mit Gott hineinführen. Gerade deshalb nennt das Credo ihn `eingeborenen Sohn`.
+Diese Unterscheidung ist entscheidend. Wenn Christus nur Sohn wäre wie wir, dann wäre er nicht der eingeborene Sohn. Wenn er bloß Geschöpf wäre, könnte er uns nicht in die wahre Gemeinschaft mit Gott hineinführen. Gerade deshalb nennt das Glaubensbekenntnis ihn `eingeborenen Sohn`.
 
 ## Die antike biblische Bedeutung des Ausdrucks
 

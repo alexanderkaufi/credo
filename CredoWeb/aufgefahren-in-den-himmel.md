@@ -13,7 +13,7 @@ source: "credo/aufgefahren-in-den-himmel.md"
 
 ## Erklärung
 
-Wenn das Credo sagt: `aufgefahren in den Himmel`, dann bekennt es die Himmelfahrt des auferstandenen Herrn.
+Wenn das Glaubensbekenntnis sagt: `aufgefahren in den Himmel`, dann bekennt es die Himmelfahrt des auferstandenen Herrn.
 
 Damit ist gemeint:
 

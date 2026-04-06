@@ -13,7 +13,7 @@ source: "credo/suenden.md"
 
 ## Erklärung
 
-Wenn das Credo von der `Vergebung der Sünden` spricht, dann setzt es voraus, dass `Sünden` wirklich ernst sind.
+Wenn das Glaubensbekenntnis von der `Vergebung der Sünden` spricht, dann setzt es voraus, dass `Sünden` wirklich ernst sind.
 
 Sünde bedeutet nicht bloß:
 
@@ -280,7 +280,7 @@ Für das geistliche Leben bedeutet dieses Wort:
 - Beichte ist nicht bloß Pflicht, sondern Beginn der Heilung.
 - Kampf gegen die Sünde ist Kampf um das wahre Leben.
 
-Wer `Sünden` im Credo ernst nimmt, lernt, warum Vergebung, Umkehr und Heil so zentral sind.
+Wer `Sünden` im Glaubensbekenntnis ernst nimmt, lernt, warum Vergebung, Umkehr und Heil so zentral sind.
 
 ## Missverständnisse klären
 

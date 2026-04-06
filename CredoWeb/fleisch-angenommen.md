@@ -13,7 +13,7 @@ source: "credo/fleisch-angenommen.md"
 
 ## Erklärung
 
-Wenn das Credo sagt, dass der Sohn `Fleisch angenommen` hat, dann spricht es von der **Inkarnation**, also von der wirklichen Menschwerdung des Wortes Gottes.
+Wenn das Glaubensbekenntnis sagt, dass der Sohn `Fleisch angenommen` hat, dann spricht es von der **Inkarnation**, also von der wirklichen Menschwerdung des Wortes Gottes.
 
 Damit ist gemeint:
 

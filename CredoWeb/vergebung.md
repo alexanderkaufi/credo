@@ -9,11 +9,11 @@ source: "credo/vergebung.md"
 
 ## Kurze Zusammenfassung
 
-`Vergebung` bedeutet im Credo die wirkliche Vergebung der Sünden durch Gott in Christus. Sie ist in der Taufe groß und grundlegend, weil dort der Mensch gereinigt, neu geboren und in die Kirche eingegliedert wird. Aber Vergebung wird im orthodoxen Sinn nicht auf die Taufe reduziert. Nach der Taufe gibt es weiter Umkehr, Beichte, Gebet und kirchliche Heilung. Wo in diesem Kapitel keine direkte Quelle vorliegt, ist das ausdrücklich als `Vermutung` markiert.
+`Vergebung` bedeutet im Glaubensbekenntnis die wirkliche Vergebung der Sünden durch Gott in Christus. Sie ist in der Taufe groß und grundlegend, weil dort der Mensch gereinigt, neu geboren und in die Kirche eingegliedert wird. Aber Vergebung wird im orthodoxen Sinn nicht auf die Taufe reduziert. Nach der Taufe gibt es weiter Umkehr, Beichte, Gebet und kirchliche Heilung. Wo in diesem Kapitel keine direkte Quelle vorliegt, ist das ausdrücklich als `Vermutung` markiert.
 
 ## Erklärung
 
-Wenn das Credo sagt:
+Wenn das Glaubensbekenntnis sagt:
 
 - `eine Taufe zur Vergebung der Sünden`
 
@@ -39,11 +39,11 @@ Zum griechischen Wortfeld gehört besonders `aphesis`, also:
 - Freigabe,
 - Befreiung von Schuld.
 
-Darum ist Vergebung im Credo nicht nur inneres Gefühl, sondern wirkliche göttliche Handlung.
+Darum ist Vergebung im Glaubensbekenntnis nicht nur inneres Gefühl, sondern wirkliche göttliche Handlung.
 
 ## Die Taufe und die Vergebung der Sünden
 
-Das Credo verbindet Vergebung ausdrücklich mit der Taufe, weil die Taufe der große sakramentale Anfang des neuen Lebens ist.
+Das Glaubensbekenntnis verbindet Vergebung ausdrücklich mit der Taufe, weil die Taufe der große sakramentale Anfang des neuen Lebens ist.
 
 In der Taufe:
 
@@ -59,7 +59,7 @@ Darum ist die Taufe nicht bloß Symbol für Vergebung, sondern wirklicher Ort de
 
 Hier ist die wichtige Klarstellung, um die du gebeten hast:
 
-Es wäre **zu eng**, den Credo-Satz so zu verstehen, als gäbe es Vergebung **nur** in der Taufe und danach keine Vergebung mehr.
+Es wäre **zu eng**, den Glaubensbekenntnis-Satz so zu verstehen, als gäbe es Vergebung **nur** in der Taufe und danach keine Vergebung mehr.
 
 Das orthodoxe Verständnis ist feiner:
 
@@ -80,9 +80,9 @@ sondern:
 - Tränen der Reue,
 - Rückkehr zur Taufgnade.
 
-Darum reicht es nicht, `Vergebung` im Credo nur als Hinweis auf ein vergangenes Taufereignis zu lesen. Vergebung bleibt eine lebendige Wirklichkeit im Leben der Kirche.
+Darum reicht es nicht, `Vergebung` im Glaubensbekenntnis nur als Hinweis auf ein vergangenes Taufereignis zu lesen. Vergebung bleibt eine lebendige Wirklichkeit im Leben der Kirche.
 
-## Warum sagt das Credo trotzdem gerade `zur Vergebung der Sünden`?
+## Warum sagt das Glaubensbekenntnis trotzdem gerade `zur Vergebung der Sünden`?
 
 Hier muss man zwischen **direkt belegbaren Gründen** und **Vermutungen** unterscheiden.
 
@@ -90,11 +90,11 @@ Hier muss man zwischen **direkt belegbaren Gründen** und **Vermutungen** unters
 
 - Die Formulierung ist tief biblisch. **Apostelgeschichte 2,38** verbindet Taufe und Vergebung direkt.
 - Auch **Apostelgeschichte 22,16** und **Titus 3,5** verbinden Taufe, Reinigung und neues Leben.
-- Kyrill von Jerusalem verwendet dieselbe Credo-Formel in seinen Taufkatechesen.
+- Kyrill von Jerusalem verwendet dieselbe Glaubensbekenntnis-Formel in seinen Taufkatechesen.
 
 Darum ist sicher:
 
-- Das Credo nennt die Vergebung hier, weil die Taufe wirklich Vergebung schenkt.
+- Das Glaubensbekenntnis nennt die Vergebung hier, weil die Taufe wirklich Vergebung schenkt.
 - Diese Verbindung ist keine spätere Zufallsidee, sondern gehört zur alten Taufverkündigung.
 
 ### Vermutung
@@ -214,7 +214,7 @@ Die Aussage `Vergebung` schützt mehrere Wahrheiten:
 - Vergebung endet aber nicht am Tag der Taufe.
 - Das christliche Leben bleibt Leben aus Umkehr und göttlichem Erbarmen.
 
-Darum darf man das Credo weder zu eng noch zu flach lesen:
+Darum darf man das Glaubensbekenntnis weder zu eng noch zu flach lesen:
 
 - nicht so eng, als gäbe es nach der Taufe keine Vergebung mehr,
 - und nicht so flach, als sei Vergebung nur ein Gefühl ohne kirchliche Wirklichkeit.
@@ -228,7 +228,7 @@ Für das geistliche Leben bedeutet dieser Satz:
 - Die Kirche lebt aus Vergebung und ruft immer neu zur Umkehr.
 - Beichte und Buße sind keine Konkurrenz zur Taufe, sondern Rückkehr zu ihrer Gnade.
 
-Wer `Vergebung` im Credo recht versteht, lebt weder oberflächlich noch hoffnungslos, sondern in Reue, Dankbarkeit und Vertrauen auf Gottes Erbarmen.
+Wer `Vergebung` im Glaubensbekenntnis recht versteht, lebt weder oberflächlich noch hoffnungslos, sondern in Reue, Dankbarkeit und Vertrauen auf Gottes Erbarmen.
 
 ## Missverständnisse klären
 

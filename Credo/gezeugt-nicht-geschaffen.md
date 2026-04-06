@@ -6,7 +6,7 @@
 
 ## Erklärung
 
-Wenn das Credo sagt: **„gezeugt, nicht geschaffen“**, dann will es einen Unterschied festhalten, der für den ganzen christlichen Glauben entscheidend ist.
+Wenn das Glaubensbekenntnis sagt: **„gezeugt, nicht geschaffen“**, dann will es einen Unterschied festhalten, der für den ganzen christlichen Glauben entscheidend ist.
 
 Es sagt nicht nur:
 
@@ -54,7 +54,7 @@ Denn man könnte `Sohn` auch falsch verstehen:
 - als erstes Werk Gottes,
 - als Mittler zwischen Gott und Welt, aber nicht wahrer Gott.
 
-Darum sagt das Credo mit Absicht:
+Darum sagt das Glaubensbekenntnis mit Absicht:
 
 - **gezeugt**
 - **nicht geschaffen**
@@ -137,7 +137,7 @@ Darum ist diese Formel ein Schutz gegen:
 
 ## Liturgische und geistliche Bedeutung
 
-Für das geistliche Leben bedeutet dieser Credo-Satz:
+Für das geistliche Leben bedeutet dieser Glaubensbekenntnis-Satz:
 
 - Der, an den ich glaube, steht nicht auf meiner Ebene als Geschöpf, sondern ist Gottes ewiger Sohn.
 - Wenn Christus mich rettet, dann handelt Gott selbst.
@@ -166,7 +166,7 @@ Im orthodoxen Sinn bedeutet es vielmehr:
 1. Bibelstellen:  
    Psalm 2,7; Sprüche 8,25; Johannes 1,1-3; Johannes 1,14; Johannes 1,18; Johannes 5,26; Johannes 10,30; Kolosser 1,16-17; Hebräer 1,2-3.
 
-2. Erstes Konzil von Nizäa, Credo von 325  
+2. Erstes Konzil von Nizäa, Glaubensbekenntnis von 325  
    https://www.newadvent.org/fathers/3801.htm
 
 3. Heiliger Athanasius der Große, *Discourse II Against the Arians*  

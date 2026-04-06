@@ -15,7 +15,7 @@ Sie ist so geschrieben, dass du sie in Gemeindegruppen direkt einsetzen kannst.
 
 Jede Einheit folgt demselben Raster:
 
-1. Credo-Passage
+1. Glaubensbekenntnis-Passage
 2. Lernziel
 3. Kernaussage (Merksatz)
 4. Biblische Verankerung
@@ -28,34 +28,34 @@ Jede Einheit folgt demselben Raster:
 
 ## 3. Ausgearbeitete Einheiten
 
-## Einheit 0: Warum das Credo?
+## Einheit 0: Warum das Glaubensbekenntnis?
 
-**Credo-Passage:** Gesamttext als Orientierung  
+**Glaubensbekenntnis-Passage:** Gesamttext als Orientierung  
 **Lernziel:** Die Teilnehmenden verstehen, warum das Glaubensbekenntnis eine tragende Zusammenfassung des orthodoxen Glaubens ist und warum die Kirche es liturgisch, katechetisch und dogmatisch bewahrt.
 
 ### Kernaussage (Merksatz)
 Das Glaubensbekenntnis ist die verdichtete Form des apostolischen Glaubens der Kirche: Es fasst zusammen, wer Gott ist, was Gott zu unserem Heil getan hat und worin die Kirche lebt.
 
 ### Einführung
-Wenn wir in der Kirche das Credo sprechen, wiederholen wir nicht bloß alte Sätze. Wir treten in den Glauben der Kirche ein. Das Credo ist aus dem Ringen der Kirche um die Wahrheit entstanden. Es ist Antwort auf Irrtum, Orientierung für Katechumenen und gemeinsames Bekenntnis der Getauften.
+Wenn wir in der Kirche das Glaubensbekenntnis sprechen, wiederholen wir nicht bloß alte Sätze. Wir treten in den Glauben der Kirche ein. Das Glaubensbekenntnis ist aus dem Ringen der Kirche um die Wahrheit entstanden. Es ist Antwort auf Irrtum, Orientierung für Katechumenen und gemeinsames Bekenntnis der Getauften.
 
-Das Credo ist darum wichtig, weil es drei Dinge zugleich tut:
+Das Glaubensbekenntnis ist darum wichtig, weil es drei Dinge zugleich tut:
 
 - Es ordnet den Glauben.
 - Es schützt den Glauben.
 - Es führt in das Leben der Kirche ein.
 
-Wer das Credo lernt, lernt nicht zuerst ein System, sondern die Wirklichkeit des Heils: den Vater, den Sohn, den Heiligen Geist, die Kirche, die Taufe, die Auferstehung und die kommende Welt.
+Wer das Glaubensbekenntnis lernt, lernt nicht zuerst ein System, sondern die Wirklichkeit des Heils: den Vater, den Sohn, den Heiligen Geist, die Kirche, die Taufe, die Auferstehung und die kommende Welt.
 
-### Warum das Credo als Leitfaden?
-Das Credo eignet sich besonders als Struktur für Katechese, weil es:
+### Warum das Glaubensbekenntnis als Leitfaden?
+Das Glaubensbekenntnis eignet sich besonders als Struktur für Katechese, weil es:
 
 - kurz ist und dennoch die Mitte des Glaubens enthält,
 - verbindlich ist, weil es von der Kirche rezipiert und liturgisch getragen wird,
 - trinitarisch aufgebaut ist und damit den inneren Zusammenhang der Lehre sichtbar macht,
 - heilsgeschichtlich spricht, also nicht nur sagt, wer Gott ist, sondern auch, was Gott für uns getan hat.
 
-Die Kirche verwendet das Credo nicht als Ersatz für die Heilige Schrift, sondern als kirchlichen Schlüssel zu ihrem rechten Verständnis.
+Die Kirche verwendet das Glaubensbekenntnis nicht als Ersatz für die Heilige Schrift, sondern als kirchlichen Schlüssel zu ihrem rechten Verständnis.
 
 ### Orthodoxe Hermeneutik
 Orthodoxe Theologie trennt nicht das, was zusammengehört:
@@ -83,23 +83,23 @@ Gerade diese Unterscheidung von Theologie und Ökonomie hilft in der Katechese. 
 - **2 Thess 2,15:** Die Gemeinde soll an den Überlieferungen festhalten, die sie empfangen hat.
 
 ### Patristischer Impuls
-Die Kirchenväter behandeln Glaubensformeln nicht als bloße Lernhilfe, sondern als Schutzraum der Wahrheit. Besonders in der Taufkatechese wird deutlich: Das Credo ist dazu da, in das Leben in Christus einzuführen. Es soll nicht nur gesprochen, sondern im Herzen getragen werden.
+Die Kirchenväter behandeln Glaubensformeln nicht als bloße Lernhilfe, sondern als Schutzraum der Wahrheit. Besonders in der Taufkatechese wird deutlich: Das Glaubensbekenntnis ist dazu da, in das Leben in Christus einzuführen. Es soll nicht nur gesprochen, sondern im Herzen getragen werden.
 
 ### Dogmatische Klärung
-- Das Credo ist kein vollständiges Lehrbuch, aber eine verbindliche Zusammenfassung des Heilsgeheimnisses.
-- Das Credo ist kein privates Bekenntnis einzelner, sondern das gemeinsame Bekenntnis der Kirche.
-- Das Credo ist nicht veraltet, weil die Wahrheit Gottes nicht altert.
-- Das Credo ist nicht nur Abgrenzung, sondern positive Verkündigung des Lebens in Gott.
+- Das Glaubensbekenntnis ist kein vollständiges Lehrbuch, aber eine verbindliche Zusammenfassung des Heilsgeheimnisses.
+- Das Glaubensbekenntnis ist kein privates Bekenntnis einzelner, sondern das gemeinsame Bekenntnis der Kirche.
+- Das Glaubensbekenntnis ist nicht veraltet, weil die Wahrheit Gottes nicht altert.
+- Das Glaubensbekenntnis ist nicht nur Abgrenzung, sondern positive Verkündigung des Lebens in Gott.
 
 ### Liturgische Verortung
-In der Göttlichen Liturgie steht das Credo an einer entscheidenden Stelle: vor der Anaphora, vor dem eucharistischen Hochgebet. Die Gemeinde bekennt gemeinsam den Glauben, bevor sie in das Mysterium der Eucharistie eintritt. Das zeigt: rechter Glaube und rechte Anbetung gehören zusammen.
+In der Göttlichen Liturgie steht das Glaubensbekenntnis an einer entscheidenden Stelle: vor der Anaphora, vor dem eucharistischen Hochgebet. Die Gemeinde bekennt gemeinsam den Glauben, bevor sie in das Mysterium der Eucharistie eintritt. Das zeigt: rechter Glaube und rechte Anbetung gehören zusammen.
 
-Das Credo hat auch eine enge Verbindung zur Taufe. Wer getauft wird, tritt nicht in eine religiöse Stimmung ein, sondern in den Glauben der Kirche.
+Das Glaubensbekenntnis hat auch eine enge Verbindung zur Taufe. Wer getauft wird, tritt nicht in eine religiöse Stimmung ein, sondern in den Glauben der Kirche.
 
 ### Geistliche Praxis
-- Das Credo langsam und bewusst beten, nicht nur aufsagen.
+- Das Glaubensbekenntnis langsam und bewusst beten, nicht nur aufsagen.
 - Jede Woche einen Satz auswählen und im persönlichen Gebet bedenken.
-- Beim Besuch der Liturgie darauf achten, an welcher Stelle das Credo gesprochen wird und warum.
+- Beim Besuch der Liturgie darauf achten, an welcher Stelle das Glaubensbekenntnis gesprochen wird und warum.
 - Sich fragen: Welcher Satz des Credos ist mir vertraut, welcher ist mir noch fremd?
 
 ### Vorschlag für die Katechese-Stunde
@@ -111,33 +111,33 @@ Das Credo hat auch eine enge Verbindung zur Taufe. Wer getauft wird, tritt nicht
 
 ### Fragen zum Verstehen
 1. Warum genügt es nicht zu sagen: „Ich glaube einfach an Gott“, ohne den Glauben näher zu bestimmen?
-2. In welchem Sinn ist das Credo Frucht von Schrift und Tradition zugleich?
-3. Warum steht das Credo in enger Verbindung zu Taufe und Liturgie?
+2. In welchem Sinn ist das Glaubensbekenntnis Frucht von Schrift und Tradition zugleich?
+3. Warum steht das Glaubensbekenntnis in enger Verbindung zu Taufe und Liturgie?
 4. Wieso ist Dogma nicht das Gegenteil von geistlichem Leben?
 
 ### Häufige Missverständnisse
 - Missverständnis: Dogma ist trocken und nur für Theologen wichtig.  
   Klärung: Dogma schützt die Wahrheit des Heils und damit das geistliche Leben der ganzen Kirche.
-- Missverständnis: Das Credo ersetzt die Bibel.  
-  Klärung: Das Credo ist eine kirchliche Zusammenfassung der biblischen Wahrheit, nicht ihr Ersatz.
+- Missverständnis: Das Glaubensbekenntnis ersetzt die Bibel.  
+  Klärung: Das Glaubensbekenntnis ist eine kirchliche Zusammenfassung der biblischen Wahrheit, nicht ihr Ersatz.
 - Missverständnis: Jeder kann das Christentum nach eigener Vorstellung definieren.  
   Klärung: Christlicher Glaube ist empfangener und gemeinsam bewahrter Glaube.
 
 ### Merksatz zum Mitnehmen
-Das Credo ist die Stimme der Kirche, in der die Schrift geglaubt, die Liturgie gebetet und das Heil bekannt wird.
+Das Glaubensbekenntnis ist die Stimme der Kirche, in der die Schrift geglaubt, die Liturgie gebetet und das Heil bekannt wird.
 
 ---
 
 ## Einheit 1: „Ich glaube an den einen Gott, den Vater, den Allmächtigen“
 
-**Credo-Passage:** Kapitel 1-2  
+**Glaubensbekenntnis-Passage:** Kapitel 1-2  
 **Lernziel:** Die Teilnehmenden können erklären, was „ich glaube“, „ein Gott“, „Vater“ und „Allmächtiger“ im orthodoxen Sinn bedeuten und warum Monotheismus und Trinitätsglaube kein Widerspruch sind.
 
 ### Kernaussage (Merksatz)
 Der eine Gott ist kein fernes Prinzip und keine unpersönliche Macht, sondern der lebendige Vater, der in Freiheit, Wahrheit und Liebe schafft, trägt und rettet.
 
 ### Einführung
-Die erste Zeile des Credos ist bereits ein ganzes Glaubensprogramm. Sie beginnt mit „Ich glaube“. Der Glaube ist also nicht zuerst ein Besitz, sondern eine Antwort. Dann folgt „an den einen Gott“. Der Glaube der Kirche ist kein religiöser Pluralismus, sondern klares Bekenntnis zum einen Gott. Schließlich nennt das Credo diesen einen Gott den Vater und den Allmächtigen. Schon hier wird sichtbar: Gottes Einheit ist nicht Einsamkeit, und Gottes Macht ist nicht Willkür.
+Die erste Zeile des Credos ist bereits ein ganzes Glaubensprogramm. Sie beginnt mit „Ich glaube“. Der Glaube ist also nicht zuerst ein Besitz, sondern eine Antwort. Dann folgt „an den einen Gott“. Der Glaube der Kirche ist kein religiöser Pluralismus, sondern klares Bekenntnis zum einen Gott. Schließlich nennt das Glaubensbekenntnis diesen einen Gott den Vater und den Allmächtigen. Schon hier wird sichtbar: Gottes Einheit ist nicht Einsamkeit, und Gottes Macht ist nicht Willkür.
 
 ### 1. „Ich glaube“
 Im biblischen und orthodoxen Sinn bedeutet Glaube mehr als das Für-wahrscheinlich-Halten einer Aussage. Glaube ist:
@@ -147,7 +147,7 @@ Im biblischen und orthodoxen Sinn bedeutet Glaube mehr als das Für-wahrscheinli
 - Eintritt in eine Beziehung,
 - Lebensform des Gehorsams und der Treue.
 
-Wenn das Credo mit „Ich glaube“ beginnt, spricht hier nicht isolierter Individualismus. Die einzelne Person bekennt den Glauben der Kirche als ihren eigenen Glauben. Das „Ich“ steht also nie gegen das „Wir“ der Kirche.
+Wenn das Glaubensbekenntnis mit „Ich glaube“ beginnt, spricht hier nicht isolierter Individualismus. Die einzelne Person bekennt den Glauben der Kirche als ihren eigenen Glauben. Das „Ich“ steht also nie gegen das „Wir“ der Kirche.
 
 ### 2. „An den einen Gott“
 Die Kirche bekennt mit Israel: Gott ist einer. Es gibt nicht viele Götter, nicht verschiedene Ebenen göttlicher Wesen und nicht konkurrierende Mächte im Himmel. Alles, was existiert, empfängt sein Sein von dem einen Gott.
@@ -161,7 +161,7 @@ Hier ist in der Katechese wichtig:
 - **Trinität** ist keine spätere Erfindung, sondern die Entfaltung dessen, was in Schrift, Taufe und Liturgie bereits gegeben ist.
 
 ### 3. „Den Vater“
-Wenn das Credo Gott als Vater bekennt, meint es nicht zuerst, dass Gott „wie ein menschlicher Vater“ sei. Es meint vielmehr:
+Wenn das Glaubensbekenntnis Gott als Vater bekennt, meint es nicht zuerst, dass Gott „wie ein menschlicher Vater“ sei. Es meint vielmehr:
 
 - Der Vater ist die erste Person der Heiligen Dreifaltigkeit.
 - Er ist der Ursprung des Sohnes durch ewige Zeugung.
@@ -241,7 +241,7 @@ An den einen Gott glauben heißt, dem Vater zu vertrauen, der sich im Sohn offen
 
 ## Einheit 2: „Schöpfer des Himmels und der Erde, alles Sichtbaren und Unsichtbaren“
 
-**Credo-Passage:** Kapitel 3  
+**Glaubensbekenntnis-Passage:** Kapitel 3  
 **Lernziel:** Die Teilnehmenden verstehen Schöpfung als gute Gabe Gottes und den Menschen als freien Mitarbeiter Gottes.
 
 ### Kernaussage (Merksatz)
@@ -284,7 +284,7 @@ Die Väter betonen zugleich: Die Schöpfung ist nicht ewig neben Gott, und sie i
 
 ## Einheit 3: „Und an den einen Herrn Jesus Christus“
 
-**Credo-Passage:** Kapitel 4  
+**Glaubensbekenntnis-Passage:** Kapitel 4  
 **Lernziel:** Die Teilnehmenden verstehen, warum Christus „Herr“ genannt wird und warum dieses Bekenntnis den Kern des christlichen Glaubens trifft.
 
 ### Kernaussage (Merksatz)
@@ -319,7 +319,7 @@ Die Kirche verehrt Christus nicht neben Gott, sondern als den menschgewordenen S
 
 ### Häufige Missverständnisse
 - Missverständnis: „Herr“ ist nur eine höfliche Anrede.  
-  Klärung: Im Credo bezeichnet der Titel die göttliche Würde Christi.
+  Klärung: Im Glaubensbekenntnis bezeichnet der Titel die göttliche Würde Christi.
 - Missverständnis: Christus ist nur Mittler zwischen Mensch und einem fernen Gott.  
   Klärung: In ihm begegnet uns Gott selbst.
 
@@ -327,7 +327,7 @@ Die Kirche verehrt Christus nicht neben Gott, sondern als den menschgewordenen S
 
 ## Einheit 4: „… den eingeborenen Sohn Gottes … vor aller Zeit“
 
-**Credo-Passage:** Kapitel 5  
+**Glaubensbekenntnis-Passage:** Kapitel 5  
 **Lernziel:** Die Teilnehmenden verstehen die ewige Sohnschaft Christi und den Unterschied zwischen Zeugung und Schöpfung.
 
 ### Kernaussage (Merksatz)
@@ -370,7 +370,7 @@ Die Väter sprechen von der ewigen Zeugung des Sohnes, um festzuhalten: Der Sohn
 
 ## Einheit 5: „… Licht vom Licht, wahrer Gott vom wahren Gott …“
 
-**Credo-Passage:** Kapitel 6  
+**Glaubensbekenntnis-Passage:** Kapitel 6  
 **Lernziel:** Die Teilnehmenden verstehen, warum die Kirche die volle Gottheit Christi mit solchen Formeln bekennt.
 
 ### Kernaussage (Merksatz)
@@ -405,7 +405,7 @@ Gegen arianische Verkürzungen haben die Väter mit großer sprachlicher Präzis
 
 ### Häufige Missverständnisse
 - Missverständnis: Christus ist eine Art Halbgott.  
-  Klärung: Das Credo schließt jede abgestufte Gottheit aus.
+  Klärung: Das Glaubensbekenntnis schließt jede abgestufte Gottheit aus.
 - Missverständnis: Die Bilder des Credos seien nur poetisch, nicht dogmatisch.  
   Klärung: Sie haben präzise lehrhafte Funktion.
 
@@ -413,7 +413,7 @@ Gegen arianische Verkürzungen haben die Väter mit großer sprachlicher Präzis
 
 ## Einheit 6: „… gezeugt, nicht geschaffen“
 
-**Credo-Passage:** Kapitel 7  
+**Glaubensbekenntnis-Passage:** Kapitel 7  
 **Lernziel:** Die Teilnehmenden können erklären, warum diese Unterscheidung zentral für den orthodoxen Glauben ist.
 
 ### Kernaussage (Merksatz)
@@ -433,7 +433,7 @@ Die Väter zeigen: Wenn der Sohn geschaffen wäre, könnte er die Schöpfung nic
 - **Heilsschutz:** Die Unterscheidung schützt vor der Verwechslung von Schöpfer und Geschöpf.
 
 ### Liturgische Verortung
-- Das Credo selbst macht diese Präzisierung zur betenden Wahrheit der Kirche.
+- Das Glaubensbekenntnis selbst macht diese Präzisierung zur betenden Wahrheit der Kirche.
 - In Christusliedern wird seine Unerschaffenheit vorausgesetzt.
 
 ### Geistliche Praxis
@@ -455,7 +455,7 @@ Die Väter zeigen: Wenn der Sohn geschaffen wäre, könnte er die Schöpfung nic
 
 ## Einheit 7: „… durch ihn ist alles geschaffen“
 
-**Credo-Passage:** Kapitel 8  
+**Glaubensbekenntnis-Passage:** Kapitel 8  
 **Lernziel:** Die Teilnehmenden verstehen Christus als den Logos, durch den Schöpfung und Heil zusammengehören.
 
 ### Kernaussage (Merksatz)
@@ -497,7 +497,7 @@ Die Väter sehen im Logos den Sinn und das innere Maß der Schöpfung: In Christ
 
 ## Einheit 8: „Für uns Menschen und zu unserem Heil …“
 
-**Credo-Passage:** Kapitel 9  
+**Glaubensbekenntnis-Passage:** Kapitel 9  
 **Lernziel:** Die Teilnehmenden verstehen das orthodoxe Heilsverständnis als Heilung, Befreiung und Vergöttlichung.
 
 ### Kernaussage (Merksatz)
@@ -539,7 +539,7 @@ Die Väter sprechen vom Heil oft als Heilung der gefallenen Menschennatur und al
 
 ## Einheit 9: „… ist vom Himmel herabgestiegen“
 
-**Credo-Passage:** Kapitel 10  
+**Glaubensbekenntnis-Passage:** Kapitel 10  
 **Lernziel:** Die Teilnehmenden verstehen die Herablassung Christi als Ausdruck göttlicher Liebe.
 
 ### Kernaussage (Merksatz)
@@ -581,7 +581,7 @@ Die Väter sehen in der Kenosis nicht Schwäche, sondern den paradoxen Triumph g
 
 ## Einheit 10: „… hat Fleisch angenommen vom Heiligen Geist und der Jungfrau Maria“
 
-**Credo-Passage:** Kapitel 11  
+**Glaubensbekenntnis-Passage:** Kapitel 11  
 **Lernziel:** Die Teilnehmenden verstehen Inkarnation, Geisteswirken und die Rolle der Gottesmutter im rechten Christusbezug.
 
 ### Kernaussage (Merksatz)
@@ -623,7 +623,7 @@ Der Titel **Theotokos** schützt nicht zuerst Maria, sondern die Wahrheit über 
 
 ## Einheit 11: „… und ist Mensch geworden“
 
-**Credo-Passage:** Kapitel 12  
+**Glaubensbekenntnis-Passage:** Kapitel 12  
 **Lernziel:** Die Teilnehmenden verstehen, dass Christus volle menschliche Natur angenommen hat.
 
 ### Kernaussage (Merksatz)
@@ -665,7 +665,7 @@ Die Väter sagen: Was nicht angenommen ist, ist nicht geheilt. Darum bekennt die
 
 ## Einheit 12: „… wurde gekreuzigt … hat gelitten und ist begraben worden“
 
-**Credo-Passage:** Kapitel 13  
+**Glaubensbekenntnis-Passage:** Kapitel 13  
 **Lernziel:** Die Teilnehmenden verstehen Kreuz, Leiden und Grab Christi als realen Heilsweg Gottes.
 
 ### Kernaussage (Merksatz)
@@ -707,7 +707,7 @@ Die Väter deuten das Kreuz nicht als Niederlage, sondern als königlichen Sieg 
 
 ## Einheit 13: „… ist am dritten Tage auferstanden nach der Schrift“
 
-**Credo-Passage:** Kapitel 14  
+**Glaubensbekenntnis-Passage:** Kapitel 14  
 **Lernziel:** Die Teilnehmenden verstehen die Auferstehung als wirkliches, heilsgeschichtliches und eschatologisches Ereignis.
 
 ### Kernaussage (Merksatz)
@@ -749,7 +749,7 @@ Für die Väter ist Pascha der Mittelpunkt des ganzen Glaubenslebens: Ohne Aufer
 
 ## Einheit 14: „… aufgefahren in den Himmel; sitzt zur Rechten des Vaters“
 
-**Credo-Passage:** Kapitel 15  
+**Glaubensbekenntnis-Passage:** Kapitel 15  
 **Lernziel:** Die Teilnehmenden verstehen Himmelfahrt und Inthronisation Christi als Verherrlichung der menschlichen Natur.
 
 ### Kernaussage (Merksatz)
@@ -791,7 +791,7 @@ Die Väter betonen: Was Christus annimmt, führt er auch in die Herrlichkeit hin
 
 ## Einheit 15: „… wird wiederkommen in Herrlichkeit … zu richten die Lebenden und die Toten“
 
-**Credo-Passage:** Kapitel 16  
+**Glaubensbekenntnis-Passage:** Kapitel 16  
 **Lernziel:** Die Teilnehmenden verstehen die Wiederkunft Christi als Gegenstand nüchterner Hoffnung und geistlicher Wachsamkeit.
 
 ### Kernaussage (Merksatz)
@@ -833,7 +833,7 @@ Die Väter verbinden die Erwartung der Parusie mit Umkehr, Nüchternheit und Wer
 
 ## Einheit 16: „… sein Reich wird kein Ende haben“
 
-**Credo-Passage:** Kapitel 17  
+**Glaubensbekenntnis-Passage:** Kapitel 17  
 **Lernziel:** Die Teilnehmenden verstehen das Reich Christi als gegenwärtige und zukünftige Wirklichkeit.
 
 ### Kernaussage (Merksatz)
@@ -875,7 +875,7 @@ Die Väter sehen die Kirche als Vorgeschmack des kommenden Reiches, ohne sie mit
 
 ## Einheit 17: „Und an den Heiligen Geist …“
 
-**Credo-Passage:** Kapitel 18  
+**Glaubensbekenntnis-Passage:** Kapitel 18  
 **Lernziel:** Die Teilnehmenden verstehen den Heiligen Geist als göttliche Person und nicht als bloße Kraft.
 
 ### Kernaussage (Merksatz)
@@ -917,7 +917,7 @@ Die Väter verteidigen die Gottheit und Personalität des Geistes mit derselben 
 
 ## Einheit 18: „… den Herrn, den Lebensspender“
 
-**Credo-Passage:** Kapitel 19  
+**Glaubensbekenntnis-Passage:** Kapitel 19  
 **Lernziel:** Die Teilnehmenden verstehen den Heiligen Geist als Spender des göttlichen Lebens in Schöpfung und Erlösung.
 
 ### Kernaussage (Merksatz)
@@ -959,7 +959,7 @@ Für die Väter ist der Geist derjenige, durch den die Gnade Gottes den Menschen
 
 ## Einheit 19: „… der vom Vater ausgeht“
 
-**Credo-Passage:** Kapitel 20  
+**Glaubensbekenntnis-Passage:** Kapitel 20  
 **Lernziel:** Die Teilnehmenden verstehen die orthodoxe Aussage über den ewigen Ursprung des Heiligen Geistes.
 
 ### Kernaussage (Merksatz)
@@ -1000,7 +1000,7 @@ Die Väter unterscheiden sorgfältig zwischen dem ewigen Ursprung des Geistes un
 
 ## Einheit 20: „… der mit dem Vater und dem Sohn zugleich angebetet und verherrlicht wird“
 
-**Credo-Passage:** Kapitel 21  
+**Glaubensbekenntnis-Passage:** Kapitel 21  
 **Lernziel:** Die Teilnehmenden verstehen die gleiche Ehre des Heiligen Geistes innerhalb der Trinität.
 
 ### Kernaussage (Merksatz)
@@ -1042,7 +1042,7 @@ Basilius der Große zeigt besonders klar, dass die liturgische Verherrlichung de
 
 ## Einheit 21: „… der gesprochen hat durch die Propheten“
 
-**Credo-Passage:** Kapitel 22  
+**Glaubensbekenntnis-Passage:** Kapitel 22  
 **Lernziel:** Die Teilnehmenden verstehen den Heiligen Geist als Urheber der prophetischen Offenbarung.
 
 ### Kernaussage (Merksatz)
@@ -1084,7 +1084,7 @@ Die Väter lesen die Schriften der Propheten christologisch und pneumatisch: Der
 
 ## Einheit 22: „An die eine, heilige, katholische und apostolische Kirche“
 
-**Credo-Passage:** Kapitel 23  
+**Glaubensbekenntnis-Passage:** Kapitel 23  
 **Lernziel:** Die Teilnehmenden verstehen die vier Kennzeichen der Kirche im orthodoxen Sinn.
 
 ### Kernaussage (Merksatz)
@@ -1121,13 +1121,13 @@ Die Väter verstehen Kirche nie als bloße Organisation, sondern als eucharistis
 - Missverständnis: Die Heiligkeit der Kirche bedeute moralische Perfektion aller Mitglieder.  
   Klärung: Ihre Heiligkeit kommt von Christus und ruft zur Umkehr.
 - Missverständnis: „Katholisch“ meine nur eine westliche Konfession.  
-  Klärung: Im Credo bedeutet es Fülle und Ganzheit.
+  Klärung: Im Glaubensbekenntnis bedeutet es Fülle und Ganzheit.
 
 ---
 
 ## Einheit 23: „Ich bekenne die eine Taufe zur Vergebung der Sünden“
 
-**Credo-Passage:** Kapitel 24  
+**Glaubensbekenntnis-Passage:** Kapitel 24  
 **Lernziel:** Die Teilnehmenden verstehen die Taufe als Neuschöpfung und Eingliederung in Christus und seine Kirche.
 
 ### Kernaussage (Merksatz)
@@ -1169,7 +1169,7 @@ Die Väter sprechen von der Taufe als Erleuchtung, Wiedergeburt und Beginn des n
 
 ## Einheit 24: „Ich erwarte die Auferstehung der Toten“
 
-**Credo-Passage:** Kapitel 25  
+**Glaubensbekenntnis-Passage:** Kapitel 25  
 **Lernziel:** Die Teilnehmenden verstehen die christliche Hoffnung auf die leibliche Auferstehung.
 
 ### Kernaussage (Merksatz)
@@ -1211,7 +1211,7 @@ Die Väter verteidigen gegen spiritualistische Tendenzen die Würde des Leibes u
 
 ## Einheit 25: „… und das Leben der kommenden Welt“
 
-**Credo-Passage:** Kapitel 26  
+**Glaubensbekenntnis-Passage:** Kapitel 26  
 **Lernziel:** Die Teilnehmenden verstehen die eschatologische Vollendung als bleibende Gemeinschaft mit Gott.
 
 ### Kernaussage (Merksatz)
@@ -1239,7 +1239,7 @@ Die Väter sprechen über Himmel und Hölle zurückhaltend und betonen vor allem
 - Das Herz auf Gott ausrichten statt auf vergängliche Sicherheiten.
 
 ### Fragen zum Verstehen
-1. Was meint das Credo mit der „kommenden Welt“?
+1. Was meint das Glaubensbekenntnis mit der „kommenden Welt“?
 2. Warum beginnt ewiges Leben schon jetzt?
 3. Wie schützt die Kirche vor neugieriger Spekulation über das Jenseits?
 
@@ -1259,7 +1259,7 @@ Die Väter sprechen über Himmel und Hölle zurückhaltend und betonen vor allem
 - 10 min konkrete Wochenpraxis
 
 ### Wochenübersicht
-1. Einführung: Credo als Weg des Glaubens (Einheit 0)
+1. Einführung: Glaubensbekenntnis als Weg des Glaubens (Einheit 0)
 2. Der eine Gott und der Vater (Kapitel 1-2)
 3. Schöpfung, Sichtbares und Unsichtbares (Kapitel 3)
 4. Jesus Christus, der eine Herr (Kapitel 4-8)
@@ -1279,5 +1279,5 @@ Wenn du diese Fassung weiter vertiefen willst, können wir als Nächstes ergänz
 1. **Leiterfassung pro Einheit:** mit Einstiegsfrage, Zeitplan und Abschlussgebet.
 2. **Anhang mit Wortlaut des Credos:** deutsch und optional griechisch.
 3. **Begriffslexikon:** zentrale Begriffe wie Theosis, Ökonomie, Wesenseinheit, Theotokos.
-4. **Tabellenübersicht:** Credo-Passage, Bibelstellen, Merksatz und Lernziel auf einer Seite.
+4. **Tabellenübersicht:** Glaubensbekenntnis-Passage, Bibelstellen, Merksatz und Lernziel auf einer Seite.
 5. **Kurzfassung für Teilnehmende:** als Handout mit Merksätzen und Fragen.

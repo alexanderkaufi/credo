@@ -13,7 +13,7 @@ source: "credo/gott-von-gott.md"
 
 ## Erklärung
 
-Wenn das Credo sagt: **„Gott von Gott“**, dann klingt das zunächst fast wie eine Wiederholung. Gerade darin liegt aber seine Kraft. Die Kirche will mit dieser Formel klarstellen:
+Wenn das Glaubensbekenntnis sagt: **„Gott von Gott“**, dann klingt das zunächst fast wie eine Wiederholung. Gerade darin liegt aber seine Kraft. Die Kirche will mit dieser Formel klarstellen:
 
 - Der Sohn ist wirklich **Gott**.
 - Er ist **vom Vater**.
@@ -52,7 +52,7 @@ Die Formel sagt darum: Der Sohn ist nicht nur **bei Gott**, sondern **aus Gott**
 - **Hebräer 1,3**: Er ist der Abglanz der Herrlichkeit und der Abdruck des Wesens Gottes.
 - **1 Johannes 5,20**: Der Sohn wird ausdrücklich mit dem wahren Gott und dem ewigen Leben verbunden.
 
-Diese Stellen sagen nicht alle dieselben Worte wie das Credo, aber sie begründen gemeinsam die Formel `Gott von Gott`: Der Sohn ist wirklich vom Vater und wirklich Gott.
+Diese Stellen sagen nicht alle dieselben Worte wie das Glaubensbekenntnis, aber sie begründen gemeinsam die Formel `Gott von Gott`: Der Sohn ist wirklich vom Vater und wirklich Gott.
 
 ## Patristische Begründung
 
@@ -80,7 +80,7 @@ Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deu
 
 ## Historischer Hinweis
 
-Die Formel `Gott von Gott` steht ausdrücklich im nizänischen Credo von 325. In manchen späteren Darstellungen des nizäno-konstantinopolitanischen Textes wird sie ausgelassen oder in Klammern gesetzt, während `Licht vom Licht` und `wahrer Gott vom wahren Gott` durchgängig stehen. Theologisch bleibt die Aussage aber klar orthodox: Der Sohn ist wirklich aus dem Vater und wirklich Gott.
+Die Formel `Gott von Gott` steht ausdrücklich im nizänischen Glaubensbekenntnis von 325. In manchen späteren Darstellungen des nizäno-konstantinopolitanischen Textes wird sie ausgelassen oder in Klammern gesetzt, während `Licht vom Licht` und `wahrer Gott vom wahren Gott` durchgängig stehen. Theologisch bleibt die Aussage aber klar orthodox: Der Sohn ist wirklich aus dem Vater und wirklich Gott.
 
 ## Theologische Bedeutung
 
@@ -121,7 +121,7 @@ Im orthodoxen Sinn bedeutet es vielmehr:
 
 - wirkliche Herkunft des Sohnes aus dem Vater,
 - wirkliche Gottheit des Sohnes,
-- Einheit der Gottheit ohne Vermischung der Personen,
+- Einheit der Gottheit ohne Vermischung der Hypostasen,
 - göttliche Sohnschaft von Natur.
 
 ## Quellen
@@ -129,7 +129,7 @@ Im orthodoxen Sinn bedeutet es vielmehr:
 1. Bibelstellen:  
    Johannes 1,1; Johannes 1,18; Johannes 5,26; Johannes 10,30; Johannes 14,9; Kolosser 1,15; Hebräer 1,3; 1 Johannes 5,20.
 
-2. Erstes Konzil von Nizäa, Credo von 325  
+2. Erstes Konzil von Nizäa, Glaubensbekenntnis von 325  
    https://www.newadvent.org/fathers/3801.htm
 
 3. Catholic Encyclopedia, *Nicene Creed*  

@@ -2,11 +2,11 @@
 
 ## Kurze Zusammenfassung
 
-`Jungfrau Maria` bedeutet im Credo: Christus wurde nicht durch menschliche Zeugung empfangen, sondern wunderhaft von der Jungfrau geboren. Zugleich ist Maria keine bloße Randfigur, sondern die wirkliche Mutter Jesu nach dem Fleisch. So bekennt die Kirche in einem Satz sowohl das göttliche Wunder der Menschwerdung als auch die volle Wirklichkeit der menschlichen Geburt Christi.
+`Jungfrau Maria` bedeutet im Glaubensbekenntnis: Christus wurde nicht durch menschliche Zeugung empfangen, sondern wunderhaft von der Jungfrau geboren. Zugleich ist Maria keine bloße Randfigur, sondern die wirkliche Mutter Jesu nach dem Fleisch. So bekennt die Kirche in einem Satz sowohl das göttliche Wunder der Menschwerdung als auch die volle Wirklichkeit der menschlichen Geburt Christi.
 
 ## Erklärung
 
-Wenn das Credo von der `Jungfrau Maria` spricht, verbindet es zwei Aussagen, die zusammengehören:
+Wenn das Glaubensbekenntnis von der `Jungfrau Maria` spricht, verbindet es zwei Aussagen, die zusammengehören:
 
 - `Jungfrau` betont das Wunder der Empfängnis.
 - `Maria` betont die wirkliche geschichtliche und menschliche Herkunft Christi.
@@ -17,7 +17,7 @@ Der Sohn Gottes kommt also nicht scheinbar in die Welt und auch nicht bloß `vom
 - sondern durch das Wirken des Heiligen Geistes,
 - und wirklich von Maria.
 
-Darum ist Maria im Credo nicht nur ein Name, sondern ein Schutz der Wahrheit:
+Darum ist Maria im Glaubensbekenntnis nicht nur ein Name, sondern ein Schutz der Wahrheit:
 
 - Christus ist wahrer Mensch.
 - Christus ist nicht bloß ein himmlisches Wesen mit Scheinleib.
@@ -124,7 +124,7 @@ Darum führt die Kirche von der Jungfräulichkeit Marias nicht weg von Christus,
 
 ## Orthodoxe Einordnung
 
-Die Formulierung `Jungfrau Maria` im Credo sagt mindestens:
+Die Formulierung `Jungfrau Maria` im Glaubensbekenntnis sagt mindestens:
 
 - wirkliche Jungfräulichkeit in der Empfängnis,
 - wirkliche Mutterschaft Marias,

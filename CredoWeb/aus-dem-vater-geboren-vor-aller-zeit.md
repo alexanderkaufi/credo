@@ -13,7 +13,7 @@ source: "credo/aus-dem-vater-geboren-vor-aller-zeit.md"
 
 ## Erklärung
 
-Wenn das Credo sagt, dass Jesus Christus **„aus dem Vater geboren vor aller Zeit“** ist, dann spricht es über sein göttliches Sein und nicht zuerst über seine Geburt aus Maria in der Geschichte.
+Wenn das Glaubensbekenntnis sagt, dass Jesus Christus **„aus dem Vater geboren vor aller Zeit“** ist, dann spricht es über sein göttliches Sein und nicht zuerst über seine Geburt aus Maria in der Geschichte.
 
 Der Satz enthält drei Hauptaussagen:
 
@@ -101,7 +101,7 @@ Darum ist `vor aller Zeit` stärker als bloß `früher als alles andere`.
 - **1 Korinther 2,7**: Gottes Weisheit ist „vor den Zeitaltern“ bestimmt.
 - **2 Timotheus 1,9**: Gottes Gnade ist vor ewigen Zeiten gegeben.
 
-Diese Stellen sagen nicht alle exakt dasselbe, aber gemeinsam helfen sie, den Sinn des Credo-Satzes zu erkennen: Der Sohn gehört nicht zur geschaffenen Zeit, sondern steht auf göttlicher Seite.
+Diese Stellen sagen nicht alle exakt dasselbe, aber gemeinsam helfen sie, den Sinn des Glaubensbekenntnis-Satzes zu erkennen: Der Sohn gehört nicht zur geschaffenen Zeit, sondern steht auf göttlicher Seite.
 
 ## Patristische Begründung
 
@@ -141,7 +141,7 @@ Damit ist dieser Satz ein Schutz gegen:
 
 ## Liturgische und geistliche Bedeutung
 
-Für das geistliche Leben bedeutet dieser Credo-Satz:
+Für das geistliche Leben bedeutet dieser Glaubensbekenntnis-Satz:
 
 - Der, dem ich im Evangelium begegne, ist nicht bloß ein später Gesandter, sondern der ewige Sohn.
 - Gottes Liebe ist nicht nachträglich improvisiert, sondern ewig in ihm gegründet.

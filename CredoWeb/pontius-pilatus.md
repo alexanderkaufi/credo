@@ -9,11 +9,11 @@ source: "credo/pontius-pilatus.md"
 
 ## Kurze Zusammenfassung
 
-Dass das Credo `Pontius Pilatus` nennt, ist kein Nebendetail. Der Name zeigt: Das Leiden Christi geschah **wirklich in der Geschichte**, unter einer bekannten weltlichen Obrigkeit. Die Kirche bekennt also keinen Mythos, sondern ein konkretes Ereignis. Zugleich macht der Name sichtbar, dass der Herr öffentlich gerichtet, für uns verurteilt und in die Machtverhältnisse dieser Welt hineingestellt wurde.
+Dass das Glaubensbekenntnis `Pontius Pilatus` nennt, ist kein Nebendetail. Der Name zeigt: Das Leiden Christi geschah **wirklich in der Geschichte**, unter einer bekannten weltlichen Obrigkeit. Die Kirche bekennt also keinen Mythos, sondern ein konkretes Ereignis. Zugleich macht der Name sichtbar, dass der Herr öffentlich gerichtet, für uns verurteilt und in die Machtverhältnisse dieser Welt hineingestellt wurde.
 
 ## Erklärung
 
-Wenn das Credo sagt: `unter Pontius Pilatus`, dann nennt es bewusst einen geschichtlichen Namen.
+Wenn das Glaubensbekenntnis sagt: `unter Pontius Pilatus`, dann nennt es bewusst einen geschichtlichen Namen.
 
 Das ist wichtig, weil die Kirche damit sagt:
 
@@ -23,7 +23,7 @@ Das ist wichtig, weil die Kirche damit sagt:
 - sondern in Raum und Zeit,
 - unter einer wirklichen politischen Herrschaft.
 
-Pontius Pilatus war der römische Statthalter von Judäa zur Zeit des Leidens Christi. Indem das Credo seinen Namen nennt, wird die Passion Christi **historisch verankert**.
+Pontius Pilatus war der römische Statthalter von Judäa zur Zeit des Leidens Christi. Indem das Glaubensbekenntnis seinen Namen nennt, wird die Passion Christi **historisch verankert**.
 
 Darum bedeutet `unter Pontius Pilatus`:
 
@@ -32,9 +32,9 @@ Darum bedeutet `unter Pontius Pilatus`:
 - seine Verurteilung geschah unter weltlicher Gerichtsbarkeit,
 - das Heil ereignet sich nicht außerhalb der Welt, sondern mitten in ihr.
 
-Der Name des Pilatus steht also nicht deshalb im Credo, weil er ehrwürdig wäre, sondern weil durch ihn die Wirklichkeit des Geschehens unterstrichen wird.
+Der Name des Pilatus steht also nicht deshalb im Glaubensbekenntnis, weil er ehrwürdig wäre, sondern weil durch ihn die Wirklichkeit des Geschehens unterstrichen wird.
 
-## Warum nennt das Credo gerade ihn?
+## Warum nennt das Glaubensbekenntnis gerade ihn?
 
 Der Name `Pontius Pilatus` erfüllt mehrere Funktionen:
 
@@ -43,7 +43,7 @@ Der Name `Pontius Pilatus` erfüllt mehrere Funktionen:
 - Er macht klar, dass die Kreuzigung kein verborgener Mythos war.
 - Er zeigt, dass der Herr auch unter der Macht der Reiche dieser Welt gelitten hat.
 
-Man kann sagen: Das Credo nennt Pilatus, um zu bekennen, dass der Sohn Gottes **wirklich in unsere Geschichte eingetreten** ist und dort auch die Gewalt, Ungerechtigkeit und Feigheit dieser Welt auf sich genommen hat.
+Man kann sagen: Das Glaubensbekenntnis nennt Pilatus, um zu bekennen, dass der Sohn Gottes **wirklich in unsere Geschichte eingetreten** ist und dort auch die Gewalt, Ungerechtigkeit und Feigheit dieser Welt auf sich genommen hat.
 
 Eine weitere Linie ist ebenfalls wichtig: Christus wird nicht heimlich getötet, sondern unter einem römischen Statthalter. Dadurch wird sein Leiden gleichsam vor der Welt bezeugt.
 
@@ -100,7 +100,7 @@ Kyrill nennt Pilatus ausdrücklich als Zeugen der Unschuld Christi. Er erinnert 
 
 Chrysostomus zeigt in seinen Homilien zum Johannesevangelium, dass Pilatus Jesus immer wieder freizusprechen versucht und dennoch schließlich nachgibt. Dadurch wird Pilatus zum Beispiel für die Schwäche menschlicher Macht: Sie erkennt das Rechte, aber sie wagt es nicht, ihm treu zu bleiben.
 
-### Orthodoxe Deutung des Namens im Credo
+### Orthodoxe Deutung des Namens im Glaubensbekenntnis
 
 Aus Schrift und patristischer Auslegung ergibt sich: Die Nennung des Pilatus ist nicht bloß ein Nebensatz, sondern ein Bekenntnis zur geschichtlichen Wirklichkeit der Passion. Diese Einordnung ist eine theologische Folgerung aus den Quellen.
 
@@ -138,7 +138,7 @@ Wenn die Kirche `unter Pontius Pilatus` bekennt, dann sagt sie mit: Auch dort, w
 
 `Unter Pontius Pilatus` bedeutet nicht:
 
-- Pilatus werde im Credo geehrt,
+- Pilatus werde im Glaubensbekenntnis geehrt,
 - die Schuld der Passion liege nur bei einer einzelnen Person,
 - das Evangelium wolle nur einen historischen Randfakt nennen,
 - die Heilsgeschichte sei von der Weltgeschichte getrennt.
@@ -157,7 +157,7 @@ Wichtig ist auch: Die Nennung des Pilatus darf nicht dazu missbraucht werden, di
 1. Bibelstellen:  
    Lukas 3,1; Matthäus 27,11-26; Markus 15,1-15; Lukas 23,1-25; Johannes 18,28-40; Johannes 19,1-16; 1 Timotheus 6,13.
 
-2. Erstes Konzil von Konstantinopel (381), Credo  
+2. Erstes Konzil von Konstantinopel (381), Glaubensbekenntnis  
    https://www.newadvent.org/fathers/3808.htm
 
 3. Heiliger Kyrill von Jerusalem, *Catechetical Lecture 13*  

@@ -13,7 +13,7 @@ source: "credo/ist-am-dritten-tage-auferstanden-nach-der-schrift.md"
 
 ## Erklärung
 
-Wenn das Credo sagt: `ist am dritten Tage auferstanden nach der Schrift`, dann bekennt es drei Dinge zugleich:
+Wenn das Glaubensbekenntnis sagt: `ist am dritten Tage auferstanden nach der Schrift`, dann bekennt es drei Dinge zugleich:
 
 - die Wirklichkeit der Auferstehung,
 - die konkrete Zeitangabe des dritten Tages,
@@ -94,7 +94,7 @@ Darum heißt `nach der Schrift`: Die Auferstehung ist nicht ein später Fremdkö
 
 - **1 Korinther 15,3-4**: Christus ist gestorben, begraben worden und am dritten Tag auferstanden nach der Schrift.
 
-Diese Stelle ist für diesen Credo-Satz grundlegend, weil sie genau dieselbe Struktur trägt:
+Diese Stelle ist für diesen Glaubensbekenntnis-Satz grundlegend, weil sie genau dieselbe Struktur trägt:
 
 - Tod,
 - Begräbnis,

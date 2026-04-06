@@ -6,7 +6,7 @@
 
 ## Erklärung
 
-Wenn das Credo sagt: `seiner Herrschaft wird kein Ende sein`, dann bekennt es die **ewige Königsherrschaft Christi**.
+Wenn das Glaubensbekenntnis sagt: `seiner Herrschaft wird kein Ende sein`, dann bekennt es die **ewige Königsherrschaft Christi**.
 
 Damit ist gemeint:
 
@@ -64,7 +64,7 @@ Darum bedeutet `seiner Herrschaft`:
 - kein Niedergang,
 - kein Aufhören seiner Königswürde.
 
-Dieser Satz richtet sich auch gegen ein mögliches Missverständnis: Man könnte denken, Christus herrsche nur bis zum Gericht oder nur bis alle Feinde unterworfen sind, und danach ende seine Herrschaft. Genau das verneint das Credo.
+Dieser Satz richtet sich auch gegen ein mögliches Missverständnis: Man könnte denken, Christus herrsche nur bis zum Gericht oder nur bis alle Feinde unterworfen sind, und danach ende seine Herrschaft. Genau das verneint das Glaubensbekenntnis.
 
 Denn `kein Ende` heißt:
 
@@ -90,7 +90,7 @@ Und doch wird seine Herrschaft **noch kommen** in voller Offenbarkeit:
 - in der Erneuerung aller Dinge,
 - im kommenden Reich.
 
-Darum meint das Credo nicht, dass Christus erst irgendwann König werden würde. Es meint:
+Darum meint das Glaubensbekenntnis nicht, dass Christus erst irgendwann König werden würde. Es meint:
 
 - seine Herrschaft ist jetzt schon wirklich,
 - aber dann wird sie endgültig, unbestritten und für alle offenbar sein.
@@ -119,7 +119,7 @@ Sie ist vielmehr:
 
 - **Lukas 1,32-33**: Der Herr wird ihm den Thron seines Vaters David geben; er wird herrschen über das Haus Jakobs in Ewigkeit, und seines Reiches wird kein Ende sein.
 
-Diese Stelle ist die Grundform des Credo-Satzes. Sie verbindet:
+Diese Stelle ist die Grundform des Glaubensbekenntnis-Satzes. Sie verbindet:
 
 - Messiaskönigtum,
 - davidische Verheißung,
@@ -150,7 +150,7 @@ Diese Stellen zeigen:
 
 ### Heiliger Kyrill von Jerusalem
 
-Kyrill behandelt diese Credo-Formel ausdrücklich in seiner fünfzehnten Katechese. Er warnt davor, auf diejenigen zu hören, die sagen, Christi Reich habe ein Ende. Für ihn ist klar: Die zweite Ankunft Christi führt nicht zu einem befristeten Reich, sondern zur Offenbarung einer himmlischen, ewigen Königsherrschaft.
+Kyrill behandelt diese Glaubensbekenntnis-Formel ausdrücklich in seiner fünfzehnten Katechese. Er warnt davor, auf diejenigen zu hören, die sagen, Christi Reich habe ein Ende. Für ihn ist klar: Die zweite Ankunft Christi führt nicht zu einem befristeten Reich, sondern zur Offenbarung einer himmlischen, ewigen Königsherrschaft.
 
 ### Heiliger Gregor von Nazianz
 

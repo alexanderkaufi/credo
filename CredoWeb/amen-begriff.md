@@ -9,11 +9,11 @@ source: "credo/amen-begriff.md"
 
 ## Kurze Zusammenfassung
 
-`Amen` ist im Credo nicht bloß ein frommes Schlusswort. Es kommt aus dem hebräischen Wortfeld von **Festigkeit, Treue und Verlässlichkeit**. `Amen` bedeutet darum mehr als `Ende`: Es heißt sinngemäß `gewiss`, `wahrhaftig`, `so ist es`. Wenn die Kirche am Ende des Glaubensbekenntnisses `Amen` sagt, setzt sie ihr Siegel auf das Bekenntnis: Das ist wahr, daran halte ich fest, so bekenne ich vor Gott.
+`Amen` ist im Glaubensbekenntnis nicht bloß ein frommes Schlusswort. Es kommt aus dem hebräischen Wortfeld von **Festigkeit, Treue und Verlässlichkeit**. `Amen` bedeutet darum mehr als `Ende`: Es heißt sinngemäß `gewiss`, `wahrhaftig`, `so ist es`. Wenn die Kirche am Ende des Glaubensbekenntnisses `Amen` sagt, setzt sie ihr Siegel auf das Bekenntnis: Das ist wahr, daran halte ich fest, so bekenne ich vor Gott.
 
 ## Erklärung
 
-Wenn das Credo mit `Amen` endet, dann ist das keine bloße Höflichkeitsformel und auch kein liturgisches Geräusch ohne Inhalt.
+Wenn das Glaubensbekenntnis mit `Amen` endet, dann ist das keine bloße Höflichkeitsformel und auch kein liturgisches Geräusch ohne Inhalt.
 
 Die Kirche sagt damit:
 
@@ -22,7 +22,7 @@ Die Kirche sagt damit:
 - Wir bekennen es mit Vertrauen.
 - Wir stehen darauf fest.
 
-Darum ist `Amen` im Credo mehr als:
+Darum ist `Amen` im Glaubensbekenntnis mehr als:
 
 - `das war's`,
 - `so endet der Text`,
@@ -60,7 +60,7 @@ Das ist wichtig: `Amen` bedeutet ursprünglich nicht zuerst `so sei es` im Sinn 
 
 Darum steht `Amen` innerlich auch nah bei `Glauben`. Wer `Amen` sagt, spricht nicht nur einen Klang, sondern antwortet mit Vertrauen auf Gottes Wahrheit.
 
-## Was bedeutet `Amen` im Credo?
+## Was bedeutet `Amen` im Glaubensbekenntnis?
 
 Am Ende des Glaubensbekenntnisses bedeutet `Amen`:
 
@@ -73,7 +73,7 @@ Darum ist `Amen` gleichsam das persönliche und kirchliche Siegel unter das zuvo
 
 Man könnte sagen:
 
-- Das Credo entfaltet den Inhalt,
+- Das Glaubensbekenntnis entfaltet den Inhalt,
 - `Amen` bekräftigt die Antwort des Herzens.
 
 ## Nicht nur Schlussformel, sondern Siegel
@@ -88,7 +88,7 @@ In der biblischen und liturgischen Sprache ist `Amen` oft Antwort der Gemeinde a
 
 Gerade deshalb passt `Amen` so stark an das Ende des Credos. Denn dort sagt die Kirche nicht nur etwas über Gott, sondern sie antwortet Gott.
 
-Kyrill von Jerusalem sagt in seiner mystagogischen Katechese zum Vaterunser, dass man durch das `Amen` sein Siegel auf die göttlich gelehrten Bitten setzt. Das lässt sich sehr gut auch auf das Credo anwenden:
+Kyrill von Jerusalem sagt in seiner mystagogischen Katechese zum Vaterunser, dass man durch das `Amen` sein Siegel auf die göttlich gelehrten Bitten setzt. Das lässt sich sehr gut auch auf das Glaubensbekenntnis anwenden:
 
 - `Amen` ist das Siegel des Glaubens.
 
@@ -168,7 +168,7 @@ Diese Stellen zeigen:
 
 ### Heiliger Kyrill von Jerusalem
 
-Kyrill erklärt ausdrücklich, dass man nach dem Vaterunser `Amen` sagt und dadurch sein Siegel auf die göttlich gelehrten Bitten setzt. Das ist für das Credo sehr hilfreich: `Amen` ist auch dort das gläubige Siegel auf das Bekenntnis der Kirche.
+Kyrill erklärt ausdrücklich, dass man nach dem Vaterunser `Amen` sagt und dadurch sein Siegel auf die göttlich gelehrten Bitten setzt. Das ist für das Glaubensbekenntnis sehr hilfreich: `Amen` ist auch dort das gläubige Siegel auf das Bekenntnis der Kirche.
 
 ### Heiliger Johannes Chrysostomus
 
@@ -184,7 +184,7 @@ Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deu
 
 Die Aussage `Amen` schützt mehrere Wahrheiten:
 
-- Das Credo endet nicht im bloßen Vortrag, sondern in Antwort.
+- Das Glaubensbekenntnis endet nicht im bloßen Vortrag, sondern in Antwort.
 - Wahrheit verlangt Zustimmung des Glaubens.
 - Der Glaube der Kirche ist fest und nicht bloß Meinung.
 - Christus ist die letzte Grundlage der Wahrhaftigkeit des Bekenntnisses.

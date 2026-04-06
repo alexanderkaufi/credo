@@ -13,7 +13,7 @@ source: "credo/zu-richten-die-lebenden-und-die-toten.md"
 
 ## Erklärung
 
-Wenn das Credo sagt, dass Christus wiederkommen wird `zu richten die Lebenden und die Toten`, dann spricht es vom **endgültigen Gericht Christi**.
+Wenn das Glaubensbekenntnis sagt, dass Christus wiederkommen wird `zu richten die Lebenden und die Toten`, dann spricht es vom **endgültigen Gericht Christi**.
 
 Damit ist gemeint:
 
@@ -65,7 +65,7 @@ Im ersten und naheliegenden Sinn meint die Formulierung:
 - die Menschen, die bei der Wiederkunft Christi noch leben,
 - und die Menschen, die bis dahin schon gestorben sind.
 
-Damit sagt das Credo:
+Damit sagt das Glaubensbekenntnis:
 
 - Niemand steht außerhalb dieses Gerichts.
 - Keine Zeit und kein Zustand entzieht sich Christus.
@@ -87,7 +87,7 @@ In weiterem geistlichen Sinn kann die kirchliche Auslegung manchmal auch an geis
 
 ## Christus der Richter
 
-Das Credo sagt damit auch etwas sehr Wichtiges über Christus selbst:
+Das Glaubensbekenntnis sagt damit auch etwas sehr Wichtiges über Christus selbst:
 
 - Der Richter ist derselbe, der für uns Mensch wurde.
 - Der Richter ist derselbe, der für uns litt.

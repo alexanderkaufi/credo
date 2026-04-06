@@ -2,11 +2,11 @@
 
 ## Kurze Zusammenfassung
 
-`Apostolische` bedeutet im Credo, dass die Kirche **auf die Apostel zurückgeht**, in ihrer Lehre bleibt und ihr Leben treu weitergibt. Sie ist apostolisch nicht bloß, weil sie sehr alt ist, sondern weil sie den von Christus gesandten Aposteln gegründet, unterwiesen und geordnet wurde. Dazu gehören die apostolische Lehre, das kirchliche Leben und die lebendige Weitergabe der Wahrheit von Generation zu Generation.
+`Apostolische` bedeutet im Glaubensbekenntnis, dass die Kirche **auf die Apostel zurückgeht**, in ihrer Lehre bleibt und ihr Leben treu weitergibt. Sie ist apostolisch nicht bloß, weil sie sehr alt ist, sondern weil sie den von Christus gesandten Aposteln gegründet, unterwiesen und geordnet wurde. Dazu gehören die apostolische Lehre, das kirchliche Leben und die lebendige Weitergabe der Wahrheit von Generation zu Generation.
 
 ## Erklärung
 
-Wenn das Credo von der Kirche sagt, sie sei `apostolische`, dann meint es damit nicht bloß einen ehrwürdigen Bezug zur Vergangenheit.
+Wenn das Glaubensbekenntnis von der Kirche sagt, sie sei `apostolische`, dann meint es damit nicht bloß einen ehrwürdigen Bezug zur Vergangenheit.
 
 Es meint:
 
@@ -46,7 +46,7 @@ Eine wichtige Klarstellung ist nötig:
 
 Denn etwas kann alt sein und dennoch vom apostolischen Glauben abweichen.
 
-Im Credo bedeutet `apostolische` vielmehr:
+Im Glaubensbekenntnis bedeutet `apostolische` vielmehr:
 
 - gegründet auf die Apostel,
 - treu zur apostolischen Lehre,

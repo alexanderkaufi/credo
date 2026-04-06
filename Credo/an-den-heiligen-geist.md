@@ -2,11 +2,11 @@
 
 ## Kurze Zusammenfassung
 
-`An den Heiligen Geist` bedeutet, dass die Kirche den Heiligen Geist **nicht nur als Kraft oder Wirkung Gottes**, sondern als göttliche Person bekennt. Wir glauben nicht bloß etwas über ihn, sondern bekennen ihn mit dem Vater und dem Sohn im einen Glauben der Kirche. Darum ist der Heilige Geist nicht Geschöpf, Engel oder bloße Energie, sondern wahrhaft göttlich und heilig.
+`An den Heiligen Geist` bedeutet, dass die Kirche den Heiligen Geist **nicht nur als Kraft oder Wirkung Gottes**, sondern als göttliche Hypostase bekennt. Im westlichen Sprachgebrauch wird hier oft von einer göttlichen `Person` gesprochen. Wir glauben nicht bloß etwas über ihn, sondern bekennen ihn mit dem Vater und dem Sohn im einen Glauben der Kirche. Darum ist der Heilige Geist nicht Geschöpf, Engel oder bloße Energie, sondern wahrhaft göttlich und heilig.
 
 ## Erklärung
 
-Wenn das Credo sagt: `Wir glauben an den Heiligen Geist`, dann ist das ein sehr starker Satz.
+Wenn das Glaubensbekenntnis sagt: `Wir glauben an den Heiligen Geist`, dann ist das ein sehr starker Satz.
 
 Er bedeutet nicht nur:
 
@@ -32,7 +32,7 @@ Es bedeutet hier mehr als bloß:
 - etwas für wahr halten,
 - oder eine Lehre über etwas annehmen.
 
-Im Credo bedeutet `an`:
+Im Glaubensbekenntnis bedeutet `an`:
 
 - gläubiges Bekenntnis,
 - vertrauendes Sich-Halten an Gott,
@@ -73,13 +73,13 @@ Die Formel `an den Heiligen Geist` schützt mehrere grundlegende Wahrheiten:
 
 - Der Heilige Geist ist nicht Geschöpf.
 - Der Heilige Geist gehört nicht auf die Seite der geschaffenen Welt.
-- Der Heilige Geist ist nicht bloß Mittel, sondern göttliche Person.
+- Der Heilige Geist ist nicht bloß Mittel, sondern göttliche Hypostase.
 - Der Heilige Geist wird mit dem Vater und dem Sohn im einen Glauben der Kirche bekannt.
 
 Darum ist dieses Credowort von großer Bedeutung. Es ist ein Schutz gegen zwei entgegengesetzte Fehler:
 
 - gegen die Verkleinerung des Geistes zu einer bloßen Kraft,
-- und gegen die Verwirrung, als wären Vater, Sohn und Heiliger Geist bloß drei Namen für dasselbe ohne personale Unterscheidung.
+- und gegen die Verwirrung, als wären Vater, Sohn und Heiliger Geist bloß drei Namen für dasselbe ohne wirkliche Unterscheidung der Hypostasen.
 
 ## Biblische Grundlage
 
@@ -136,7 +136,7 @@ Gregor fragt offen: Wenn der Heilige Geist nicht Gott ist, wie könnte er vergö
 
 ### Heiliger Johannes von Damaskus
 
-Johannes von Damaskus ordnet den Heiligen Geist klar in das eine göttliche Leben ein. Er unterscheidet die Personen, ohne die Gottheit zu trennen. So wird deutlich: Der Heilige Geist ist weder der Vater noch der Sohn, aber er gehört mit ihnen untrennbar in die eine göttliche Natur.
+Johannes von Damaskus ordnet den Heiligen Geist klar in das eine göttliche Leben ein. Er unterscheidet die Hypostasen, ohne die Gottheit zu trennen. So wird deutlich: Der Heilige Geist ist weder der Vater noch der Sohn, aber er gehört mit ihnen untrennbar in die eine göttliche Natur.
 
 Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
@@ -144,7 +144,7 @@ Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deu
 
 Dieses Grundkapitel erklärt vor allem das Bekenntnis `an den Heiligen Geist`.
 
-Weitere Credo-Aussagen zum Heiligen Geist werden in eigenen Kapiteln entfaltet, besonders:
+Weitere Glaubensbekenntnis-Aussagen zum Heiligen Geist werden in eigenen Kapiteln entfaltet, besonders:
 
 - `der Herr ist`
 - `lebendig macht`
@@ -219,3 +219,14 @@ Im orthodoxen Sinn bedeutet es vielmehr:
 
 7. Heiliger Johannes von Damaskus, *An Exposition of the Orthodox Faith, Book I*  
    https://www.newadvent.org/fathers/33041.htm
+
+### Zur Begriffsklärung von `Hypostase`
+
+8. Heiliger Basilius der Große, *Letter 38* - zur Unterscheidung von `ousia` und `hypostasis`  
+   https://www.newadvent.org/fathers/3202038.htm
+
+9. Heiliger Gregor von Nyssa, *On "Not Three Gods"* - zur Einheit Gottes bei wirklicher Unterschiedenheit der Hypostasen  
+   https://www.newadvent.org/fathers/2905.htm
+
+10. Orthodox Church in America, *The Three Divine Persons* - zur Unterscheidung von Wesen und Hypostase  
+    https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/the-holy-trinity/the-three-divine-persons

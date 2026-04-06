@@ -2,7 +2,7 @@
 
 ## Kurze Zusammenfassung
 
-`Wir glauben` steht dort, weil das Credo ursprünglich als gemeinsames Bekenntnis der versammelten Kirche formuliert wurde. Der griechische Konzilstext beginnt mit `Πιστεύομεν` = `Wir glauben`. Die spätere Form `Ich glaube` ist vor allem liturgisch und taufbezogen. Beide Formen sind orthodox verständlich, aber `Wir glauben` betont besonders die Stimme der Kirche und der heiligen Väter.
+`Wir glauben` steht dort, weil das Glaubensbekenntnis ursprünglich als gemeinsames Bekenntnis der versammelten Kirche formuliert wurde. Der griechische Konzilstext beginnt mit `Πιστεύομεν` = `Wir glauben`. Die spätere Form `Ich glaube` ist vor allem liturgisch und taufbezogen. Beide Formen sind orthodox verständlich, aber `Wir glauben` betont besonders die Stimme der Kirche und der heiligen Väter.
 
 ## Erklärung
 
@@ -49,7 +49,7 @@ Außerdem sagt er:
 
 **„Der Glaube, den das Konzil schriftlich bekannt hat, das ist der Glaube der katholischen Kirche.“**
 
-Für die Frage nach `Wir glauben` ist das wichtig: Das Credo ist hier nicht zuerst die Privatmeinung Einzelner, sondern das **schriftlich bekannte Glaubenszeugnis der Väter und der Kirche**.
+Für die Frage nach `Wir glauben` ist das wichtig: Das Glaubensbekenntnis ist hier nicht zuerst die Privatmeinung Einzelner, sondern das **schriftlich bekannte Glaubenszeugnis der Väter und der Kirche**.
 
 ### 3. Der heilige Kyrill von Jerusalem zeigt, warum später „Ich glaube“ üblich wurde
 
@@ -65,7 +65,7 @@ Das zeigt: Die **Singularform** gehört besonders zur **persönlichen Taufbekenn
 
 ### 4. Eine heutige orthodoxe Erklärung fasst den Unterschied sehr klar zusammen
 
-Die Orthodox Church in America erklärt, dass das Credo später in die Form **„Ich glaube“** gebracht wurde, damit es bei Taufe und Göttlicher Liturgie als **persönliches Bekenntnis** gesprochen werden kann. Zugleich zitiert dieselbe Darstellung den älteren Konzilswortlaut mit **„Wir glauben“**.
+Die Orthodox Church in America erklärt, dass das Glaubensbekenntnis später in die Form **„Ich glaube“** gebracht wurde, damit es bei Taufe und Göttlicher Liturgie als **persönliches Bekenntnis** gesprochen werden kann. Zugleich zitiert dieselbe Darstellung den älteren Konzilswortlaut mit **„Wir glauben“**.
 
 ## Biblische Anklänge
 
@@ -79,14 +79,14 @@ Zugleich kennt die Heilige Schrift auch die persönliche Form des Bekenntnisses:
 
 - **Röm 10,9-10**: Der Glaube wird persönlich mit Herz und Mund bekannt.
 - **Mk 9,24**: „Ich glaube; hilf meinem Unglauben!“
-- **Mt 28,19**: Die Taufformel erklärt, warum das Credo in der Kirche eng mit dem persönlichen Taufbekenntnis verbunden ist.
+- **Mt 28,19**: Die Taufformel erklärt, warum das Glaubensbekenntnis in der Kirche eng mit dem persönlichen Taufbekenntnis verbunden ist.
 
 ## Theologische Bedeutung von „Wir“
 
 Dass dort `Wir` steht, bedeutet daher:
 
 - Der Glaube ist nicht nur privat, sondern der **Glaube der Kirche**.
-- Das Credo ist eine **gemeinsame Abwehr falscher Lehren** und ein gemeinsames Bekenntnis zur Wahrheit.
+- Das Glaubensbekenntnis ist eine **gemeinsame Abwehr falscher Lehren** und ein gemeinsames Bekenntnis zur Wahrheit.
 - Der Einzelne glaubt nie isoliert, sondern **in der Gemeinschaft der Kirche**.
 - Die Form `Wir glauben` erinnert besonders an die **Stimme der heiligen Väter** auf den ökumenischen Konzilien.
 

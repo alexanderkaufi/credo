@@ -6,7 +6,7 @@
 
 ## Erklärung
 
-Wenn das Credo sagt, dass der Heilige Geist `aus dem Vater hervorgeht`, dann spricht es nicht zuerst von Pfingsten oder vom Kommen des Geistes in unser Leben, sondern von seinem **ewigen Sein in Gott**.
+Wenn das Glaubensbekenntnis sagt, dass der Heilige Geist `aus dem Vater hervorgeht`, dann spricht es nicht zuerst von Pfingsten oder vom Kommen des Geistes in unser Leben, sondern von seinem **ewigen Sein in Gott**.
 
 Der Satz enthält drei Hauptaussagen:
 
@@ -14,7 +14,7 @@ Der Satz enthält drei Hauptaussagen:
 - **hervorgeht**
 - dies ist etwas anderes als Zeugung und etwas anderes als Sendung
 
-Das Credo sagt damit:
+Das Glaubensbekenntnis sagt damit:
 
 - Der Heilige Geist ist nicht geschöpflich.
 - Er ist nicht von außen zu Gott hinzugekommen.
@@ -37,7 +37,7 @@ Es bedeutet vielmehr:
 - personale Herkunft,
 - Ursprung ohne Anfang,
 - Einheit der göttlichen Natur,
-- Ordnung der Personen ohne Ungleichheit im Wesen.
+- Ordnung der Hypostasen ohne Ungleichheit im Wesen.
 
 Darum ist der Vater im orthodoxen Sinn:
 
@@ -115,11 +115,11 @@ Darum hält die orthodoxe Lehre beides zusammen:
 - ewig geht der Geist aus dem Vater hervor,
 - in der Heilsgeschichte wird er durch den Sohn gesandt und offenbart.
 
-So wird weder die Schrift über die Sendung des Geistes verkleinert noch die Credo-Aussage über seine ewige Herkunft verwischt.
+So wird weder die Schrift über die Sendung des Geistes verkleinert noch die Glaubensbekenntnis-Aussage über seine ewige Herkunft verwischt.
 
 ## Orthodoxe Präzisierung
 
-Das Credo folgt hier bewusst dem Wort des Herrn in **Johannes 15,26**.
+Das Glaubensbekenntnis folgt hier bewusst dem Wort des Herrn in **Johannes 15,26**.
 
 Im orthodoxen Verständnis bedeutet diese Formel:
 
@@ -135,7 +135,7 @@ Darum spricht die orthodoxe Tradition an dieser Stelle sehr sorgfältig. Sie wil
 
 - **Johannes 15,26**: `Wenn der Tröster kommt, den ich euch vom Vater senden werde, der Geist der Wahrheit, der vom Vater ausgeht, wird er Zeugnis von mir geben.`
 
-Diese Stelle ist die unmittelbare Grundlage der Credo-Formel. Hier werden zugleich unterschieden:
+Diese Stelle ist die unmittelbare Grundlage der Glaubensbekenntnis-Formel. Hier werden zugleich unterschieden:
 
 - die Sendung des Geistes durch den Sohn,
 - und das ewige Ausgehen des Geistes vom Vater.
@@ -180,7 +180,7 @@ Er sagt ebenso deutlich:
 - aber nicht so, als gehe er **vom Sohn hervor** wie aus einer zweiten Ursache,
 - sondern weil er durch den Sohn offenbart und uns mitgeteilt wird.
 
-Damit gibt Johannes von Damaskus eine der klarsten orthodoxen Zusammenfassungen dieses Credo-Satzes.
+Damit gibt Johannes von Damaskus eine der klarsten orthodoxen Zusammenfassungen dieses Glaubensbekenntnis-Satzes.
 
 ### Heiliger Basilius der Große
 
@@ -195,7 +195,7 @@ Die Aussage `aus dem Vater hervorgeht` schützt mehrere Wahrheiten:
 - Der Heilige Geist ist nicht Geschöpf.
 - Der Vater bleibt die personale Quelle ohne Ursprung.
 - Der Geist ist wirklich von Gott und wahrhaft Gott.
-- Der Sohn und der Geist werden personal unterschieden.
+- Der Sohn und der Geist werden hypostatisch unterschieden.
 - Die Sendung des Geistes in der Zeit wird nicht mit seiner ewigen Herkunft verwechselt.
 
 Darum ist dieser Satz im orthodoxen Glauben ein Schlüssel für das rechte Verständnis der Dreifaltigkeit.
@@ -236,7 +236,7 @@ Im orthodoxen Sinn bedeutet es vielmehr:
 2. Griechisches Wort `ἐκπορεύομαι` (`ekporeuomai`)  
    https://biblehub.com/greek/1607.htm
 
-3. Erstes Konzil von Konstantinopel (381), Credo  
+3. Erstes Konzil von Konstantinopel (381), Glaubensbekenntnis  
    https://www.newadvent.org/fathers/3808.htm
 
 4. Heiliger Kyrill von Jerusalem, *Catechetical Lecture 17*  

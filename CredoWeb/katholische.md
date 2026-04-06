@@ -9,11 +9,11 @@ source: "credo/katholische.md"
 
 ## Kurze Zusammenfassung
 
-`Katholische` bedeutet im Credo nicht zuerst eine spätere Konfessionsbezeichnung, sondern die **ganze**, **allumfassende** Kirche Christi. Sie ist katholisch, weil sie sich über die ganze Welt erstreckt, die Fülle des Glaubens bewahrt, Menschen aller Völker ruft und das ganze menschliche Leben auf Gott hin ordnet. Das Wort meint also mehr als `weltweit`: Es meint die Ganzheit der Wahrheit, des Heils und des kirchlichen Lebens.
+`Katholische` bedeutet im Glaubensbekenntnis nicht zuerst eine spätere Konfessionsbezeichnung, sondern die **ganze**, **allumfassende** Kirche Christi. Sie ist katholisch, weil sie sich über die ganze Welt erstreckt, die Fülle des Glaubens bewahrt, Menschen aller Völker ruft und das ganze menschliche Leben auf Gott hin ordnet. Das Wort meint also mehr als `weltweit`: Es meint die Ganzheit der Wahrheit, des Heils und des kirchlichen Lebens.
 
 ## Erklärung
 
-Wenn das Credo von der Kirche sagt, sie sei `katholische`, dann gebraucht es ein sehr altes christliches Wort.
+Wenn das Glaubensbekenntnis von der Kirche sagt, sie sei `katholische`, dann gebraucht es ein sehr altes christliches Wort.
 
 Das Wort geht auf das Griechische zurück und hängt mit `kath' holou` zusammen, also sinngemäß:
 
@@ -29,7 +29,7 @@ Im ursprünglichen Sinn bedeutet `katholisch`:
 - nicht nur für einen Teil der Menschen,
 - nicht nur Trägerin einzelner Wahrheiten, sondern der ganzen überlieferten Glaubensfülle.
 
-Darum sagt das Credo mit `katholische` nicht bloß:
+Darum sagt das Glaubensbekenntnis mit `katholische` nicht bloß:
 
 - die Kirche ist groß,
 - die Kirche ist weit verbreitet,
@@ -44,7 +44,7 @@ Es sagt vielmehr:
 
 ## Was bedeutet `katholisch` genauer?
 
-Im Credo hat `katholisch` mehrere eng verbundene Bedeutungen:
+Im Glaubensbekenntnis hat `katholisch` mehrere eng verbundene Bedeutungen:
 
 - **räumlich**: Die Kirche ist nicht an einen Stamm, ein Volk oder ein Land gebunden.
 - **inhaltlich**: Sie bewahrt nicht nur Stücke der Wahrheit, sondern die Fülle des apostolischen Glaubens.
@@ -71,7 +71,7 @@ Die Kirche ist katholisch, weil Christus für die ganze Welt gekommen ist und we
 
 Hier ist eine wichtige Klarstellung nötig.
 
-Im Credo bedeutet `katholische` **nicht zuerst** das, was man heute im alltäglichen Sprachgebrauch oft mit `römisch-katholisch` verbindet.
+Im Glaubensbekenntnis bedeutet `katholische` **nicht zuerst** das, was man heute im alltäglichen Sprachgebrauch oft mit `römisch-katholisch` verbindet.
 
 Das Wort ist viel älter als die späteren konfessionellen Bezeichnungen. Im Glaubensbekenntnis meint es:
 
@@ -82,7 +82,7 @@ Das Wort ist viel älter als die späteren konfessionellen Bezeichnungen. Im Gla
 
 Darum kann man sagen:
 
-- Im Credo ist `katholisch` ein altkirchliches Glaubenswort.
+- Im Glaubensbekenntnis ist `katholisch` ein altkirchliches Glaubenswort.
 - Erst viel später wurde es im Alltagsgebrauch auch als Konfessionsname gehört.
 
 ## Unterschied zu `eine`, `heilige` und `apostolische`
@@ -146,7 +146,7 @@ Kyrill erklärt in seiner achtzehnten Katechese ausdrücklich, warum die Kirche 
 - weil sie jede Art von Sünde heilt,
 - und weil sie in sich jede Form der Tugend und geistlichen Gabe besitzt.
 
-Diese Erklärung ist für das Credo besonders wichtig, weil Kyrill nicht nur das Wort nennt, sondern seinen ganzen kirchlichen Sinn entfaltet.
+Diese Erklärung ist für das Glaubensbekenntnis besonders wichtig, weil Kyrill nicht nur das Wort nennt, sondern seinen ganzen kirchlichen Sinn entfaltet.
 
 ### Heiliger Irenäus von Lyon
 
@@ -168,7 +168,7 @@ Die Aussage `katholische` schützt mehrere Wahrheiten:
 - Sie ist weder Stammesreligion noch Spezialschule.
 - Sie bleibt offen für alle, die Christus ruft.
 
-Darum ist `katholische` im Credo ein Bekenntnis zur Weite und Fülle der Kirche.
+Darum ist `katholische` im Glaubensbekenntnis ein Bekenntnis zur Weite und Fülle der Kirche.
 
 ## Liturgische und geistliche Bedeutung
 

@@ -9,11 +9,11 @@ source: "credo/eines-wesens-mit-dem-vater.md"
 
 ## Kurze Zusammenfassung
 
-`Eines Wesens mit dem Vater` bedeutet, dass der Sohn **dieselbe göttliche Natur** wie der Vater besitzt. Er ist nicht nur ähnlich, nicht nur beinahe gleich und nicht nur ein hoher göttlicher Gesandter, sondern **wirklich derselbe Gott nach dem Wesen**. Zugleich bleibt der Sohn eine **eigene Person** und ist nicht einfach mit dem Vater identisch. Die Formel schützt also zugleich **Einheit der Gottheit** und **Unterschiedenheit der Personen**.
+`Eines Wesens mit dem Vater` bedeutet, dass der Sohn **dieselbe göttliche Natur** wie der Vater besitzt. Er ist nicht nur ähnlich, nicht nur beinahe gleich und nicht nur ein hoher göttlicher Gesandter, sondern **wirklich derselbe Gott nach dem Wesen**. Zugleich bleibt der Sohn eine **eigene Hypostase** und ist nicht einfach mit dem Vater identisch. Im westlichen Sprachgebrauch wird `Hypostase` hier oft mit `Person` wiedergegeben. Die Formel schützt also zugleich **Einheit der Gottheit** und **Unterschiedenheit der Hypostasen**.
 
 ## Erklärung
 
-Wenn das Credo sagt: **„eines Wesens mit dem Vater“**, dann bekennt es eine der wichtigsten Aussagen der ganzen christlichen Lehre.
+Wenn das Glaubensbekenntnis sagt: **„eines Wesens mit dem Vater“**, dann bekennt es eine der wichtigsten Aussagen der ganzen christlichen Lehre.
 
 Gemeint ist:
 
@@ -53,20 +53,20 @@ Das bedeutet:
 
 Die Kirche hat dieses Wort nicht gewählt, um etwas künstlich kompliziert zu machen, sondern um den Glauben zu schützen. Denn man hätte auch sagen können, der Sohn sei dem Vater nur `ähnlich`. Genau das hätte aber offen gelassen, ob er vielleicht doch nur ein sehr hohes Geschöpf sei. `Eines Wesens` schließt diese Fluchtmöglichkeit aus.
 
-## Wesen und Person unterscheiden
+## Wesen und Hypostase unterscheiden
 
-Diese Formel ist nur dann richtig verstanden, wenn man **Wesen** und **Person** unterscheidet.
+Diese Formel ist nur dann richtig verstanden, wenn man **Wesen** und **Hypostase** unterscheidet. Im westlichen Sprachgebrauch wird `Hypostase` hier oft mit `Person` übersetzt; der orthodoxe Begriff ist jedoch präziser.
 
 - Das **Wesen** beantwortet die Frage: `Was ist Gott?`
-- Die **Person** beantwortet die Frage: `Wer ist Gott?`
+- Die **Hypostase** beantwortet die Frage: `Wer ist Gott?`
 
 Darum gilt im orthodoxen Glauben:
 
 - ein göttliches Wesen,
-- drei göttliche Personen:
+- drei göttliche Hypostasen:
   Vater, Sohn und Heiliger Geist.
 
-Wenn das Credo sagt, der Sohn sei `eines Wesens mit dem Vater`, dann meint es also **nicht**, dass der Sohn einfach dieselbe Person wie der Vater wäre. Der Vater ist nicht der Sohn, und der Sohn ist nicht der Vater. Aber beide sind **ein Gott nach dem Wesen**.
+Wenn das Glaubensbekenntnis sagt, der Sohn sei `eines Wesens mit dem Vater`, dann meint es also **nicht**, dass der Sohn einfach dieselbe Hypostase wie der Vater wäre. Der Vater ist nicht der Sohn, und der Sohn ist nicht der Vater. Aber beide sind **ein Gott nach dem Wesen**.
 
 ## Biblische Grundlage
 
@@ -104,7 +104,7 @@ Außerdem zeigt Athanasius, dass man sonst den Vater selbst falsch verstehen wü
 
 ### Heiliger Gregor von Nazianz
 
-Gregor hält fest, dass zwischen Vater und Sohn kein Unterschied der Gottheit besteht. Unterschiede gibt es in der personalen Herkunft, nicht in der Natur. Darum kann man nicht sagen: Der Vater sei mehr Gott und der Sohn weniger Gott. In den wesensgleichen Personen gibt es kein Mehr oder Weniger der Gottheit.
+Gregor hält fest, dass zwischen Vater und Sohn kein Unterschied der Gottheit besteht. Unterschiede gibt es in der personalen Herkunft, nicht in der Natur. Darum kann man nicht sagen: Der Vater sei mehr Gott und der Sohn weniger Gott. In den wesensgleichen Hypostasen gibt es kein Mehr oder Weniger der Gottheit.
 
 ### Heiliger Kyrill von Jerusalem
 
@@ -112,7 +112,7 @@ Kyrill bekennt den Sohn als `Gott von Gott`, `Licht vom Licht` und ordnet ihn kl
 
 ### Heiliger Johannes von Damaskus
 
-Johannes von Damaskus fasst die Lehre der Kirche so zusammen, dass der Sohn in allem dem Vater gleich ist, außer in der Vaterschaft. Damit ist genau gesagt, was `eines Wesens mit dem Vater` meint: gleiche göttliche Natur, ohne Aufhebung der personalen Unterscheidung.
+Johannes von Damaskus fasst die Lehre der Kirche so zusammen, dass der Sohn in allem dem Vater gleich ist, außer in der Vaterschaft. Damit ist genau gesagt, was `eines Wesens mit dem Vater` meint: gleiche göttliche Natur, ohne Aufhebung der Unterschiedenheit der Hypostasen.
 
 Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
@@ -139,8 +139,8 @@ Die Aussage `eines Wesens mit dem Vater` schützt mehrere Wahrheiten:
 - Der Sohn ist wahrer Gott.
 - Der Sohn ist nicht Geschöpf.
 - Es gibt nicht zwei Götter.
-- Vater und Sohn sind nicht dieselbe Person.
-- Die Trinität ist Einheit des Wesens und Unterschiedenheit der Personen.
+- Vater und Sohn sind nicht dieselbe Hypostase.
+- Die Trinität ist Einheit des Wesens und Unterschiedenheit der Hypostasen.
 
 Darum ist diese Formel ein Schutz gegen:
 
@@ -163,7 +163,7 @@ Wer `eines Wesens mit dem Vater` bekennt, lernt, Christus weder zu verkleinern n
 
 `Eines Wesens mit dem Vater` bedeutet nicht:
 
-- dieselbe Person wie der Vater,
+- dieselbe Hypostase wie der Vater,
 - nur ähnliche Gesinnung,
 - bloß große Nähe zu Gott,
 - zwei Götter mit gleichem Rang.
@@ -173,14 +173,14 @@ Im orthodoxen Sinn bedeutet es vielmehr:
 - dieselbe göttliche Natur,
 - wahre Gottheit des Sohnes,
 - Einheit Gottes,
-- Unterschiedenheit der Personen ohne Trennung des Wesens.
+- Unterschiedenheit der Hypostasen ohne Trennung des Wesens.
 
 ## Quellen
 
 1. Bibelstellen:  
    Johannes 1,1; Johannes 10,30; Johannes 14,9; Johannes 14,11; Johannes 16,15; Johannes 17,10; Hebräer 1,3; Philipper 2,6; Kolosser 2,9.
 
-2. Erstes Konzil von Nizäa, Credo von 325  
+2. Erstes Konzil von Nizäa, Glaubensbekenntnis von 325  
    https://www.newadvent.org/fathers/3801.htm
 
 3. Heiliger Athanasius der Große, *De Synodis*  
@@ -197,3 +197,14 @@ Im orthodoxen Sinn bedeutet es vielmehr:
 
 7. Heiliger Johannes von Damaskus, *An Exposition of the Orthodox Faith, Book I*  
    https://www.newadvent.org/fathers/33041.htm
+
+### Zur Begriffsklärung von `Hypostase`
+
+8. Heiliger Basilius der Große, *Letter 38* - zur Unterscheidung von `ousia` und `hypostasis`  
+   https://www.newadvent.org/fathers/3202038.htm
+
+9. Heiliger Basilius der Große, *Letter 214* - zur sprachlichen und theologischen Präzisierung des Begriffs  
+   https://www.newadvent.org/fathers/3202214.htm
+
+10. Heiliger Gregor von Nyssa, *On "Not Three Gods"* - zur Einheit Gottes bei wirklicher Unterschiedenheit der Hypostasen  
+    https://www.newadvent.org/fathers/2905.htm

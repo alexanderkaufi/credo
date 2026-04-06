@@ -13,7 +13,7 @@ In der Formulierung `durch den Heiligen Geist` liegt der Schwerpunkt auf dem Wor
 
 ## Erklärung
 
-Wenn das Credo sagt, dass Christus Fleisch angenommen hat **„durch den Heiligen Geist von der Jungfrau Maria“**, dann ist das kleine Wort `durch` theologisch sehr wichtig.
+Wenn das Glaubensbekenntnis sagt, dass Christus Fleisch angenommen hat **„durch den Heiligen Geist von der Jungfrau Maria“**, dann ist das kleine Wort `durch` theologisch sehr wichtig.
 
 Es bedeutet zuerst:
 
@@ -29,7 +29,7 @@ Man kann sagen:
 - **durch den Heiligen Geist** = die Inkarnation geschieht durch sein göttliches Wirken
 - **von der Jungfrau Maria** = die angenommene menschliche Natur stammt wirklich aus Maria
 
-Gerade diese Unterscheidung ist wichtig. Das Credo will sagen:
+Gerade diese Unterscheidung ist wichtig. Das Glaubensbekenntnis will sagen:
 
 - Christus ist wahrhaft von Maria geboren,
 - aber seine Empfängnis geschieht nicht durch menschliches Zeugungsprinzip,
@@ -37,7 +37,7 @@ Gerade diese Unterscheidung ist wichtig. Das Credo will sagen:
 
 ## Sprachlicher Hinweis zur Formulierung
 
-In wörtlicheren Übersetzungen des griechischen Credo lautet die Stelle oft eher:
+In wörtlicheren Übersetzungen des griechischen Glaubensbekenntnis lautet die Stelle oft eher:
 
 - `aus dem Heiligen Geist und der Jungfrau Maria`
 - oder `von dem Heiligen Geist und der Jungfrau Maria`

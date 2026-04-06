@@ -2,11 +2,11 @@
 
 ## Kurze Zusammenfassung
 
-`Den Vater` bedeutet im Credo nicht zuerst ein menschliches Bild, sondern eine göttliche Wirklichkeit. Gott ist von Ewigkeit her **Vater des eingeborenen Sohnes** und wird in Christus auch **unser Vater durch Gnade**. Seine Vaterschaft ist nicht biologisch, nicht zeitlich und nicht männlich-körperlich zu verstehen. Sie bezeichnet Ursprung, Liebe, personale Beziehung und die Quelle des göttlichen Lebens.
+`Den Vater` bedeutet im Glaubensbekenntnis nicht zuerst ein menschliches Bild, sondern eine göttliche Wirklichkeit. Gott ist von Ewigkeit her **Vater des eingeborenen Sohnes** und wird in Christus auch **unser Vater durch Gnade**. Seine Vaterschaft ist nicht biologisch, nicht zeitlich und nicht männlich-körperlich zu verstehen. Sie bezeichnet Ursprung, Liebe, personale Beziehung und die Quelle des göttlichen Lebens.
 
 ## Erklärung
 
-Wenn das Credo sagt: **„Wir glauben an den einen Gott, den Vater“**, dann spricht es nicht bloß von Gott als Schöpfer oder Beschützer. Es nennt ihn `Vater`, weil dies zur innersten Offenbarung Gottes gehört.
+Wenn das Glaubensbekenntnis sagt: **„Wir glauben an den einen Gott, den Vater“**, dann spricht es nicht bloß von Gott als Schöpfer oder Beschützer. Es nennt ihn `Vater`, weil dies zur innersten Offenbarung Gottes gehört.
 
 Im biblischen und orthodoxen Sinn bedeutet `Vater` vor allem:
 
@@ -17,7 +17,7 @@ Im biblischen und orthodoxen Sinn bedeutet `Vater` vor allem:
 
 Wichtig ist dabei: Gottes Vaterschaft ist **nicht biologisch** zu verstehen. Gott ist kein männliches Wesen unter anderen Wesen. Er wird auch nicht Vater so, wie Menschen Vater werden, also durch körperliche Zeugung, zeitlichen Beginn oder Veränderung. Die Väter betonen immer wieder: Gottes Vaterschaft ist **ewig, leidenslos und geistig**.
 
-Darum sagt das Credo nicht zufällig `den Vater`. Es will zeigen:
+Darum sagt das Glaubensbekenntnis nicht zufällig `den Vater`. Es will zeigen:
 
 - Der eine Gott ist der Vater des Sohnes.
 - Der Sohn ist nicht später entstanden, sondern gehört ewig zum Vater.
@@ -91,7 +91,7 @@ Für das geistliche Leben ist dieses Wort von großer Bedeutung:
 - Durch den Heiligen Geist wird das Gebet kindlich und vertrauensvoll.
 - Gottes Vaterschaft heilt Angst, Einsamkeit und Verlassenheit, ohne Ehrfurcht aufzuheben.
 
-Wer im Credo `den Vater` bekennt, sagt damit auch: Ich bin nicht mein eigener Ursprung, und ich gehöre nicht mir selbst. Ich lebe aus dem Ruf Gottes und aus seiner väterlichen Treue.
+Wer im Glaubensbekenntnis `den Vater` bekennt, sagt damit auch: Ich bin nicht mein eigener Ursprung, und ich gehöre nicht mir selbst. Ich lebe aus dem Ruf Gottes und aus seiner väterlichen Treue.
 
 ## Missverständnisse klären
 

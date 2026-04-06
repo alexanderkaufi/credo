@@ -2,11 +2,11 @@
 
 ## Kurze Zusammenfassung
 
-`Den Allmächtigen` bedeutet im Credo nicht willkürliche Macht, sondern Gottes **allumfassende Herrschaft**. Nichts steht außerhalb seiner Macht, seiner Vorsehung und seines Wissens. Er ist Herr über Himmel und Erde, über Geschichte, Leben und Tod. Seine Allmacht ist nicht blind oder grausam, sondern immer verbunden mit Weisheit, Güte und Liebe. Der Allmächtige ist der Gott, der alles trägt und nichts von seinem Ziel fallen lässt.
+`Den Allmächtigen` bedeutet im Glaubensbekenntnis nicht willkürliche Macht, sondern Gottes **allumfassende Herrschaft**. Nichts steht außerhalb seiner Macht, seiner Vorsehung und seines Wissens. Er ist Herr über Himmel und Erde, über Geschichte, Leben und Tod. Seine Allmacht ist nicht blind oder grausam, sondern immer verbunden mit Weisheit, Güte und Liebe. Der Allmächtige ist der Gott, der alles trägt und nichts von seinem Ziel fallen lässt.
 
 ## Erklärung
 
-Wenn das Credo Gott den `Allmächtigen` nennt, dann will es nicht nur sagen, dass Gott „sehr stark“ ist. Im biblischen und patristischen Sinn meint dieses Wort viel mehr:
+Wenn das Glaubensbekenntnis Gott den `Allmächtigen` nennt, dann will es nicht nur sagen, dass Gott „sehr stark“ ist. Im biblischen und patristischen Sinn meint dieses Wort viel mehr:
 
 - Gott herrscht über alles.
 - Gott ist von keiner Macht begrenzt.
@@ -16,7 +16,7 @@ Wenn das Credo Gott den `Allmächtigen` nennt, dann will es nicht nur sagen, das
 
 Im griechischen Sprachraum wurde dafür oft das Wort `παντοκράτωρ` (`pantokrator`) verwendet. Es bedeutet sinngemäß: **der über alles Herrschende**, **der alles in seiner Macht hält**. Damit ist Gottes Allmacht nicht zuerst mathematische Unendlichkeit, sondern **allumfassende Herrschaft**.
 
-Darum ist `Allmächtiger` im Credo kein Wort für Willkür. Gott ist nicht allmächtig, weil er unsinnig oder widersprüchlich handeln würde. Seine Macht ist immer die Macht des wahren Gottes:
+Darum ist `Allmächtiger` im Glaubensbekenntnis kein Wort für Willkür. Gott ist nicht allmächtig, weil er unsinnig oder widersprüchlich handeln würde. Seine Macht ist immer die Macht des wahren Gottes:
 
 - heilig,
 - weise,
@@ -73,7 +73,7 @@ Die Aussage `den Allmächtigen` schützt mehrere Grundwahrheiten:
 - gegen **Verzweiflung**: Gottes Macht ist größer als Sünde, Tod und Chaos.
 - gegen **falschen Gottesbegriff**: Gottes Macht ist nie von Güte und Wahrheit getrennt.
 
-Darum bedeutet Allmacht im Credo:
+Darum bedeutet Allmacht im Glaubensbekenntnis:
 
 - Gott kann retten.
 - Gott kann richten.

@@ -9,11 +9,11 @@ source: "credo/eine-taufe.md"
 
 ## Kurze Zusammenfassung
 
-`Eine Taufe` bedeutet im Credo, dass es **einen** sakramentalen Eingang in Christus und in seine Kirche gibt. Die Taufe ist nicht beliebig wiederholbar, weil sie neue Geburt, Eingliederung in den einen Leib Christi und Siegel des göttlichen Lebens ist. `Eine` meint darum nicht bloß Zahl, sondern Einheit: ein Herr, ein Glaube, eine Taufe. Wer nach der Taufe fällt, braucht nicht eine zweite Taufe, sondern Umkehr und Buße.
+`Eine Taufe` bedeutet im Glaubensbekenntnis, dass es **einen** sakramentalen Eingang in Christus und in seine Kirche gibt. Die Taufe ist nicht beliebig wiederholbar, weil sie neue Geburt, Eingliederung in den einen Leib Christi und Siegel des göttlichen Lebens ist. `Eine` meint darum nicht bloß Zahl, sondern Einheit: ein Herr, ein Glaube, eine Taufe. Wer nach der Taufe fällt, braucht nicht eine zweite Taufe, sondern Umkehr und Buße.
 
 ## Erklärung
 
-Wenn das Credo sagt: `Wir bekennen die eine Taufe`, dann spricht es von einem der tiefsten Mysterien des christlichen Lebens.
+Wenn das Glaubensbekenntnis sagt: `Wir bekennen die eine Taufe`, dann spricht es von einem der tiefsten Mysterien des christlichen Lebens.
 
 Die Kirche bekennt damit:
 
@@ -30,7 +30,7 @@ Darum ist `eine Taufe` ein starkes Wort. Es sagt:
 
 ## Was bedeutet `eine` hier?
 
-`Eine` bedeutet im Credo mehrere Dinge zugleich:
+`Eine` bedeutet im Glaubensbekenntnis mehrere Dinge zugleich:
 
 - **eine im Ursprung**: Die Taufe kommt von Christus selbst.
 - **eine im Inhalt**: Sie wird in den einen Namen des Vaters und des Sohnes und des Heiligen Geistes vollzogen.
@@ -74,7 +74,7 @@ Die Heilige Schrift verwendet das Wort `Taufe` manchmal auch weiter:
 - für das Leiden Christi,
 - oder bildhaft für schwere Prüfung.
 
-Aber im Credo meint `eine Taufe` nicht all diese Verwendungen zusammen, sondern die eine christliche Taufe der Kirche.
+Aber im Glaubensbekenntnis meint `eine Taufe` nicht all diese Verwendungen zusammen, sondern die eine christliche Taufe der Kirche.
 
 Darum ist die Taufe des Johannes wichtig als Vorbereitung, aber sie ist nicht dieselbe Fülle wie die Taufe in Christus. Die christliche Taufe geschieht:
 
@@ -84,7 +84,7 @@ Darum ist die Taufe des Johannes wichtig als Vorbereitung, aber sie ist nicht di
 
 ## Eine Taufe und die Vergebung der Sünden
 
-Im Credo folgt unmittelbar:
+Im Glaubensbekenntnis folgt unmittelbar:
 
 - `zur Vergebung der Sünden`
 
@@ -105,7 +105,7 @@ Gerade deshalb ist sie so ernst und groß. Sie ist nicht bloß symbolischer Anfa
 
 - **Epheser 4,5**: `Ein Herr, ein Glaube, eine Taufe.`
 
-Diese Stelle ist die unmittelbare Grundlage des Credo-Satzes. Die Taufe steht hier nicht isoliert, sondern in der Einheit des ganzen christlichen Lebens.
+Diese Stelle ist die unmittelbare Grundlage des Glaubensbekenntnis-Satzes. Die Taufe steht hier nicht isoliert, sondern in der Einheit des ganzen christlichen Lebens.
 
 ### Taufe als neue Geburt
 
@@ -144,7 +144,7 @@ Diese Stelle hilft, den christlichen Sinn von `eine Taufe` klarer zu sehen.
 
 ### Heiliger Kyrill von Jerusalem
 
-Kyrill sagt schon im Prolog seiner Katechesen sehr klar: Wir empfangen die Taufe nicht zweimal oder dreimal, denn `es gibt einen Herrn, einen Glauben, eine Taufe`. Damit verbindet er die Einzigkeit der Taufe direkt mit dem paulinischen Credo-Wort.
+Kyrill sagt schon im Prolog seiner Katechesen sehr klar: Wir empfangen die Taufe nicht zweimal oder dreimal, denn `es gibt einen Herrn, einen Glauben, eine Taufe`. Damit verbindet er die Einzigkeit der Taufe direkt mit dem paulinischen Glaubensbekenntnis-Wort.
 
 In seiner dritten Katechese beschreibt Kyrill die Taufe außerdem als wirkliche Reinigung, Erlösung vom Gericht, Gabe des Heiligen Geistes und Beginn neuen Lebens. Für ihn ist sie also nicht bloß symbolische Handlung, sondern göttliches Werk.
 
