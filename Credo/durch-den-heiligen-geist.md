@@ -138,7 +138,7 @@ Die Väter achten dabei auf eine feine Unterscheidung:
 - Maria ist **wirklich** Mutter Christi nach der Menschheit.
 - Der Heilige Geist wirkt die Empfängnis nicht fleischlich, sondern göttlich, reinigend und schöpferisch.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Was hier noch nicht ausführlich erklärt wird
 

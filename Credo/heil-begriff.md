@@ -143,7 +143,7 @@ Gregor sagt den berühmten Satz: **„Was nicht angenommen ist, ist nicht geheil
 
 Kyrill spricht von Christus als dem Heiler der Seelen und Leiber. Er verbindet Erlösung, Reinigung, Vergebung, Heilung und Erneuerung eng miteinander. In seinen Katechesen wird deutlich: Heil geschieht real in der Taufe, im Glauben und in der Umkehr; es ist nicht bloß ein ferner Gedanke.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Heil im orthodoxen Sinn
 

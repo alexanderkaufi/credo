@@ -88,7 +88,7 @@ Gregor von Nyssa betont, dass das christliche Bekenntnis `Jesus ist Herr` nicht 
 
 Johannes von Damaskus fasst die orthodoxe Lehre so zusammen, dass Christus als wahrer Gott und wahrer Mensch bekannt wird. Darum ist sein Herrsein nicht bloß eine spätere Auszeichnung, sondern Ausdruck dessen, wer er in Wahrheit ist. In der Inkarnation wird diese Herrlichkeit nicht aufgehoben, sondern offenbart.
 
-Hinweis: Die patristischen Aussagen sind hier zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen sind hier zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

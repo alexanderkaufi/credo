@@ -90,7 +90,7 @@ Gregor spricht von dem Sohn als Licht aus Licht und erklärt zugleich, dass die 
 
 Johannes von Damaskus übernimmt die traditionelle Sprache der Kirche und erklärt den Sohn als aus dem Vater gezeugt, als Abglanz und als wahren Ausdruck der einen göttlichen Natur. Die Formel `Licht vom Licht` gehört für ihn zur Sprache, mit der die Kirche die Gleichheit der Gottheit des Sohnes mit dem Vater bekennt.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

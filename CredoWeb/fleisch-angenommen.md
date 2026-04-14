@@ -107,7 +107,7 @@ Die Väter verwenden diesen Satz auch gegen:
 - **Apollinarismus**: Christus habe keinen vollständigen menschlichen Geist oder Verstand gehabt.
 - jede Lehre, die die wahre Menschheit Christi verkürzt.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Warum der Sohn Fleisch annahm
 

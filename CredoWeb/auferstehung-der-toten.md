@@ -204,7 +204,7 @@ Johannes von Damaskus sagt sehr präzise:
 
 Die Seelen sind unsterblich; darum betrifft Auferstehung gerade die Wiedervereinigung von Seele und Leib. Derselbe Leib, der gefallen ist, wird auferstehen, aber nicht mehr vergänglich bleiben. So schützt Johannes die Hoffnung der Kirche gegen jede rein geistige Deutung.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

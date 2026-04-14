@@ -117,7 +117,7 @@ Johannes von Damaskus erklärt präzise, dass Christus wirklich starb und begrab
 
 Chrysostomus verbindet das Begräbnis Christi mit der Taufe. Wie Christus wirklich im Fleisch begraben wurde, so werden wir in der Taufe wirklich mit ihm begraben, damit wir in einem neuen Leben auferstehen. Das zeigt: Das Begräbnis Christi ist nicht nur vergangene Geschichte, sondern hat Anteil am Leben der Kirche.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

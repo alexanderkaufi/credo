@@ -9,9 +9,11 @@ source: "credo/himmel-und-erde-die-sichtbare-und-die-unsichtbare-welt.md"
 
 ## Kurze Zusammenfassung
 
-Dieser Glaubensbekenntnis-Satz bekennt die **ganze Schöpfung** in einem Zug. `Himmel und Erde` meint im biblischen Sprachgebrauch nicht nur zwei Orte, sondern alles Geschaffene. `Die sichtbare und die unsichtbare Welt` erklärt das noch genauer: Gott ist Schöpfer sowohl der materiellen als auch der geistigen Wirklichkeit. Darum ist weder die sichtbare Welt profan noch die unsichtbare Welt göttlich. Alles Geschaffene kommt von Gott und steht unter seiner Vorsehung.
+Dieser Glaubensbekenntnis-Satz entfaltet den **Umfang der Schöpfung**. `Himmel und Erde` meint im biblischen Sprachgebrauch nicht nur zwei Orte, sondern alles Geschaffene. `Die sichtbare und die unsichtbare Welt` erklärt das noch genauer: Gott hat nicht nur die materielle, sondern auch die geistige Wirklichkeit geschaffen. Darum ist weder die sichtbare Welt profan noch die unsichtbare Welt göttlich. Der Satz schützt zugleich vor Materialismus und vor einer falschen Überhöhung unsichtbarer Mächte.
 
 ## Erklärung
+
+Dieser Satz knüpft an das vorhergehende Bekenntnis an, dass Gott alles geschaffen hat, und entfaltet nun, was mit `alles` gemeint ist. Zur allgemeinen Lehre von Gott als Schöpfer siehe [Der alles geschaffen hat](/der-alles-geschaffen-hat/).
 
 Wenn das Glaubensbekenntnis sagt: **„Himmel und Erde, die sichtbare und die unsichtbare Welt“**, dann will es nicht bloß eine Liste von Bereichen aufzählen. Es will die **Fülle der Schöpfung** bekennen.
 
@@ -32,8 +34,8 @@ Die zusätzliche Formulierung `die sichtbare und die unsichtbare Welt` macht deu
 
 Damit sagt das Glaubensbekenntnis zweierlei zugleich:
 
-- Die sichtbare Welt ist wirklich von Gott gewollt und gut.
-- Die unsichtbare Welt ist wirklich vorhanden, aber ebenfalls geschaffen und nicht göttlich.
+- Die Wirklichkeit erschöpft sich nicht im bloß Sichtbaren.
+- Auch die unsichtbare Welt bleibt Geschöpf und nicht Gott.
 
 So schützt dieser Satz sowohl vor Materialismus als auch vor falscher Vergötzung der unsichtbaren Welt.
 
@@ -45,7 +47,6 @@ So schützt dieser Satz sowohl vor Materialismus als auch vor falscher Vergötzu
 - **Nehemia 9,6**: Gott hat den Himmel, den Himmel der Himmel, die Erde, das Meer und alles, was in ihnen ist, gemacht.
 - **Psalm 115,15-16**: Der Himmel gehört dem Herrn, die Erde hat er den Menschen gegeben.
 - **Psalm 148,1-5**: Die himmlischen Mächte und Höhen werden aufgerufen, Gott zu loben, weil auch sie geschaffen sind.
-- **2 Makkabäer 7,28**: Gott hat Himmel und Erde nicht aus schon vorhandenen Dingen gemacht.
 
 Diese Stellen zeigen: `Himmel und Erde` ist keine poetische Nebensache, sondern eine umfassende Weise, von Gottes Schöpfung zu sprechen.
 
@@ -53,7 +54,6 @@ Diese Stellen zeigen: `Himmel und Erde` ist keine poetische Nebensache, sondern 
 
 - **Kolosser 1,16**: In Christus ist alles geschaffen, im Himmel und auf Erden, das Sichtbare und das Unsichtbare.
 - **Johannes 1,3**: Alles ist durch das Wort geworden.
-- **Hebräer 11,3**: Das Sichtbare stammt nicht aus bereits Sichtbarem, sondern aus Gottes schöpferischem Wort.
 - **Apostelgeschichte 14,15**: Der lebendige Gott hat Himmel, Erde, Meer und alles darin gemacht.
 - **Offenbarung 4,11**: Alles ist durch Gottes Willen geschaffen worden.
 
@@ -71,18 +71,19 @@ Basilius macht in seinen *Hexaemeron*-Homilien deutlich, dass man beim Nachdenke
 
 ### Heiliger Athanasius der Große
 
-Athanasius sagt, dass Gott die Welt durch sein Wort geschaffen und geordnet hat. Gerade die Ordnung, Schönheit und Zusammenstimmigkeit der sichtbaren Welt zeigt, dass sie nicht aus Zufall stammt. Zugleich verweist die Schöpfung über sich hinaus auf den unsichtbaren Gott.
+Athanasius zeigt, dass die Ordnung, Schönheit und Zusammenstimmigkeit der sichtbaren Welt über sich hinaus auf den unsichtbaren Gott verweist. So hilft er, das Verhältnis von sichtbarer Schöpfung und unsichtbarem Schöpfer klar zu sehen, ohne beides zu vermischen.
 
 ### Heiliger Johannes von Damaskus
 
 Johannes von Damaskus spricht ausdrücklich von der Schöpfung der **sichtbaren und unsichtbaren** Welt. Er erklärt, dass auch die Engel geschaffene Wesen sind. Dadurch bleibt die Grenze klar: Nur Gott ist ungeschaffen; alles Sichtbare und Unsichtbare ist sein Werk.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 
 Dieser Satz schützt mehrere zentrale Wahrheiten:
 
+- Die Wendung nennt die ganze Schöpfung in ihrer sichtbaren und unsichtbaren Fülle.
 - Die materielle Welt ist nicht böse.
 - Die unsichtbare Welt ist real, aber nicht göttlich.
 - Engel sind Geschöpfe, nicht zweite Gottheiten.
@@ -126,7 +127,7 @@ Im orthodoxen Sinn bedeutet es vielmehr:
 ## Quellen
 
 1. Bibelstellen:  
-   Genesis 1,1; Nehemia 9,6; Psalm 115,15-16; Psalm 148,1-5; 2 Makkabäer 7,28; Johannes 1,3; Apostelgeschichte 14,15; Kolosser 1,16; Hebräer 11,3; Offenbarung 4,11.
+   Genesis 1,1; Nehemia 9,6; Psalm 115,15-16; Psalm 148,1-5; Johannes 1,3; Apostelgeschichte 14,15; Kolosser 1,16; Offenbarung 4,11.
 
 2. Heiliger Kyrill von Jerusalem, *Catechetical Lecture 9*  
    https://www.newadvent.org/fathers/310109.htm

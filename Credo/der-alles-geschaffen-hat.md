@@ -2,34 +2,28 @@
 
 ## Kurze Zusammenfassung
 
-Dieser Satz bekennt Gott als den **Schöpfer von allem**, was existiert. Nichts ist außerhalb seines schöpferischen Willens: weder Himmel noch Erde, weder die materielle noch die geistige Welt. Die Schöpfung ist darum nicht böse, nicht zufällig und nicht aus einem fremden Prinzip entstanden. Sie ist gut, von Gott gewollt und auf ihn hingeordnet. Auch die unsichtbare Welt, etwa die Engel, gehört ganz zu seiner Schöpfung.
+Dieser Satz bekennt Gott als den **Schöpfer von allem**, was existiert. Nichts steht außerhalb seines schöpferischen Willens, und nichts ist neben ihm ewig. Die Schöpfung ist darum nicht böse, nicht göttlich und nicht aus einem fremden Prinzip entstanden. Sie ist gut, von Gott gewollt, von ihm getragen und auf ihn hingeordnet. Wie die Formeln `Himmel und Erde` und `die sichtbare und die unsichtbare Welt` den Umfang der Schöpfung benennen, wird im Kapitel [Himmel und Erde, die sichtbare und die unsichtbare Welt](himmel-und-erde-die-sichtbare-und-die-unsichtbare-welt.md) näher entfaltet.
 
 ## Erklärung
 
-Wenn das Glaubensbekenntnis sagt, dass Gott `alles geschaffen hat, Himmel und Erde, die sichtbare und die unsichtbare Welt`, dann fasst es mit wenigen Worten die ganze Wirklichkeit zusammen.
+Wenn das Glaubensbekenntnis sagt, dass Gott `alles geschaffen hat`, dann bekennt es in konzentrierter Form: Gott allein ist der Ursprung von allem, was ist.
 
 Gemeint ist:
 
-- Gott ist Ursprung von allem, was ist.
+- Gott ist Ursprung von allem, was existiert.
 - Nichts ist von sich aus neben Gott ewig.
 - Die Welt ist nicht zufällig, sondern gewollt.
 - Die Welt ist nicht göttlich, sondern geschaffen.
 - Die Schöpfung ist gut, weil sie aus Gottes Güte hervorgeht.
+- Alles Geschaffene bleibt von Gott abhängig.
 
-Die Wendung `Himmel und Erde` ist im biblischen Sprachgebrauch eine Weise, die **ganze Schöpfung** zu benennen. Sie meint nicht nur zwei einzelne Bereiche, sondern alles, was oben und unten, geistig und materiell, fern und nah, groß und klein ist.
+Die anschließenden Formeln `Himmel und Erde` sowie `die sichtbare und die unsichtbare Welt` nennen den ganzen Umfang des Geschaffenen. In diesem Kapitel steht jedoch der schöpferische Ursprung im Vordergrund: Alles, was ist, verdankt sein Dasein Gott. Wie diese Formeln die Fülle der Schöpfung entfalten, wird im Abschnitt [Himmel und Erde, die sichtbare und die unsichtbare Welt](himmel-und-erde-die-sichtbare-und-die-unsichtbare-welt.md) eigens erklärt.
 
-Die Ergänzung `die sichtbare und die unsichtbare Welt` macht das noch deutlicher. Das Glaubensbekenntnis will sagen:
+Damit grenzt sich das Glaubensbekenntnis gegen zentrale Irrtümer ab:
 
-- Gott hat die materielle Welt geschaffen.
-- Gott hat auch die geistige Welt geschaffen.
-- Engel und himmlische Mächte sind Geschöpfe, nicht zweite Götter.
-- Nichts Sichtbares und nichts Unsichtbares entzieht sich Gott als Schöpfer.
-
-Damit grenzt sich das Glaubensbekenntnis gegen viele Irrtümer ab:
-
+- gegen die Vorstellung, die Welt sei ewig;
 - gegen die Vorstellung, Materie sei an sich böse;
 - gegen die Vorstellung, die Welt sei aus einem niederen oder fremden Gott hervorgegangen;
-- gegen die Vorstellung, Engel oder unsichtbare Mächte seien ungeschaffen;
 - gegen die Vorstellung, die Welt sei aus blindem Zufall entstanden.
 
 ## Biblische Grundlage
@@ -39,7 +33,6 @@ Damit grenzt sich das Glaubensbekenntnis gegen viele Irrtümer ab:
 - **Genesis 1,1**: „Im Anfang schuf Gott Himmel und Erde.“ Das ist der grundlegende Schöpfungssatz der Bibel.
 - **Nehemia 9,6**: Gott hat den Himmel, den Himmel der Himmel, die Erde, das Meer und alles, was in ihnen ist, gemacht.
 - **Psalm 33,6-9**: Durch Gottes Wort und seinen Geist kommt die Schöpfung ins Dasein.
-- **Psalm 148,1-5**: Auch die himmlischen Mächte und die Höhen sind geschaffen und zum Lob Gottes bestimmt.
 - **2 Makkabäer 7,28**: Gott hat Himmel und Erde nicht aus schon vorhandenen Dingen gemacht. Diese Stelle ist besonders wichtig für das Verständnis der Schöpfung aus dem Nichts.
 
 ### Neues Testament
@@ -51,7 +44,7 @@ Damit grenzt sich das Glaubensbekenntnis gegen viele Irrtümer ab:
 - **Römer 1,20**: Das Unsichtbare Gottes wird an seinen Werken erkannt.
 - **Offenbarung 4,11**: Alles ist durch Gottes Willen geschaffen worden.
 
-Die Schrift zeigt damit klar: Die ganze Schöpfung hat ihren Ursprung in Gott, wird durch ihn getragen und verweist auf ihn.
+Die Schrift zeigt damit klar: Die Welt hat ihren Ursprung nicht in sich selbst, sondern in Gott, wird durch ihn getragen und verweist auf ihn.
 
 ## Patristische Begründung
 
@@ -61,7 +54,7 @@ Kyrill widmet diesem Glaubensbekenntnis-Satz eine eigene Katechese. Er macht deu
 
 ### Heiliger Basilius der Große
 
-Basilius erklärt in seinen *Hexaemeron*-Homilien, dass vor der sichtbaren Welt auch eine unsichtbare, geistige Welt zu bedenken ist. Er spricht von den Engeln und geistigen Mächten als Geschöpfen Gottes. Damit hilft er, die Formel `sichtbar und unsichtbar` konkret zu verstehen: Nicht nur Steine, Pflanzen, Tiere und Sterne, sondern auch die unsichtbaren himmlischen Ordnungen sind von Gott geschaffen.
+Basilius betont in seinen *Hexaemeron*-Homilien, dass die Welt einen Anfang hat und nicht neben Gott ewig ist. Für ihn ist die Schöpfung Werk göttlicher Weisheit und Ordnung, nicht ein notwendiger Ausfluss und nicht ein Produkt des Zufalls.
 
 ### Heiliger Athanasius der Große
 
@@ -71,7 +64,7 @@ Athanasius betont, dass Gott die Welt durch sein Wort geschaffen hat und sie auc
 
 Johannes von Damaskus formuliert sehr klar, dass Gott **alles aus dem Nichts ins Sein gerufen** hat, sowohl das Unsichtbare als auch das Sichtbare. Er beschreibt auch die Engel ausdrücklich als geschaffene geistige Wesen. Damit ist orthodox deutlich gesagt: Nur Gott ist ungeschaffen; alles andere verdankt ihm sein Dasein.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 
@@ -79,8 +72,7 @@ Dieser Glaubensbekenntnis-Satz schützt mehrere zentrale Wahrheiten:
 
 - Gott allein ist ungeschaffen.
 - Die Welt ist nicht aus Gott herausgeflossen, sondern frei geschaffen.
-- Materie ist nicht böse.
-- Die unsichtbare Welt ist real, aber nicht göttlich.
+- Die Schöpfung ist gut.
 - Alles Geschaffene ist abhängig von Gottes Güte und Willen.
 
 Darum bedeutet Schöpfung im orthodoxen Sinn nicht bloß einen vergangenen Anfang. Sie bedeutet auch:
@@ -95,9 +87,9 @@ Darum bedeutet Schöpfung im orthodoxen Sinn nicht bloß einen vergangenen Anfan
 Für das geistliche Leben ist dieser Satz sehr wichtig:
 
 - Die Welt darf weder vergötzt noch verachtet werden.
-- Die sichtbare Welt ist Gabe Gottes und kann zum Lob Gottes führen.
-- Die unsichtbare Welt erinnert daran, dass die Wirklichkeit größer ist als das sinnlich Fassbare.
-- Der Mensch lebt zwischen sichtbarer und unsichtbarer Welt und ist berufen, beide auf Gott hin zu beziehen.
+- Alles Geschaffene ist Gabe Gottes.
+- Der Mensch ist Verwalter und nicht Eigentümer der Schöpfung.
+- Der Blick auf die Schöpfung kann zum Lob Gottes führen.
 
 Wer bekennt, dass Gott alles geschaffen hat, lernt Dankbarkeit, Ehrfurcht und Verantwortung. Die Welt ist nicht mein Besitz, sondern Gottes Schöpfung.
 
@@ -106,22 +98,21 @@ Wer bekennt, dass Gott alles geschaffen hat, lernt Dankbarkeit, Ehrfurcht und Ve
 `Der alles geschaffen hat` bedeutet nicht:
 
 - dass die Welt aus einem zweiten, niederen Gott entstanden wäre;
+- dass die Welt ewig neben Gott bestünde;
 - dass Materie böse sei;
-- dass Engel oder geistige Mächte ungeschaffen wären;
 - dass Gott die Welt nur einmal angestoßen und dann verlassen hätte.
 
 `Der alles geschaffen hat` bedeutet vielmehr:
 
 - alles kommt von Gott,
 - alles bleibt von Gott abhängig,
-- alles Sichtbare und Unsichtbare gehört in seine Schöpfung,
 - alles Geschaffene ist gut seiner Natur nach,
 - alles ist zur Verherrlichung Gottes bestimmt.
 
 ## Quellen
 
 1. Bibelstellen:  
-   Genesis 1,1; Nehemia 9,6; Psalm 33,6-9; Psalm 148,1-5; 2 Makkabäer 7,28; Johannes 1,3; Apostelgeschichte 14,15; Römer 1,20; Kolosser 1,16; Hebräer 11,3; Offenbarung 4,11.
+   Genesis 1,1; Nehemia 9,6; Psalm 33,6-9; 2 Makkabäer 7,28; Johannes 1,3; Apostelgeschichte 14,15; Römer 1,20; Kolosser 1,16; Hebräer 11,3; Offenbarung 4,11.
 
 2. Heiliger Kyrill von Jerusalem, *Catechetical Lecture 9*  
    https://www.newadvent.org/fathers/310109.htm

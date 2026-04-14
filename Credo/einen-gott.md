@@ -68,7 +68,7 @@ Gregor sagt, die Kirche ehre die **Einheit Gottes**, aber nicht so, als wäre Go
 
 Johannes von Damaskus fasst die orthodoxe Lehre klar zusammen: Es gibt **einen Gott in drei vollkommenen Hypostasen**. Der Vater ist Quelle und Ursache, der Sohn ist aus dem Vater gezeugt, und der Heilige Geist geht vom Vater aus. Doch die drei sind nicht drei Götter, sondern **eine ungeteilte Gottheit**.
 
-Hinweis: Die patristischen Formulierungen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Stellen würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Formulierungen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Stellen würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

@@ -200,7 +200,7 @@ Chrysostomus erklärt die Kirche als den einen Leib Christi, der sich über die 
 
 Cyprian spricht von der Kirche als Mutter. Damit will er sagen: In der Kirche wird der Mensch genährt, bewahrt und in das Leben Gottes hineingeführt. Die Kirche ist bei ihm keine nebensächliche Hülle des Glaubens, sondern der von Christus gegebene Ort des Heils.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

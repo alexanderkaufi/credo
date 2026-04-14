@@ -162,7 +162,7 @@ Johannes von Damaskus bekennt ausdrücklich `eine Taufe zur Vergebung der Sünde
 
 Gregor beschreibt die Taufe als Reinigung von Sünden, Erneuerung und Wiedergeburt. Er betont, dass wir in der Taufe das dreitägige Begräbnis und die Auferstehung Christi sakramental abbilden und empfangen. So zeigt sich: Die Taufe ist einmaliger Eintritt in ein neues Sein, nicht bloß wiederholbares Ritual.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

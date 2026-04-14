@@ -156,7 +156,7 @@ Irenäus sagt, die Kirche sei über die ganze Welt zerstreut und bewahre doch ei
 
 Vincent erklärt, dass im strengen Sinn `katholisch` das ist, was überall, immer und von allen geglaubt wird. Auch wenn diese Formel nicht alles sagt, hilft sie zu verstehen: `katholisch` steht gegen Verengung, Neuerung und Sonderlehren.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

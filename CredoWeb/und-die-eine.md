@@ -137,7 +137,7 @@ Cyprian spricht mit großer Kraft von der Einheit der Kirche. Er sagt sinngemä�
 
 Er vergleicht die Kirche mit Licht, Quelle und Mutter. Damit will er sagen: Die Kirche kann sich weithin ausbreiten und bleibt doch eine. Ihre Einheit ist lebendig und fruchtbar, nicht bloß juristische Ordnung.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

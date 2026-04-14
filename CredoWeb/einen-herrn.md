@@ -29,8 +29,8 @@ In der griechischen Bibel, der Septuaginta, wird das Wort `κύριος` (`Kyrio
 
 Das zusätzliche Wort `einen` ist ebenfalls wichtig. Es bedeutet:
 
-- nicht viele letzte Herren,
-- nicht viele konkurrierende Heilsmittler,
+- nicht mehrere letzte Herren,
+- nicht mehrere konkurrierende Heilsmittler,
 - nicht verteilte göttliche Herrschaft auf verschiedene Mächte,
 - sondern **ein Herr**, in dem die Kirche ihre letzte Treue bündelt.
 
@@ -91,7 +91,7 @@ Gregor von Nyssa hebt hervor, dass das Bekenntnis `Jesus ist Herr` nicht bloß n
 
 Johannes von Damaskus bekennt Christus als wahren Gott und wahren Menschen. Darum ist sein Herrsein nicht nur Amt oder Ehrung von außen, sondern Ausdruck dessen, wer er ist. Er herrscht nicht wie ein fremder Gewalthaber, sondern als der Schöpfer und Erlöser.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

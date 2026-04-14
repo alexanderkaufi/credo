@@ -86,7 +86,7 @@ Gregor von Nyssa sagt gegen die Pneumatomachen, dass in der Taufe nicht das Wass
 
 Kyrill beschreibt den Heiligen Geist als lebendig, heiligend und wirksam in den Propheten, in der Kirche und in den Gläubigen. Er macht deutlich, dass der Geist die Seele erleuchtet, stärkt und in ihr die Früchte der Gerechtigkeit wachsen lässt. Auch das gehört zum biblischen Sinn von `lebendig machen`: nicht nur Existenz geben, sondern den Menschen innerlich erneuern.
 
-Hinweis: Die patristischen Aussagen sind hier zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen sind hier zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

@@ -114,7 +114,7 @@ Gregor sagt mit großer Schärfe: Auf die Frage, wann der Sohn gezeugt wurde, da
 
 Johannes von Damaskus fasst die orthodoxe Lehre klar zusammen: Der Sohn ist **vom Vater, vor allen Zeitaltern, gezeugt, nicht gemacht**. Wenn die Kirche `vor aller Zeit` sagt, zeigt sie damit, dass seine Geburt ohne Anfang und ohne Zeit ist. Sie ist weder körperlich noch leidenschaftlich noch geschöpflich.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

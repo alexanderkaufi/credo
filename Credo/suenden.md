@@ -247,7 +247,7 @@ Gregor verbindet Sünde eng mit Krankheit, Verderben und Entfremdung vom wahren 
 - Sünde ist nicht harmlos,
 - aber sie ist auch nicht unheilbar.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

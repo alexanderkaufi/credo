@@ -81,7 +81,7 @@ Chrysostomus erklärt zu Johannes 1,18, dass der eingeborene Sohn allein den Vat
 
 Johannes von Damaskus fasst die orthodoxe Lehre zusammen: Der Sohn ist vom Vater gezeugt, nicht gemacht, und zwar auf unaussprechliche, göttliche und ewige Weise. Diese Zeugung ist weder körperlich noch zeitlich noch leidenschaftlich.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

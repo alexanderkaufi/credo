@@ -150,7 +150,7 @@ Kyrill warnt die Täuflinge, sich nicht in irgendwelche häretischen Versammlung
 
 Chrysostomus erklärt zu **Epheser 2**, dass die Kirche auf `Aposteln und Propheten` gebaut ist. Dabei zeigt er, dass die Apostel nicht etwas Nebensächliches sind, sondern wirklich zum Fundament gehören. Ebenso erklärt er zu **Apostelgeschichte 2,42**, dass die junge Kirche beharrlich in der Lehre der Apostel blieb. So verbindet Chrysostomus Ursprung und bleibendes kirchliches Leben.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

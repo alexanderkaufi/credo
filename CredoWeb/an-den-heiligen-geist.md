@@ -145,7 +145,7 @@ Gregor fragt offen: Wenn der Heilige Geist nicht Gott ist, wie könnte er vergö
 
 Johannes von Damaskus ordnet den Heiligen Geist klar in das eine göttliche Leben ein. Er unterscheidet die Hypostasen, ohne die Gottheit zu trennen. So wird deutlich: Der Heilige Geist ist weder der Vater noch der Sohn, aber er gehört mit ihnen untrennbar in die eine göttliche Natur.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Was in diesem Kapitel noch nicht ausführlich erklärt wird
 

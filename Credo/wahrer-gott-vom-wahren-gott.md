@@ -97,7 +97,7 @@ Gregor Thaumaturgus spricht bereits vor Nizäa in sehr klarer Weise vom Sohn als
 
 Johannes von Damaskus fasst die orthodoxe Lehre so zusammen, dass der Sohn vom Vater gezeugt, nicht gemacht und in allem außer der Vaterschaft gleich ist. Das entspricht genau dem Sinn von `wahrer Gott vom wahren Gott`: dieselbe wahre Gottheit, nicht eine mindere Stufe des Göttlichen.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Historischer Hinweis
 

@@ -116,7 +116,7 @@ Johannes von Damaskus erklärt, dass die heilige Jungfrau in Wahrheit Gottesgeb�
 
 Das Konzil von Ephesus bekennt Maria als Gottesgebärerin, weil der aus ihr Geborene derselbe eine Sohn und Herr ist. Der Titel erhöht Maria nicht auf Kosten Christi, sondern schützt die Wahrheit über Christus.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

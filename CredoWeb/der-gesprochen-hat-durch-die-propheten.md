@@ -177,7 +177,7 @@ Gregor von Nyssa verweist darauf, dass Paulus in **Apostelgeschichte 28,25** sag
 
 Johannes von Damaskus fasst die ganze Linie kurz und stark zusammen: `Durch den Heiligen Geist sprachen daher Gesetz und Propheten, Evangelisten und Apostel, Hirten und Lehrer.` Damit verbindet er die Propheten nicht nur mit dem Alten Testament, sondern mit der ganzen einen Offenbarung Gottes.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

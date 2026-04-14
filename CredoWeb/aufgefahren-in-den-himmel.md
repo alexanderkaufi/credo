@@ -127,7 +127,7 @@ Johannes von Damaskus erklärt sehr präzise, dass Christus mit Leib und Seele z
 
 Aus Schrift und Vätern ergibt sich: Die Himmelfahrt ist nicht Trennung Christi von seiner Kirche. Der erhöhte Herr bleibt gegenwärtig, während er zugleich verherrlicht beim Vater ist. Diese Einordnung ist eine theologische Folgerung aus den Quellen.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

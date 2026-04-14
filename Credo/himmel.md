@@ -104,7 +104,7 @@ Basilius erklärt in seinen *Hexaemeron*-Homilien, dass die Schrift den Ausdruck
 
 Johannes von Damaskus sagt sehr klar: Der Himmel ist die Umgrenzung der geschaffenen Dinge, sichtbarer und unsichtbarer. Zugleich betont er, dass die Gottheit allein unumschrieben ist. Das ist theologisch wichtig: Der Himmel gehört zur Schöpfung; Gott aber ist nicht ein Teil des Himmels, sondern der Schöpfer, der alles erfüllt und über alles hinausgeht.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

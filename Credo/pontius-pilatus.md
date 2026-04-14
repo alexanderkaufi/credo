@@ -103,7 +103,7 @@ Die Kirche bekennt damit:
 - Er wurde unter einer bekannten weltlichen Obrigkeit gerichtet.
 - Sein Leiden ist reales Geschehen und öffentliches Heilshandeln.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

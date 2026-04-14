@@ -114,7 +114,7 @@ Kyrill bekennt den Sohn als `Gott von Gott`, `Licht vom Licht` und ordnet ihn kl
 
 Johannes von Damaskus fasst die Lehre der Kirche so zusammen, dass der Sohn in allem dem Vater gleich ist, außer in der Vaterschaft. Damit ist genau gesagt, was `eines Wesens mit dem Vater` meint: gleiche göttliche Natur, ohne Aufhebung der Unterschiedenheit der Hypostasen.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Historischer Hinweis
 

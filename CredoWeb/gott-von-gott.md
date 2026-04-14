@@ -76,7 +76,7 @@ Gregor Thaumaturgus bekennt den Sohn als **„very God of very God“**, der die
 
 Johannes von Damaskus fasst die orthodoxe Lehre so zusammen, dass der Sohn aus dem Vater gezeugt, nicht gemacht und eines Wesens mit ihm ist. Die Formel `Gott von Gott` gehört genau in diese Linie: Der Sohn ist aus dem Vater und darum wahrer Gott.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Historischer Hinweis
 

@@ -178,7 +178,7 @@ Chrysostomus zeigt in seinen Homilien, dass das `Amen` die gemeinsame Antwort de
 
 Auch wenn Kyrill das Wort `Amen` nicht in jedem Zusammenhang eigens sprachlich entfaltet, passt seine ganze Lehre vom Glauben dazu: Der Glaube ist festes Vertrauen auf Gottes Wahrheit. Darum ist `Amen` die kurze, dichte Antwort des Glaubens auf Gottes Offenbarung.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

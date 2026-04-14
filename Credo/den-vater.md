@@ -15,7 +15,7 @@ Im biblischen und orthodoxen Sinn bedeutet `Vater` vor allem:
 - Gott ist Ursprung und Quelle, ohne selbst einen Ursprung zu haben.
 - Gott offenbart sich nicht nur als fernes Prinzip, sondern als persönlicher Gott.
 
-Wichtig ist dabei: Gottes Vaterschaft ist **nicht biologisch** zu verstehen. Gott ist kein männliches Wesen unter anderen Wesen. Er wird auch nicht Vater so, wie Menschen Vater werden, also durch körperliche Zeugung, zeitlichen Beginn oder Veränderung. Die Väter betonen immer wieder: Gottes Vaterschaft ist **ewig, leidenslos und geistig**.
+Wichtig ist dabei: Gottes Vaterschaft ist **nicht biologisch** zu verstehen. Gott ist kein männliches Wesen unter anderen Wesen. Er wird auch nicht Vater so, wie Menschen Vater werden, also durch körperliche Zeugung, zeitlichen Beginn oder Veränderung. Die Kirchenväter betonen immer wieder: Gottes Vaterschaft ist **ewig, leidenslos und geistig**.
 
 Darum sagt das Glaubensbekenntnis nicht zufällig `den Vater`. Es will zeigen:
 
@@ -68,7 +68,7 @@ Gregor sagt, der Vater sei der **Bezeuger** des Sohnes und der **Ursprung** inne
 
 Johannes von Damaskus ordnet die trinitarischen Namen sehr klar: Dem Vater kommt zu, Quelle, Ursache und Bezeuger zu sein. Aber diese Vorrangstellung als Quelle macht den Sohn und den Heiligen Geist nicht geringer. `Vater` benennt also nicht Überlegenheit im Sinn einer höheren Gottheit, sondern die personale Ordnung in der einen göttlichen Natur.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

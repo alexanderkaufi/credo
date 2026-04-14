@@ -151,7 +151,7 @@ Damit zeigt Irenäus: Die Heiligkeit der Kirche hängt untrennbar mit der Gegenw
 
 Cyprian spricht von der Kirche als Mutter und Braut. Ihre Heiligkeit ist für ihn nicht äußerer Schmuck, sondern Frucht ihrer Verbindung mit Christus. Gerade weil die Kirche aus Christus lebt, kann sie Kinder Gottes gebären und im Glauben bewahren.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

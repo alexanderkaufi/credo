@@ -137,7 +137,7 @@ Aus Schrift und Vätern ergibt sich: Die Wiederkunft ist
 
 Diese Einordnung ist eine theologische Folgerung aus den Quellen.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Was in diesem Abschnitt noch nicht ausführlich erklärt wird
 

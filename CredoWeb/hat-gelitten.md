@@ -120,7 +120,7 @@ Gregor hält fest, dass Christus annimmt, was unser ist, um es zu heilen. Darum 
 
 Johannes von Damaskus erklärt sehr präzise: Nicht die Gottheit als solche leidet, sondern Christus leidet in seiner menschlichen Natur. Zugleich darf man das Leiden nicht von der Person Christi trennen. Darum sagt die Kirche mit Recht, dass **Gott im Fleisch gelitten** hat, ohne damit zu sagen, dass die göttliche Natur leidensfähig geworden wäre.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

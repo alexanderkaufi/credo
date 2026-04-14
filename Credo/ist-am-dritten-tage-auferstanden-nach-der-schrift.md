@@ -133,7 +133,7 @@ Gregor von Nyssa verbindet den dritten Tag der Auferstehung mit der Taufe. Für 
 
 Johannes von Damaskus betont, dass derselbe Leib, der gelitten hat, auch auferstanden ist. Die Auferstehung bedeutet darum nicht, dass Christus den Leib ablegte, sondern dass eben dieser Leib verklärt und unvergänglich auferstand. So wird die Wirklichkeit der Auferstehung gegen jede bloß geistige Deutung geschützt.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

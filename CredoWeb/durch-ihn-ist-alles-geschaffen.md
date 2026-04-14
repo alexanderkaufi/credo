@@ -81,7 +81,7 @@ Athanasius sagt, dass der gute Vater alle Dinge **durch sein ewiges Wort** gesch
 
 Johannes von Damaskus fasst die orthodoxe Lehre so, dass der Vater alles durch den Sohn im Heiligen Geist wirkt. Die Schöpfung ist also kein isolierter Akt einer einzelnen Hypostase ohne die anderen, sondern ein Werk des einen dreieinigen Gottes. Zugleich bleibt die Ordnung der Hypostasen gewahrt: vom Vater, durch den Sohn, im Heiligen Geist.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

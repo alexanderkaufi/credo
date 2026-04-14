@@ -73,7 +73,7 @@ Chrysostomus betont zu Matthäus 1,21, dass die Schrift die Würde Christi oft d
 
 Kyrill macht außerdem deutlich, dass Jesus nicht erst ab seiner Geburt beginnt zu sein. Gerade weil der Name seine Heilsmission bezeichnet, zeigt er, dass der vor aller Zeit Seiende jetzt in der Geschichte mit einem menschlichen Namen auftritt.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 
@@ -106,7 +106,7 @@ Die Kirche ruft nicht zufällig immer wieder den Namen Jesu an. Der Name ist kei
 - bloß politische Rettung;
 - ein magisches Wort mit automatischer Wirkung.
 
-Im biblischen und orthodoxen Sinn bedeutet `Jesus` vielmehr:
+Im biblischen Sinn bedeutet `Jesus` vielmehr:
 
 - Gott rettet,
 - Gottes Heil tritt in die Geschichte,

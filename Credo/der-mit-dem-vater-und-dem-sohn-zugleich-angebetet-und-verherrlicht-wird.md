@@ -172,7 +172,7 @@ Johannes von Damaskus fasst die Lehre von der einen Anbetung der Dreifaltigkeit 
 - die Unterscheidung der Hypostasen,
 - die gleiche Ehre des Geistes mit Vater und Sohn.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

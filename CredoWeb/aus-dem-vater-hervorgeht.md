@@ -193,7 +193,7 @@ Damit gibt Johannes von Damaskus eine der klarsten orthodoxen Zusammenfassungen 
 
 Basilius hält die trinitarische Ordnung des Glaubens streng fest und weigert sich, den Heiligen Geist in den Bereich des Geschaffenen herabzuziehen. Auch wenn er den inneren Modus der göttlichen Hervorgänge nicht erklärt, schützt er die kirchliche Sprache davor, die personale Herkunft des Geistes mit der des Sohnes zu vermischen.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

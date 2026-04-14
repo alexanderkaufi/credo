@@ -62,7 +62,7 @@ Irenäus verteidigt gegen gnostische Systeme, dass es **einen** Gott gibt, der a
 
 Johannes von Damaskus beschreibt Gott als den, der alles umfasst, während er selbst von nichts umfasst wird. Diese Formulierung hilft zu verstehen, was Allmacht im orthodoxen Sinn bedeutet: Gott ist nicht Teil des Ganzen, sondern der Herr über das Ganze. Alles Geschaffene ist begrenzt, aber Gott allein ist unbegrenzt und trägt alles durch seine Macht und Vorsehung.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

@@ -107,7 +107,7 @@ Gregor erklärt, dass `gezeugt` nicht dasselbe ist wie `geschaffen`. Er lehnt di
 
 Johannes von Damaskus fasst die orthodoxe Lehre prägnant zusammen: Der Sohn ist vom Vater gezeugt, nicht gemacht. Damit ist er weder körperlich noch zeitlich hervorgebracht worden, sondern besitzt dieselbe göttliche Natur. `Nicht geschaffen` grenzt ihn von allem ab, was Gott erst ins Sein gerufen hat.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Unterschied zwischen Zeugung und Schöpfung
 

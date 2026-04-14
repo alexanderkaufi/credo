@@ -118,7 +118,7 @@ Chrysostomus betont, dass Christus nicht gezwungen war, ans Kreuz zu gehen. Gera
 
 Gregor spricht vom Leiden Christi immer wieder `für uns`. Für ihn bedeutet das: Christus nimmt das Unsrige an, damit er uns das Seine schenke. Sein Sterben ist nicht fremd neben uns, sondern geschieht zugunsten unserer Rettung und Erhöhung.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 

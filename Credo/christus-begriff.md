@@ -84,7 +84,7 @@ Kyrill betont auch, dass `Jesus` und `Christus` nicht zwei verschiedene Personen
 
 Johannes von Damaskus erklärt, dass Christus so genannt wird, weil seine menschliche Natur mit der Gottheit vereint und vom Heiligen Geist gesalbt ist. In ihm ist die Salbung nicht äußerlich, sondern gehört zum Geheimnis seiner Sendung und seines Menschwerdens.
 
-Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend auf Deutsch wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
+Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiedergegeben; direkte fremdsprachige Zitate würden als eigene Übersetzungen kenntlich gemacht.
 
 ## Theologische Bedeutung
 
