@@ -117,7 +117,7 @@ Darum ist der Name `Christus` für die Kirche immer auch ein Wort der Weihe, der
 - bloß äußere Salbung mit Öl,
 - bloß eine von Gott verliehene Ehrenstufe.
 
-Im biblischen und orthodoxen Sinn bedeutet `Christus` vielmehr:
+Im biblischen Sinn bedeutet `Christus` vielmehr:
 
 - der verheißene Messias,
 - der Gesalbte Gottes,
