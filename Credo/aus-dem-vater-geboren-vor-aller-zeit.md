@@ -32,7 +32,7 @@ Es bedeutet vielmehr:
 
 ### 2. `Geboren`
 
-Im Deutschen klingt `geboren` leicht nach zeitlicher und körperlicher Geburt. Im theologischen Sinn des Credos ist hier aber die **ewige Zeugung** des Sohnes gemeint. Darum kann man diesen Ausdruck auch im Zusammenhang mit `gezeugt, nicht geschaffen` lesen.
+Im Deutschen klingt `geboren` leicht nach zeitlicher und körperlicher Geburt. Im theologischen Sinn des Glaubensbekenntnisses ist hier aber die **ewige Zeugung** des Sohnes gemeint. Darum kann man diesen Ausdruck auch im Zusammenhang mit `gezeugt, nicht geschaffen` lesen.
 
 Mit `geboren` wird nicht gesagt, dass der Sohn später angefangen hätte zu existieren. Gemeint ist:
 

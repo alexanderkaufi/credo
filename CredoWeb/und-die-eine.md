@@ -156,7 +156,7 @@ Darum ist `eine` ein echtes Glaubenswort und nicht nur ein organisatorischer Zus
 Für das geistliche Leben bedeutet dieser Satz:
 
 - Der Christ glaubt nicht isoliert, sondern in der Gemeinschaft der Kirche.
-- Spaltung, Stolz und Eigenwilligkeit widersprechen dem Geist des Credos.
+- Spaltung, Stolz und Eigenwilligkeit widersprechen dem Geist des Glaubensbekenntnisses.
 - Einheit ist nicht Gleichmacherei, sondern Zusammenleben vieler Glieder in einem Leib.
 - Wer die Kirche als eine bekennt, lernt, den Glauben nicht privatistisch zu verstehen.
 

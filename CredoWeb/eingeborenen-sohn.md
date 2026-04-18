@@ -45,7 +45,7 @@ Dieses Wort bedeutet im biblischen Gebrauch:
 - der eine und unvergleichliche Sohn,
 - der einzig Geborene.
 
-In den neutestamentlichen Stellen über Christus zeigt das Wort nicht bloß Zuneigung, sondern seine **einzigartige Sohnschaft**. Im Zusammenhang des Credos und der kirchlichen Auslegung wird damit ausdrücklich die natürliche und ewige Sohnschaft Christi bekannt.
+In den neutestamentlichen Stellen über Christus zeigt das Wort nicht bloß Zuneigung, sondern seine **einzigartige Sohnschaft**. Im Zusammenhang des Glaubensbekenntnisses und der kirchlichen Auslegung wird damit ausdrücklich die natürliche und ewige Sohnschaft Christi bekannt.
 
 ## Biblische Grundlage
 

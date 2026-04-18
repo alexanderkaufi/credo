@@ -66,7 +66,7 @@ Darum ist die Formulierung so stark. Sie richtet den Glauben genau auf das, was 
 
 ## Nicht nur Unsterblichkeit der Seele
 
-Im christlichen Glauben lebt die Seele nach dem Tod weiter. Aber das allein ist noch nicht die ganze Hoffnung des Credos.
+Im christlichen Glauben lebt die Seele nach dem Tod weiter. Aber das allein ist noch nicht die ganze Hoffnung des Glaubensbekenntnisses.
 
 Denn die Auferstehung meint gerade:
 

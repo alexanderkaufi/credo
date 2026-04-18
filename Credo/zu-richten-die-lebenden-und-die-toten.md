@@ -76,7 +76,7 @@ Man kann darum sagen:
 - die Lebenden = die bei seiner Ankunft Lebenden,
 - die Toten = alle zuvor Gestorbenen.
 
-In weiterem geistlichen Sinn kann die kirchliche Auslegung manchmal auch an geistlich Lebende und geistlich Tote denken. Aber der Hauptsinn des Credos ist: Christus richtet alle Menschen.
+In weiterem geistlichen Sinn kann die kirchliche Auslegung manchmal auch an geistlich Lebende und geistlich Tote denken. Aber der Hauptsinn des Glaubensbekenntnisses ist: Christus richtet alle Menschen.
 
 ## Christus der Richter
 

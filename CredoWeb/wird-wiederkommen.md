@@ -150,7 +150,7 @@ Hinweis: Die patristischen Aussagen in dieser Datei sind zusammenfassend wiederg
 
 In dieser Datei geht es vor allem um das **Faktum der Wiederkunft**.
 
-Die nächsten Formulierungen des Credos entfalten dann genauer:
+Die nächsten Formulierungen des Glaubensbekenntnisses entfalten dann genauer:
 
 - `in Herrlichkeit`
 - `zu richten die Lebenden und die Toten`

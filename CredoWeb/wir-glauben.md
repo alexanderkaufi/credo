@@ -15,7 +15,7 @@ source: "credo/wir-glauben.md"
 
 Die Formulierung **„Wir glauben“** ist gut verständlich und theologisch sinnvoll. Sie erinnert daran, dass das Glaubensbekenntnis ursprünglich nicht nur als persönlicher Satz eines einzelnen Christen gesprochen wurde, sondern als **gemeinsames Bekenntnis der Kirche**. Die Bischöfe der ökumenischen Konzilien bekannten den Glauben gemeinsam gegen Irrlehren und gaben ihn der Kirche als verbindliche Glaubensform weiter.
 
-Im griechischen Anfangswort des Credos steht:
+Im griechischen Anfangswort des Glaubensbekenntnisses steht:
 
 `Πιστεύομεν εἰς ἕνα Θεόν`
 
@@ -44,7 +44,7 @@ Beides ist also nicht gegeneinander auszuspielen. Es sind zwei legitime Ebenen d
 
 ### 1. Das Konzil spricht als gemeinsames Bekenntnis der Kirche
 
-Eine klassische Textüberlieferung des griechischen Credos gibt den Anfang ausdrücklich mit `Πιστεύομεν` wieder, also **„Wir glauben“**. Damit spricht das Konzil nicht bloß individuell, sondern **als versammelte Kirche**.
+Eine klassische Textüberlieferung des griechischen Glaubensbekenntnisses gibt den Anfang ausdrücklich mit `Πιστεύομεν` wieder, also **„Wir glauben“**. Damit spricht das Konzil nicht bloß individuell, sondern **als versammelte Kirche**.
 
 ### 2. Der heilige Athanasius verteidigt genau dieses Konzilsbekenntnis
 
@@ -79,7 +79,7 @@ Die Orthodox Church in America erklärt, dass das Glaubensbekenntnis später in 
 Die Form `Wir glauben` ist nicht nur historisch-konziliar sinnvoll, sondern passt auch gut zur biblischen Sprache des gemeinsamen Bekenntnisses:
 
 - **2 Kor 4,13**: „Darum glauben auch wir, darum reden wir auch.“ Das stützt direkt die gemeinschaftliche Form `wir glauben`.
-- **1 Kor 8,6**: „so haben wir doch nur einen Gott, den Vater ... und einen Herrn Jesus Christus“. Diese Stelle steht dem Wortlaut des Credos besonders nahe.
+- **1 Kor 8,6**: „so haben wir doch nur einen Gott, den Vater ... und einen Herrn Jesus Christus“. Diese Stelle steht dem Wortlaut des Glaubensbekenntnisses besonders nahe.
 - **Eph 4,4-6**: „ein Leib ... ein Herr, ein Glaube, eine Taufe, ein Gott und Vater aller“. Diese Verse zeigen, dass der Glaube immer auch kirchlich-gemeinsam bekannt wird.
 
 Zugleich kennt die Heilige Schrift auch die persönliche Form des Bekenntnisses:
@@ -117,5 +117,5 @@ Wenn du dagegen die **heute in der orthodoxen Liturgie meist gebräuchliche Form
 4. Heiliger Kyrill von Jerusalem, *Mystagogical Catechesis 1*  
    https://www.ccel.org/ccel/schaff/npnf207.ii.xxiii.html
 
-5. Philip Schaff / CCEL, griechischer Text des nizänischen und nizäno-konstantinopolitanischen Credos  
+5. Philip Schaff / CCEL, griechischer Text des nizänischen und nizäno-konstantinopolitanischen Glaubensbekenntnisses  
    https://www.ccel.org/ccel/schaff/hcc3.iii.xii.xiii.html

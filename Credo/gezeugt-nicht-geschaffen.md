@@ -2,7 +2,7 @@
 
 ## Kurze Zusammenfassung
 
-`Gezeugt, nicht geschaffen` ist eine der schärfsten Formeln des Credos. Sie sagt: Der Sohn stammt **wirklich aus dem Vater**, aber **nicht wie ein Geschöpf** aus Gottes Willen oder Machtakt. Er gehört nicht zur geschaffenen Welt, sondern zur göttlichen Wirklichkeit. `Gezeugt` bezeichnet seine ewige Sohnschaft; `nicht geschaffen` schließt jede Vorstellung aus, Christus sei nur das höchste oder erste Geschöpf.
+`Gezeugt, nicht geschaffen` ist eine der schärfsten Formeln des Glaubensbekenntnisses. Sie sagt: Der Sohn stammt **wirklich aus dem Vater**, aber **nicht wie ein Geschöpf** aus Gottes Willen oder Machtakt. Er gehört nicht zur geschaffenen Welt, sondern zur göttlichen Wirklichkeit. `Gezeugt` bezeichnet seine ewige Sohnschaft; `nicht geschaffen` schließt jede Vorstellung aus, Christus sei nur das höchste oder erste Geschöpf.
 
 ## Erklärung
 
@@ -78,7 +78,7 @@ So wird klar: Der Sohn ist wirklich vom Vater und zugleich radikal von allen Ges
 - **Psalm 2,7**: „Du bist mein Sohn.“ Diese Stelle wird christologisch auf die wahre Sohnschaft bezogen.
 - **Sprüche 8,25** in patristischer Lesart: „Vor den Hügeln hat er mich gezeugt.“ Gerade Athanasius nutzt diese Stelle, um zwischen `schaffen` und `zeugen` zu unterscheiden.
 
-Die Schrift verwendet nicht überall genau die Formel des Credos, aber sie liefert die Grundlage für den Unterschied: Der Sohn ist vom Vater, aber nicht Teil der geschaffenen Welt.
+Die Schrift verwendet nicht überall genau die Formel des Glaubensbekenntnisses, aber sie liefert die Grundlage für den Unterschied: Der Sohn ist vom Vater, aber nicht Teil der geschaffenen Welt.
 
 ## Patristische Begründung
 

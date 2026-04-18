@@ -202,7 +202,7 @@ Johannes von Damaskus bekennt `eine Taufe zur Vergebung der Sünden und zum ewig
 - die Ernsthaftigkeit der einen Taufe,
 - und ihre Größe als Anfang des Heils.
 
-Er reduziert die Taufe nicht auf bloße Symbolik und bestätigt die klassische Sprache des Credos.
+Er reduziert die Taufe nicht auf bloße Symbolik und bestätigt die klassische Sprache des Glaubensbekenntnisses.
 
 ## Theologische Bedeutung
 

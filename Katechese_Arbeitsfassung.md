@@ -100,14 +100,14 @@ Das Glaubensbekenntnis hat auch eine enge Verbindung zur Taufe. Wer getauft wird
 - Das Glaubensbekenntnis langsam und bewusst beten, nicht nur aufsagen.
 - Jede Woche einen Satz auswählen und im persönlichen Gebet bedenken.
 - Beim Besuch der Liturgie darauf achten, an welcher Stelle das Glaubensbekenntnis gesprochen wird und warum.
-- Sich fragen: Welcher Satz des Credos ist mir vertraut, welcher ist mir noch fremd?
+- Sich fragen: Welcher Satz des Glaubensbekenntnisses ist mir vertraut, welcher ist mir noch fremd?
 
 ### Vorschlag für die Katechese-Stunde
 - Einstieg: Was ist der Unterschied zwischen persönlicher Meinung und kirchlichem Glaubensbekenntnis?
 - Lesung: Mt 28,19 und 1 Kor 15,1-5
-- Lehrteil: Entstehung, Funktion und Platz des Credos im Leben der Kirche
+- Lehrteil: Entstehung, Funktion und Platz des Glaubensbekenntnisses im Leben der Kirche
 - Gespräch: Warum braucht Liebe zur Wahrheit klare Worte?
-- Abschluss: gemeinsames Sprechen des Credos
+- Abschluss: gemeinsames Sprechen des Glaubensbekenntnisses
 
 ### Fragen zum Verstehen
 1. Warum genügt es nicht zu sagen: „Ich glaube einfach an Gott“, ohne den Glauben näher zu bestimmen?
@@ -137,7 +137,7 @@ Das Glaubensbekenntnis ist die Stimme der Kirche, in der die Schrift geglaubt, d
 Der eine Gott ist kein fernes Prinzip und keine unpersönliche Macht, sondern der lebendige Vater, der in Freiheit, Wahrheit und Liebe schafft, trägt und rettet.
 
 ### Einführung
-Die erste Zeile des Credos ist bereits ein ganzes Glaubensprogramm. Sie beginnt mit „Ich glaube“. Der Glaube ist also nicht zuerst ein Besitz, sondern eine Antwort. Dann folgt „an den einen Gott“. Der Glaube der Kirche ist kein religiöser Pluralismus, sondern klares Bekenntnis zum einen Gott. Schließlich nennt das Glaubensbekenntnis diesen einen Gott den Vater und den Allmächtigen. Schon hier wird sichtbar: Gottes Einheit ist nicht Einsamkeit, und Gottes Macht ist nicht Willkür.
+Die erste Zeile des Glaubensbekenntnisses ist bereits ein ganzes Glaubensprogramm. Sie beginnt mit „Ich glaube“. Der Glaube ist also nicht zuerst ein Besitz, sondern eine Antwort. Dann folgt „an den einen Gott“. Der Glaube der Kirche ist kein religiöser Pluralismus, sondern klares Bekenntnis zum einen Gott. Schließlich nennt das Glaubensbekenntnis diesen einen Gott den Vater und den Allmächtigen. Schon hier wird sichtbar: Gottes Einheit ist nicht Einsamkeit, und Gottes Macht ist nicht Willkür.
 
 ### 1. „Ich glaube“
 Im biblischen und orthodoxen Sinn bedeutet Glaube mehr als das Für-wahrscheinlich-Halten einer Aussage. Glaube ist:
@@ -406,7 +406,7 @@ Gegen arianische Verkürzungen haben die Väter mit großer sprachlicher Präzis
 ### Häufige Missverständnisse
 - Missverständnis: Christus ist eine Art Halbgott.  
   Klärung: Das Glaubensbekenntnis schließt jede abgestufte Gottheit aus.
-- Missverständnis: Die Bilder des Credos seien nur poetisch, nicht dogmatisch.  
+- Missverständnis: Die Bilder des Glaubensbekenntnisses seien nur poetisch, nicht dogmatisch.  
   Klärung: Sie haben präzise lehrhafte Funktion.
 
 ---
@@ -978,7 +978,7 @@ Die Väter unterscheiden sorgfältig zwischen dem ewigen Ursprung des Geistes un
 - **Durch den Sohn gesandt:** Die Heilsökonomie darf nicht mit dem ewigen Ursprung verwechselt werden.
 
 ### Liturgische Verortung
-- Die orthodoxe Kirche bewahrt den Wortlaut des Credos ohne Zusatz.
+- Die orthodoxe Kirche bewahrt den Wortlaut des Glaubensbekenntnisses ohne Zusatz.
 - In trinitarischen Hymnen bleibt die Ordnung Vater, Sohn und Heiliger Geist gewahrt.
 
 ### Geistliche Praxis
@@ -1277,7 +1277,7 @@ Die Väter sprechen über Himmel und Hölle zurückhaltend und betonen vor allem
 Wenn du diese Fassung weiter vertiefen willst, können wir als Nächstes ergänzen:
 
 1. **Leiterfassung pro Einheit:** mit Einstiegsfrage, Zeitplan und Abschlussgebet.
-2. **Anhang mit Wortlaut des Credos:** deutsch und optional griechisch.
+2. **Anhang mit Wortlaut des Glaubensbekenntnisses:** deutsch und optional griechisch.
 3. **Begriffslexikon:** zentrale Begriffe wie Theosis, Ökonomie, Wesenseinheit, Theotokos.
 4. **Tabellenübersicht:** Glaubensbekenntnis-Passage, Bibelstellen, Merksatz und Lernziel auf einer Seite.
 5. **Kurzfassung für Teilnehmende:** als Handout mit Merksätzen und Fragen.

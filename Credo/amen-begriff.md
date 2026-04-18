@@ -79,7 +79,7 @@ In der biblischen und liturgischen Sprache ist `Amen` oft Antwort der Gemeinde a
 - Bund,
 - und Bekenntnis.
 
-Gerade deshalb passt `Amen` so stark an das Ende des Credos. Denn dort sagt die Kirche nicht nur etwas über Gott, sondern sie antwortet Gott.
+Gerade deshalb passt `Amen` so stark an das Ende des Glaubensbekenntnisses. Denn dort sagt die Kirche nicht nur etwas über Gott, sondern sie antwortet Gott.
 
 Kyrill von Jerusalem sagt in seiner mystagogischen Katechese zum Vaterunser, dass man durch das `Amen` sein Siegel auf die göttlich gelehrten Bitten setzt. Das lässt sich sehr gut auch auf das Glaubensbekenntnis anwenden:
 
